@@ -1,0 +1,8 @@
+﻿SELECT track_mbid, sum(cast(track_playcount as int)) AS playcounts
+
+from user_profile_collection
+
+GROUP BY 
+	track_mbid
+
+ORDER BY playcounts DESC;

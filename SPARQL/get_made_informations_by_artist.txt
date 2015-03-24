@@ -1,0 +1,31 @@
+PREFIX mo: <http://purl.org/ontology/mo/>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+PREFIX dc: <http://purl.org/dc/elements/1.1/>
+
+
+SELECT 
+       (xsd:string(?name) As ?artist)
+       (xsd:string(?label) As ?title_release)
+       (xsd:string(?record_title) As ?record_title)     
+       (xsd:string(?trackTitle) As ?trackTitle)
+       ?release
+       ?record
+       ?track
+       (xsd:double(?duration/60000) AS ?duration)
+
+WHERE {
+      <http://musicbrainz.org/artist/83d91898-7763-47d7-b03b-b92132375c47#_>
+      foaf:name ?name;
+      foaf:made ?release.	
+      ?release mo:record ?record.	
+      ?record mo:track ?track.
+      ?track mo:duration ?duration.
+      ?release dc:title ?label.
+      ?record dc:title ?record_title.
+      ?track dc:title ?trackTitle.
+      
+      
+}
+ORDER BY ?title_release
+
+LIMIT 100

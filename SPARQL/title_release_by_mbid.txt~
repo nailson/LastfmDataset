@@ -1,0 +1,14 @@
+PREFIX mo: <http://purl.org/ontology/mo/>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+PREFIX dc: <http://purl.org/dc/elements/1.1/>
+
+SELECT	(COUNT(?Release) AS ?COUNT) ?label
+
+WHERE	{
+    <http://musicbrainz.org/artist/8538e728-ca0b-4321-b7e5-cff6565dd4c0#_> foaf:made ?Release.
+    ?Release rdf:type mo:Release.
+    ?Release dc:title ?label.
+}	
+GROUP BY ?label	
+ORDER BY DESC(?COUNT)	
+LIMIT 20	
