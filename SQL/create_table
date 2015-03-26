@@ -1,0 +1,18 @@
+﻿
+
+
+CREATE TABLE user_profile_collection (
+
+userName varchar(255),
+trackName varchar(255),
+trackDuration float,
+trackPlaycount integer,
+trackMbid text,
+trackUrl text,
+trackRank integer,
+artistName text,
+artistMbid text,
+artistUrl text
+
+
+);
