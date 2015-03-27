@@ -1,0 +1,17 @@
+﻿
+
+SELECT AVG(COUNT(countT ))
+
+FROM 
+
+(
+	SELECT CAST(count(trackname) AS INTEGER )
+
+	FROM user_profile_collection
+
+	GROUP BY username
+	
+
+) countT
+
+

@@ -1,0 +1,7 @@
+﻿
+
+COPY user_profile_collection  ( userName, trackName, trackDuration, trackPlaycount, trackMbid, trackUrl, trackRank, artistName, artistMbid, artistUrl ) 
+
+FROM  '/home/nailson/Documentos/Mestrado/Datasets/coletaLastfm/coleta3.txt' 
+
+WITH  ( DELIMITER  E'\t' );

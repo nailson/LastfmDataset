@@ -1,0 +1,18 @@
+﻿
+DROP TABLE user_profile_collection;
+
+
+CREATE TABLE user_profile_collection
+(
+  username text,
+  trackname text,
+  trackduration text,
+  trackplaycount text,
+  trackmbid text,
+  trackurl text,
+  trackrank text,
+  artistname text,
+  artistmbid text,
+  artisturl text
+  
+);

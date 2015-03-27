@@ -1,0 +1,20 @@
+﻿
+
+SELECT count_track.username
+
+FROM 
+(
+
+SELECT username, CAST(count(trackname) AS INTEGER ) AS count_track
+
+FROM lastfm_dataset
+
+GROUP BY username
+
+ORDER BY count_track
+
+) count_track
+
+
+WHERE count_track > 80
+
