@@ -1,0 +1,12 @@
+﻿
+--SELECT   CAST(trackduration AS INTEGER)
+
+--FROM
+
+--lastfm_dataset
+
+--WHERE trackduration!=''
+
+--LIMIT 100
+
+SELECT a.artistname, count(a.artistname) from lastfm_dataset a group by (a.artistname);
