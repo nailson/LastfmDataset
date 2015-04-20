@@ -1,0 +1,19 @@
+﻿INSERT INTO lastfm_dataset_artists
+
+SELECT 
+	username,
+	SUM( CAST(trackplaycount AS INTEGER) ) as artist_playcount,
+	artistname,
+	artistmbid,
+	artisturl
+	
+FROM 
+	lastfm_dataset
+
+GROUP BY 
+	username, artistname, artistmbid, artisturl
+	
+ORDER BY
+	username ASC,
+	artist_playcount DESC
+	
