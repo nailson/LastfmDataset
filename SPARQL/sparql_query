@@ -1,0 +1,9 @@
+
+
+SELECT * WHERE {
+
+{ ?s <http://dbpedia.org/ontology/musicSubgenre>  <http://dbpedia.org/resource/Rock_music>.   FILTER isIRI(?s).  }
+
+UNION 
+
+{<http://dbpedia.org/resource/Rock_music> <http://dbpedia.org/ontology/musicSubgenre>  ?o FILTER isIRI(?o). }}

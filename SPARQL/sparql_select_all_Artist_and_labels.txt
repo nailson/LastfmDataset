@@ -1,0 +1,9 @@
+SELECT ?o, ?s
+
+WHERE { 
+            ?o rdf:type dbpedia-owl:Artist.
+            ?o <http://pt.dbpedia.org/property/nome> ?s.
+			?o <http://xmlns.com/foaf/0.1/name> ?n.
+     }
+
+OFFSET 0 LIMIT 10000
