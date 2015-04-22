@@ -24,3 +24,5 @@ x$url_mb = paste("<http://musicbrainz.org/artist/", x$mbid,"#_>", sep="")
 lastLinked = rbind(linkedbase2, x)
 
 write.table(lastLinked, file="mapping_LF_dbpedia_artists.tsv", sep="\t", quote=F, row.names=F, col.names=F)
+
+write.table(artists_url, file="artists_url.tsv", sep="\t", quote=F, row.names=F, col.names=F)
