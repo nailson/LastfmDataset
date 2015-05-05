@@ -1,0 +1,6 @@
+SELECT * WHERE {
+
+{ ?s <http://dbpedia.org/ontology/bandMember>  <http://dbpedia.org/resource/Asako_Toki>.   FILTER isIRI(?s).  }
+
+
+{ ?s <http://dbpedia.org/ontology/genre>  ?o FILTER isIRI(?o). }}
