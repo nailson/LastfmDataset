@@ -1,6 +1,6 @@
 #install.packages("fpc")
 library("fpc")
-
+#matrixSimmilarity = matrix_simmilarity[,c(1:8962)]
 matrixSimmilarity <- read.delim("~/GitHub/mestrado_UFCG/Java Workspace/DiversificationAlgorithms/data/allItem_Category.tsv")
 matrixSimmilarity = matrixSimmilarity[,c(1:1883)]
 
@@ -11,7 +11,7 @@ dissimilarity = 1.0-matrixSimmilarity
 # k nearest neighbours
 f <- function(a) {
   a_sorted = sort(a,decreasing=F)
-  a_sorted = a_sorted[c(2:20)]
+  a_sorted = a_sorted[c(2:100)]
   x = mean(a_sorted)
   return (x)
 }
@@ -19,10 +19,12 @@ f <- function(a) {
 plot(sort(apply(dissimilarity, 1, f)),xlab="k-nearest neighbour distance", ylab="Sorted Points", main="Average K-Dist sorted plot")
 hist(matrixSimmilarity[matrixSimmilarity!=0.0])
 
-results = dbscan(data = dissimilarity, eps=0.15, MinPts= 20, method="dist", showplot=T,)
+results = dbscan(data = dissimilarity, eps=0.2, MinPts= 20, method="dist", showplot=T,)
 results
 
-results$cluster
+clustered_users = data.frame(user=substring(colnames(dissimilarity),2), cluster=results$cluster)
 
-dbscan(data = dissimilarity, eps=0.15, MinPts= 20, method="dist", showplot=T,)
+boxplot(results)
+
+dbscan(data = dissimilarity, eps=0.14, MinPts= 20, method="dist", showplot=T,)
 
