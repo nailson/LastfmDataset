@@ -15,7 +15,7 @@ new_dataset2 = merge( new_dataset, x, by.x="mbid", by.y="V3" )
 dataset = new_dataset2[,c("id_user", "V1", "weight")]
 colnames(dataset) = c("id_user", "V1", "weight")
 
-write.table(dataset, file="dataset.tsp", sep="\t", row.names=F, col.names=F, quote=F)
+write.table(dataset, file="dataset.tsv", sep="\t", row.names=F, col.names=F, quote=F)
 
 
 # some analysis from data
@@ -32,17 +32,22 @@ dataset = dataset[ !(dataset$id_user%in%users_coldstart), ]
 weight_aggregate = aggregate(dataset$weight, by=list(dataset$id_user), FUN=sum )
 summary(weight_aggregate$x)
 plot(sort(weight_aggregate$x))
-length(weight_aggregate$x>100000)
+boxplot(weight_aggregate$x[weight_aggregate$x<50000])
+
+length(weight_aggregate$x[weight_aggregate$x<50000])
+users_outliers = weight_aggregate[weight_aggregate$x>100000,1]
+dataset = dataset[ !(dataset$id_user%in%users_outliers), ]
 
 # aggregate of length artists
 artists_aggregate = aggregate(dataset$V1, by=list(dataset$V1), FUN=length )
 summary(artists_aggregate$x)
 plot(sort(artists_aggregate$x))
+head(artists_aggregate[order(-artists_aggregate$x),])
 
 # aggregate of artists weight
 artists_weight_aggregate = aggregate(dataset$weight, by=list(dataset$V1), FUN=sum )
 summary(artists_weight_aggregate$x)
 plot(sort(artists_weight_aggregate$x))
 artists_weight_aggregate = artists_weight_aggregate[order(-artists_weight_aggregate$x),]
-head(artists_weight_aggregate, n=20)
+head(artists_weight_aggregate, n=10)
 plot(artists_weight_aggregate[c(1:1000),c("x")])
