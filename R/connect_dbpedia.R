@@ -26,3 +26,9 @@ lastLinked = rbind(linkedbase2, x)
 write.table(lastLinked, file="mapping_LF_dbpedia_artists.tsv", sep="\t", quote=F, row.names=F, col.names=F)
 
 write.table(artists_url, file="artists_url.tsv", sep="\t", quote=F, row.names=F, col.names=F)
+
+x = x[,c(2,1,3,4,5)]
+
+write.table(x, file="new_artists_url.tsv", sep="\t", quote=F, row.names=F, col.names=F)
+write.table(user_url, file="new_artists_url.tsv", sep="\t", quote=F, row.names=F, col.names=F)
+write.table(y, file="new_not_mapped_LF_dbpedia_artists.tsv", sep="\t", quote=F, row.names=F, col.names=F)
