@@ -1,0 +1,13 @@
+SELECT ?o, ?s, ?p, ?r, ?t
+
+WHERE { 
+            ?o rdf:type dbpedia-owl:MusicGenre.
+            ?o <http://dbpedia.org/ontology/derivative> ?s.
+            ?o <http://dbpedia.org/ontology/stylisticOrigin> ?p.
+            ?o <http://dbpedia.org/ontology/musicSubgenre> ?r.
+            ?o <http://dbpedia.org/ontology/musicFusionGenre> ?t.
+ 
+	   
+     }
+
+OFFSET 0 LIMIT 10000
