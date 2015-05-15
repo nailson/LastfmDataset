@@ -13,6 +13,7 @@ colnames(new_dataset) = c("username", "mbid", "weight", "id_user")
 mapping_LF_dbpedia_artists <- read.delim("~/GitHub/LastfmDataset/data/mapping_LF_dbpedia_artists.tsv", header=F, dec=",", quote="'")
 new_dataset2 = merge( new_dataset, x, by.x="mbid", by.y="V3" )
 dataset = new_dataset2[,c("id_user", "V1", "weight")]
+
 colnames(dataset) = c("id_user", "V1", "weight")
 
 write.table(dataset, file="dataset.tsv", sep="\t", row.names=F, col.names=F, quote=F)
@@ -24,9 +25,18 @@ summary(user_aggregate$x)
 boxplot(user_aggregate$x)
 hist(user_aggregate$x)
 
-# remove users with less than 20 artists
+# remove users with less than 30 artists
 users_coldstart = user_aggregate[ user_aggregate$x < 30, 1]
 dataset = dataset[ !(dataset$id_user%in%users_coldstart), ]
+
+# remove profiles with more than 200 relations
+length(user_aggregate[ user_aggregate$x > 200, 1])
+head(user_aggregate[ user_aggregate$x > 200, ], n=20)
+split.data <- split(dataset, dataset$id_user)
+subsetted.data <- lapply(split.data, FUN = function(x) head(x, 200)) # or ..., FUN = head, 5) like above
+dataset <- do.call("rbind", subsetted.data)
+head(dataset)
+
 
 # analysis of user weight
 weight_aggregate = aggregate(dataset$weight, by=list(dataset$id_user), FUN=sum )
@@ -42,12 +52,22 @@ dataset = dataset[ !(dataset$id_user%in%users_outliers), ]
 artists_aggregate = aggregate(dataset$V1, by=list(dataset$V1), FUN=length )
 summary(artists_aggregate$x)
 plot(sort(artists_aggregate$x))
-head(artists_aggregate[order(-artists_aggregate$x),])
+head(artists_aggregate[order(-artists_aggregate$x),],n=20)
+length(artists_aggregate[artists_aggregate$x<5,1])
 
 # aggregate of artists weight
 artists_weight_aggregate = aggregate(dataset$weight, by=list(dataset$V1), FUN=sum )
 summary(artists_weight_aggregate$x)
 plot(sort(artists_weight_aggregate$x))
 artists_weight_aggregate = artists_weight_aggregate[order(-artists_weight_aggregate$x),]
-head(artists_weight_aggregate, n=10)
+head(artists_weight_aggregate[order(-artists_weight_aggregate$x),], n=10)
 plot(artists_weight_aggregate[c(1:1000),c("x")])
+
+# removing low weights
+summary(dataset$weight)
+dataset[dataset$weight > 10000,]
+length(dataset[dataset$weight < 10,1])
+
+dataset = dataset[dataset$weight >= 10,]
+
+
