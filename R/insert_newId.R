@@ -1,12 +1,27 @@
-x = old_category[!(old_category$V2%in%categories$V1),]
-x = data.frame( V1=x$V2, V2=c(1511:1647) )
-y = rbind(categories,x)
-y=y[,c(2,1)]
-colnames(y) = c("id","url")
+colnames(categories) = c("id","url")
+colnames(genre_connection) = c("url1","url2")
 
+derivative = unique(append (as.character(genre_connection$url1), as.character(genre_connection$url2))) 
 
+newcat = ( derivative[!(derivative%in%as.character(categories$url))])
+index = length(categories$id)+1
 
-x = merge(musicderivativeFinal, old_category, by.x="V1", by.y="V1", )
-colnames(x)=c("oldid","newid","url")
-x = x[,c(1,2)]
-z = merge(x, y, by.x="oldid", by.y="url", )
+categories = rbind( categories, data.frame(  id = c(index:(index+length(newcat)-1))   ,  url=newcat) )
+
+newderivate = merge(  categories , genre_connection, by.x="url", by.y="url1", )
+newderivate = newderivate[,c(2,3)]
+colnames(newderivate) = c("id_genre1","url_genre2")
+newderivate = merge(  categories , newderivate, by.x="url", by.y="url_genre2", )
+newderivate = newderivate[,c(3,2)]
+colnames(newderivate) = c("id_genre1","id_genre2")
+newderivate = newderivate[order(newderivate$id_genre1),]
+
+write.table(newderivate, file="derivative.tsv", sep="\t", quote=F, row.names=F, col.names=F)
+
+write.table(newderivate, file="instrument.tsv", sep="\t", quote=F, row.names=F, col.names=F)
+
+write.table(newderivate, file="fusiongenre.tsv", sep="\t", quote=F, row.names=F, col.names=F)
+
+write.table(newderivate, file="subgenre.tsv", sep="\t", quote=F, row.names=F, col.names=F)
+
+write.table(newderivate, file="stylistic.tsv", sep="\t", quote=F, row.names=F, col.names=F)
