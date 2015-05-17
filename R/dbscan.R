@@ -1,5 +1,7 @@
 #install.packages("fpc")
 library("fpc")
+install.packages("mgcv")
+library("mgcv")
 
 matrixSimmilarity <- read.delim("~/GitHub/mestrado_UFCG/Java Workspace/DiversificationAlgorithms/data/allItem_Category.tsv")
 matrixSimmilarity = UserMatrixSimmilarity
@@ -23,7 +25,9 @@ plot(sort(apply(dissimilarity, 1, f)),xlab="k-nearest neighbour distance", ylab=
 
 # pamk : partitioning around medoids clustering with the number of clusters estimated by optimum average silhouette width
 # input : data, krange, criterion, usepam, scaling, alpha, diss, critout, ns, ...
-pamk(data=dissimilarity, krange=2:10,criterion="asw", usepam=TRUE,)
+pamkResult = pamk(data=dissimilarity, krange=2:10,criterion="asw", usepam=TRUE,)
+pamkResult$
+save(pamkResult, file='pamkResult.rda')
 
 # dbscan : Generates a density based clustering of arbitrary shape
 # input : data, eps, minPoints, scale, method, seeds, showplot, countmode, ...
