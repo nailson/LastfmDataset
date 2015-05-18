@@ -26,12 +26,15 @@ plot(sort(apply(dissimilarity, 1, f)),xlab="k-nearest neighbour distance", ylab=
 # pamk : partitioning around medoids clustering with the number of clusters estimated by optimum average silhouette width
 # input : data, krange, criterion, usepam, scaling, alpha, diss, critout, ns, ...
 pamkResult = pamk(data=dissimilarity, krange=2:10,criterion="asw", usepam=TRUE,)
-pamkResult$
 save(pamkResult, file='pamkResult.rda')
+load(file="C:/Users/Nailson/Dropbox/pamkResult.rda", )
+
+pamkResult
+
 
 # dbscan : Generates a density based clustering of arbitrary shape
 # input : data, eps, minPoints, scale, method, seeds, showplot, countmode, ...
-results = dbscan(data = dissimilarity, eps=0.17, MinPts= 20, method="dist", showplot=T,)
+results = dbscan(data = dissimilarity, eps=0.15, MinPts= 100, method="dist", showplot=T,)
 results
 dbscanCBI
 
@@ -43,3 +46,7 @@ boxplot(results)
 
 dbscan(data = dissimilarity, eps=0.14, MinPts= 20, method="dist", showplot=T,)
 
+
+# kmeans
+resultKmeans = kmeans(dissimilarity, centers=8)
+save(resultKmeans, file='resultKmeans.rda')
