@@ -40,12 +40,13 @@ write.table(clustered_users, quote=F, sep="\t", file="pamk.tsv")
 
 # dbscan : Generates a density based clustering of arbitrary shape
 # input : data, eps, minPoints, scale, method, seeds, showplot, countmode, ...
-results = dbscan(data = dissimilarity, eps=0.25, MinPts= 100, method="dist", showplot=F, )
+results = dbscan(data = dissimilarity, eps=0.15, MinPts= 100, method="dist", showplot=F, )
 results
 
 #  Validate Cluster dbscan
 clusterStatsdbscan = cluster.stats(d = dissimilarity, clustering= results$cluster)
 clustered_users = data.frame(user=substring(colnames(dissimilarity),2), cluster=results$cluster)
+clusterStatsdbscan$clus.avg.silwidths
 
 boxplot(results)
 
