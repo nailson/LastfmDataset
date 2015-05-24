@@ -23,10 +23,10 @@ write.table(dataset, file="dataset.tsv", sep="\t", row.names=F, col.names=F, quo
 user_aggregate = aggregate(dataset$id_user, by=list(dataset$id_user), FUN=length )
 summary(user_aggregate$x)
 boxplot(user_aggregate$x)
-hist(user_aggregate$x)
+hist(user_aggregate$x, main="number of Artists in User profile", xlab = "Artists in profile")
 
 # remove users with less than 30 artists
-users_coldstart = user_aggregate[ user_aggregate$x < 30, 1]
+users_coldstart = user_aggregate[ user_aggregate$x < 50, 1]
 dataset = dataset[ !(dataset$id_user%in%users_coldstart), ]
 
 # remove profiles with more than 200 relations
@@ -39,13 +39,15 @@ head(dataset)
 
 
 # analysis of user weight
-weight_aggregate = aggregate(dataset$weight, by=list(dataset$id_user), FUN=sum )
+weight_aggregate = aggregate(as.numeric(dataset$weight), by=list(dataset$id_user), FUN=sum )
 summary(weight_aggregate$x)
-plot(sort(weight_aggregate$x))
-boxplot(weight_aggregate$x[weight_aggregate$x<50000])
+plot(sort(weight_aggregate$x), main="Aggregation of sum of weights by User", ylab = "Aggregate Weight")
+boxplot(weight_aggregate$x,outline = F)
 
-length(weight_aggregate$x[weight_aggregate$x<50000])
-users_outliers = weight_aggregate[weight_aggregate$x>100000,1]
+length(weight_aggregate$x[weight_aggregate$x<120000])
+
+users_outliers = weight_aggregate[weight_aggregate$x>120000,1]
+
 dataset = dataset[ !(dataset$id_user%in%users_outliers), ]
 
 # aggregate of length artists
@@ -58,16 +60,20 @@ length(artists_aggregate[artists_aggregate$x<5,1])
 # aggregate of artists weight
 artists_weight_aggregate = aggregate(dataset$weight, by=list(dataset$V1), FUN=sum )
 summary(artists_weight_aggregate$x)
-plot(sort(artists_weight_aggregate$x))
+plot(sort(artists_weight_aggregate$x), main="Aggregation of sum of weights by Artist", ylab = "Aggregate Weight")
 artists_weight_aggregate = artists_weight_aggregate[order(-artists_weight_aggregate$x),]
 head(artists_weight_aggregate[order(-artists_weight_aggregate$x),], n=10)
 plot(artists_weight_aggregate[c(1:1000),c("x")])
 
 # removing low weights
 summary(dataset$weight)
-dataset[dataset$weight > 10000,]
+plot(sort(dataset$weight), main="Sorted User weight", ylab = "Weight")
+
+usersoutlier = dataset[dataset$weight > 14000,1]
+dataset = dataset[ !(dataset$id_user%in%usersoutlier), ]
+
 length(dataset[dataset$weight < 10,1])
 
 dataset = dataset[dataset$weight >= 10,]
 
-
+dataset[dataset$id_user==456,]
