@@ -1,5 +1,8 @@
 
-merged_ILS = merge(allItem_ILS, allItem_ILS_BPRMF, by.x="User", by.y="User", )
+boxplot(allItem_ILS_Dataset$ILS_5)
+summary(allItem_ILS_Dataset$ILS_5)
+
+merged_ILS = merge(allItem_ILS_Dataset, allItem_ILS_BPRMF, by.x="User", by.y="User", )
 colnames(merged_ILS) = c("User", "Profile_ILS", "BPFMF_ILS")
 merged_ILS = merged_ILS[order(-merged_ILS$BPFMF_ILS),]
 
