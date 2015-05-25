@@ -47,9 +47,11 @@ def getTracks_by_User(artistMbid, f):
 		if(r.text == "" or r.text == '""'):
 			continue
 		
-		if 'error' in r.text:
-			print(artistMbid)
-			continue
+		#if 'error' in r.text:
+			#print(string_request + options + '&page=' + str(page_number))
+			#print(r.text)
+			#print("error")
+			#continue
 		
 
 		jsonResult = json.loads(unicode(r.text).encode('ascii', 'ignore'))
@@ -63,21 +65,30 @@ def getTracks_by_User(artistMbid, f):
 		if jsonResult.has_key('toptags') == True:
 		
 			if 'tag' not in r.text:
+				#print(string_request + options + '&page=' + str(page_number))
 				print(artistMbid)
 				#print(r.text)
 				continue
 			if 'count' not in r.text:
+				#print(string_request + options + '&page=' + str(page_number))
 				print(artistMbid)
 				#print(r.text)
 				continue
 			if 'url' not in r.text:
+				#print(string_request + options + '&page=' + str(page_number))
 				print(artistMbid)
 				#print(r.text)
 				continue
 		
 			totalPages = 1;
 			#print(jsonResult['toptracks']['track']['name'])
-			for tag in jsonResult['toptags']['tag']:
+
+			tagName = str(unicode( jsonResult['toptags']['tag']['name'] ).encode('ascii', 'ignore'))
+			tagCount =  jsonResult['toptags']['tag']['count']
+			tagUrl =  str(unicode(  jsonResult['toptags']['tag']['url'] ).encode('ascii', 'ignore'))
+			f.write(artistMbid+"\t"+tagName+"\t"+tagCount+"\t"+tagUrl+"\n")
+
+			'''for tag in jsonResult['toptags']['tag']:
 				try:
 					#print('trackName '+track )
 					tagName = str(unicode( tag['name'] ).encode('ascii', 'ignore'))
@@ -86,8 +97,12 @@ def getTracks_by_User(artistMbid, f):
 					f.write(artistMbid+"\t"+tagName+"\t"+tagCount+"\t"+tagUrl+"\n")
 				
 				except(IndexError,TypeError):
+					#print(string_request + options + '&page=' + str(page_number))
+					#print("Index Error")
+
+					print(jsonResult['toptracks']['track']['name'])
 					print(artistMbid)
-					continue
+					continue'''
 			#time.sleep(0.1)
 
 		else:
@@ -104,7 +119,7 @@ if __name__ == "__main__":
 
 	# Read the _empty file (the task)
     
-	read_the_dataset('all_mbid.tsv')
+	read_the_dataset('artists_name.tsv')
 	#getTracks_by_User('dr')
 
 	print 'done.'

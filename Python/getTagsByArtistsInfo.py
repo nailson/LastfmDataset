@@ -10,7 +10,7 @@ import urllib2 as ul
 
 api_key = '592caeca2bae6d0bf5a7a4c50038f842'
 limit_per_page = 100
-method = 'artist.getInfo'
+method = 'artist.getTopTags'
 page_number = 1
 user_id = 'rj'
 
