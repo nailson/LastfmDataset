@@ -5,7 +5,7 @@ import requests
 import json
 import time
 import sys
-import urllib as ul
+import urllib2 as ul
 
 
 api_key = '592caeca2bae6d0bf5a7a4c50038f842'
@@ -43,7 +43,7 @@ def getTracks_by_User(artistMbid, f):
 		options += '&format=json'
 		options += '&limit=' + str(limit_per_page)
 
-		#print(string_request + options + '&page=' + str(page_number))
+		print(string_request + options + '&page=' + str(page_number))
 		r = requests.get(string_request + options + '&page=' + str(page_number) )
 		
 		if(r.text == "" or r.text == '""'):
