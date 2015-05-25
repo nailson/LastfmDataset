@@ -22,11 +22,16 @@ new_tags = new_tags[order(new_tags$artist_id, new_tags$tag_id),]
 write.table(x, file="tags.tsv", col.names = F, row.names = F, sep="\t", quote = F)
 
 
+new_tags = y
+new_tag = aggregate(new_tags$artist_id, by=list(new_tags$artist_id), FUN=length)
 
-new_tag = aggregate(new_tags, by=list(new_tags$artist_id), FUN=length)
 x = unique(new_tags$artist_id, new_tags$tag_id, new_tags$)
 
+x = data.frame(id=x)
+y = merge(x, mapping_lf_dbpedia_artists, by.y="V1", by.x="id")
+y=unique(y)
 
+<<<<<<< HEAD
 new_tag = aggregate(.~artist_id, new_tags, FUN=head, 10)
 setkey(new_tags,artist_id)
 new_tag = new_tags[,lapply(.artist_id,function(x) head(x,10)),by = key(new_tags)]
@@ -62,3 +67,6 @@ x = x[order(x$artist_id, x$tag_id, x$weigth),]
 write.table(y$V4, file="artists_name.tsv", col.names = T, row.names = F, sep="\t", quote = F)
 
 
+=======
+write.table(y$V3, file="artists_name.tsv", col.names = T, row.names = F, sep="\t",)
+>>>>>>> 8e19f9bce86b892d2b961c88d54af08049fa5e31
