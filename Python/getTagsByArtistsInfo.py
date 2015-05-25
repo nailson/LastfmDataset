@@ -5,6 +5,8 @@ import requests
 import json
 import time
 import sys
+import urllib as ul
+
 
 api_key = '592caeca2bae6d0bf5a7a4c50038f842'
 limit_per_page = 100
@@ -28,7 +30,7 @@ def read_the_dataset(the_dataset_file):
 
 def getTracks_by_User(artistMbid, f):	
 	totalPages = 1
-
+	artistMbid = ul.quote(artistMbid)
 	#for i in range(1,totalPages+1):
 	i=1
 	while (i <= 1):
