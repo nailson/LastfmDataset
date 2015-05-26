@@ -120,7 +120,7 @@ if __name__ == "__main__":
 
 	# Read the _empty file (the task)
     
-	read_the_dataset('not_tag.tsv')
+	read_the_dataset('not_tags_mbid.tsv')
 	#getTracks_by_User('dr')
 
 	print 'done.'

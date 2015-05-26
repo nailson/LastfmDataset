@@ -19,7 +19,7 @@ new_tags = data.frame ( artist_id = new_tags$V1, tag_id = new_tags$id, weigth = 
 
 new_tags = new_tags[order(new_tags$artist_id, new_tags$tag_id),]
 
-write.table(artists_tags2, file="tags.tsv", col.names = F, row.names = F, sep="\t", quote = F)
+write.table(tags, file="tags.tsv", col.names = F, row.names = F, sep="\t", quote = F)
 
 
 new_tags = y
@@ -31,7 +31,8 @@ x = data.frame(id=x)
 y = merge(x, mapping_lf_dbpedia_artists, by.y="V1", by.x="id")
 y=unique(y)
 
-<<<<<<< HEAD
+
+
 new_tag = aggregate(.~artist_id, new_tags, FUN=head, 10)
 setkey(new_tags,artist_id)
 new_tag = new_tags[,lapply(.artist_id,function(x) head(x,10)),by = key(new_tags)]
@@ -67,6 +68,32 @@ x = x[order(x$artist_id, x$tag_id, x$weigth),]
 write.table(y$V4, file="artists_name.tsv", col.names = T, row.names = F, sep="\t", quote = F)
 
 
-=======
-write.table(y$V3, file="artists_name.tsv", col.names = T, row.names = F, sep="\t",)
->>>>>>> 8e19f9bce86b892d2b961c88d54af08049fa5e31
+
+tags = merge(tags, mapping_LF_dbpedia_artists, by.x="artistMbid.", by.y="V4")
+
+
+tags = merge(tags, mapping_LF_dbpedia_artists, by.x="artistMbid.", by.y="V4")
+
+
+new_tags$V1 =  sapply(as.character(new_tags$V1), URLdecode, USE.NAMES = FALSE)
+
+tags1= merge(new_tags, mapping_LF_dbpedia_artists, by.x="V1", by.y="V3")
+
+x = merge(tags1, map_tags, by.x="V2.x", by.y="names")
+new_tags_new_new = x[,c("V1","id","V3")]
+
+
+tags2= merge(new_tagsmbid, mapping_LF_dbpedia_artists, by.x="artistMbid.", by.y="V4")
+
+
+new_nome = data.frame( nomes = unique(tags1$V2.x[!(tags1$V2.x%in%map_tags$names)]) )
+new_nome$id = c(251560:251709)
+
+map_tags = rbind(map_tags, new_nome)
+colnames(map_tags)
+colnames(new_nome) = c("names","id")
+
+unique(tags1$V2.x)
+
+not_tag = data.frame(V1=not_tag)
+not_tag = merge(not_tag, mapping_LF_dbpedia_artists, by.x="V1", by.y="V4")
