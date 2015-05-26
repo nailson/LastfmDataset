@@ -6,7 +6,7 @@ colnames(tags) = c("mbid", "name","count", "url")
 tags_name =  unique(tags$name)
 tags_name = data.frame(id=c(1:length(tags_name)), name = tags_name)
 
-write.table(y, file="tags_id2.tsv", col.names = T, row.names = F, sep="\t", quote = F)
+write.table(map_tags, file="map_tags.tsv", col.names = T, row.names = F, sep="\t", quote = F)
 
 tags$name = as.character(tags$name)
 tags_id$name = as.character(tags_id$name)
@@ -19,7 +19,7 @@ new_tags = data.frame ( artist_id = new_tags$V1, tag_id = new_tags$id, weigth = 
 
 new_tags = new_tags[order(new_tags$artist_id, new_tags$tag_id),]
 
-write.table(x, file="tags.tsv", col.names = F, row.names = F, sep="\t", quote = F)
+write.table(artists_tags2, file="tags.tsv", col.names = F, row.names = F, sep="\t", quote = F)
 
 
 new_tags = y

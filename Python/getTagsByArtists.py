@@ -66,29 +66,30 @@ def getTracks_by_User(artistMbid, f):
 		
 			if 'tag' not in r.text:
 				#print(string_request + options + '&page=' + str(page_number))
-				print(artistMbid)
-				#print(r.text)
+				#print(artistMbid)
+				print(r.text)
 				continue
 			if 'count' not in r.text:
 				#print(string_request + options + '&page=' + str(page_number))
-				print(artistMbid)
-				#print(r.text)
+				#print(artistMbid)
+				print(r.text)
 				continue
 			if 'url' not in r.text:
 				#print(string_request + options + '&page=' + str(page_number))
-				print(artistMbid)
-				#print(r.text)
+				#print(artistMbid)
+				print(r.text)
+				#print("url")
 				continue
 		
 			totalPages = 1;
 			#print(jsonResult['toptracks']['track']['name'])
 
-			tagName = str(unicode( jsonResult['toptags']['tag']['name'] ).encode('ascii', 'ignore'))
+			'''tagName = str(unicode( jsonResult['toptags']['tag']['name'] ).encode('ascii', 'ignore'))
 			tagCount =  jsonResult['toptags']['tag']['count']
 			tagUrl =  str(unicode(  jsonResult['toptags']['tag']['url'] ).encode('ascii', 'ignore'))
-			f.write(artistMbid+"\t"+tagName+"\t"+tagCount+"\t"+tagUrl+"\n")
-
-			'''for tag in jsonResult['toptags']['tag']:
+			f.write(artistMbid+"\t"+tagName+"\t"+tagCount+"\t"+tagUrl+"\n")'''
+			
+			for tag in jsonResult['toptags']['tag']:
 				try:
 					#print('trackName '+track )
 					tagName = str(unicode( tag['name'] ).encode('ascii', 'ignore'))
@@ -98,11 +99,11 @@ def getTracks_by_User(artistMbid, f):
 				
 				except(IndexError,TypeError):
 					#print(string_request + options + '&page=' + str(page_number))
-					#print("Index Error")
+					print("Index Error")
 
-					print(jsonResult['toptracks']['track']['name'])
-					print(artistMbid)
-					continue'''
+					#print(jsonResult['toptracks']['track']['name'])
+					#print(artistMbid)
+					continue
 			#time.sleep(0.1)
 
 		else:
@@ -119,7 +120,7 @@ if __name__ == "__main__":
 
 	# Read the _empty file (the task)
     
-	read_the_dataset('artists_name.tsv')
+	read_the_dataset('not_tag.tsv')
 	#getTracks_by_User('dr')
 
 	print 'done.'

@@ -43,15 +43,15 @@ def getTracks_by_User(artistMbid, f):
 		options += '&format=json'
 		options += '&limit=' + str(limit_per_page)
 
-		print(string_request + options + '&page=' + str(page_number))
+		#print(string_request + options + '&page=' + str(page_number))
 		r = requests.get(string_request + options + '&page=' + str(page_number) )
 		
 		if(r.text == "" or r.text == '""'):
 			continue
 		
-		if 'error' in r.text:
+		'''if 'error' in r.text:
 			print(artistMbid)
-			continue
+			continue'''
 		
 
 		jsonResult = json.loads(unicode(r.text).encode('ascii', 'ignore'))
@@ -78,6 +78,14 @@ def getTracks_by_User(artistMbid, f):
 				continue
 		
 			totalPages = 1;
+			'''try:
+				tagName = str(unicode( jsonResult['toptags']['tag']['name'] ).encode('ascii', 'ignore'))
+				tagCount =  jsonResult['toptags']['tag']['count']
+				tagUrl =  str(unicode(  jsonResult['toptags']['tag']['url'] ).encode('ascii', 'ignore'))
+				f.write(artistMbid+"\t"+tagName+"\t"+tagCount+"\t"+tagUrl+"\n")
+			except(IndexError,TypeError):
+					print(artistMbid)
+					continue'''
 			#print(jsonResult['toptracks']['track']['name'])
 			for tag in jsonResult['toptags']['tag']:
 				try:
@@ -88,7 +96,8 @@ def getTracks_by_User(artistMbid, f):
 					f.write(artistMbid+"\t"+tagName+"\t"+tagCount+"\t"+tagUrl+"\n")
 				
 				except(IndexError,TypeError):
-					print(artistMbid)
+					print("Index")
+					#print(artistMbid)
 					continue
 			#time.sleep(0.1)
 
@@ -106,7 +115,7 @@ if __name__ == "__main__":
 
 	# Read the _empty file (the task)
     
-	read_the_dataset('artists_name.tsv')
+	read_the_dataset('not_tag.tsv')
 	#getTracks_by_User('dr')
 
 	print 'done.'
