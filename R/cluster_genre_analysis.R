@@ -1,37 +1,11 @@
+#install.packages('reshape2')
 library("ggplot2")
+library('reshape2') 
 
 merged = merge(allItem_Category, clustered_users_dbscan, by.x="User", by.y="user")
 
 
 colsumsCluster = merged[,c(-1)]
-
-x = colnames(colsumsCluster)[colnames(colsumsCluster)!="cluster"]
-aggregate( colsumsCluster$cluster, by = list(colsumsCluster), FUN=colSums )
-
-
-
-install.packages('reshape2')
-library('reshape2') 
-
-mdat <- melt(merged, measure = x) 
-
-y <- acast(mdat, cluster ~ variable, fun = sum, margins = 'cluster') 
-
-
-b <- sapply(unique(colsumsCluster$cluster), function(x) { 
-  
-  out <- aggregate(cbind(y,f)~e1, subset(test, e2==x),"sum")
-  
-  
-  out <- rbind(out, data.frame(e1="total", y=sum(out$y), f=sum(out$f))) 
-  out <- list(out) 
-  names(out) <- x 
-  out
-  
-}) 
-
-
-
 
 
 colsumsCluster = data.frame(user = colnames(colsumsCluster), atrib_sum=  colSums(colsumsCluster) )
