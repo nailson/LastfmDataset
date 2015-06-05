@@ -20,7 +20,7 @@ def read_the_dataset(the_dataset_file):
 	with file(the_dataset_file,'r') as infile:
 		f = open('/home/nailson/Documentos/tags.txt', 'a')
         
-        	f.write("artistMbid\"\t\"tagname\"\t\"tagcount\"\t\"tagurl\"\n")
+        	#f.write("artistMbid\"\t\"tagname\"\t\"tagcount\"\t\"tagurl\"\n")
 
 		for line in infile:   
 			artistMbid = line.rstrip('\n') 
