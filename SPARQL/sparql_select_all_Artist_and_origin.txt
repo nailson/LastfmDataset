@@ -1,0 +1,8 @@
+SELECT *
+
+WHERE { 
+            ?o rdf:type dbpedia-owl:Artist.
+            ?o <http://dbpedia.org/property/origin> ?s.
+      }
+
+OFFSET 0 LIMIT 10000
