@@ -24,6 +24,14 @@ barplot(sort(allItem_ILS_Dataset$ILS_5, decreasing = T), horiz = T, )
 
 ggplot(allItem_ILS_Dataset, aes(y=(ILS_5), x = factor(allItem_ILS_Dataset$User)) ) + geom_bar(stat='identity') + coord_flip()
 
+<<<<<<< HEAD
+=======
+barplot(sort(allItem_ILS_Dataset$ILS_5, decreasing = T), horiz = T, )
+
+
+ggplot(allItem_ILS_Dataset, aes(y=(ILS_5), x = factor(allItem_ILS_Dataset$User)) ) + geom_bar(stat='identity') + coord_flip()
+
+>>>>>>> 51469def568e75bc6c65bcba0b6eff387ef1d876
 qplot(x=c(1:8049), y=allItem_ILS_Dataset$ILS_5, 
       data=means, geom="bar", stat="identity",
       position="dodge")
