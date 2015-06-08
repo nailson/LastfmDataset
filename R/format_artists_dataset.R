@@ -46,8 +46,8 @@ boxplot(weight_aggregate$x,outline = F)
 
 length(weight_aggregate$x[weight_aggregate$x<120000])
 
-users_outliers = weight_aggregate[weight_aggregate$x>120000,1]
-
+users_outliers = weight_aggregate[weight_aggregate$x>200000,1]
+x = dataset[ (dataset$id_user==users_outliers), ]
 dataset = dataset[ !(dataset$id_user%in%users_outliers), ]
 
 # aggregate of length artists
@@ -67,13 +67,15 @@ plot(artists_weight_aggregate[c(1:1000),c("x")])
 
 # removing low weights
 summary(dataset$weight)
-plot(sort(dataset$weight), main="Sorted User weight", ylab = "Weight")
+plot(sort(log(dataset$weight, base=10)), main="Sorted User weight", ylab = "Weight", )
+boxplot(dataset$weight, outline=F)
+usersoutlier = dataset[dataset$weight > 50000,1]
 
-usersoutlier = dataset[dataset$weight > 14000,1]
+x = dataset[ (dataset$id_user==usersoutlier), ]
 dataset = dataset[ !(dataset$id_user%in%usersoutlier), ]
 
 length(dataset[dataset$weight < 10,1])
 
 dataset = dataset[dataset$weight >= 10,]
 
-dataset[dataset$id_user==456,]
+dataset[dataset$id_user==91,]
