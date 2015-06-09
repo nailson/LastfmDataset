@@ -67,7 +67,7 @@ plot(artists_weight_aggregate[c(1:1000),c("x")])
 
 # removing low weights
 summary(dataset$weight)
-plot(sort(log(dataset$weight, base=10)), main="Sorted User weight", ylab = "Weight", )
+plot(sort(log(dataset$weight, base=10)), main="Sorted User weight", ylab = "Weight (log 10)", )
 boxplot(dataset$weight, outline=F)
 usersoutlier = dataset[dataset$weight > 50000,1]
 
