@@ -1,0 +1,9 @@
+SELECT ?o, ?s
+
+WHERE { 
+            ?o rdf:type dbpedia-owl:MusicGenre.
+            ?o <http://www.w3.org/2002/07/owl#sameAs> ?s.
+            FILTER regex(str(?s), "http://pt")
+     }
+
+OFFSET 0 LIMIT 10000
