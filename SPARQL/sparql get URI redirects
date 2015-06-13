@@ -1,0 +1,16 @@
+# First two PREFIX declarations unnecessary on SNORQL
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+PREFIX dbo: <http://dbpedia.org/ontology/>
+
+SELECT ?s WHERE {
+  {
+    ?s rdfs:label "P!nk"@en ;
+       a owl:Thing .       
+  }
+  UNION
+  {
+    ?altName rdfs:label "P!nk"@en ;
+             dbo:wikiPageRedirects ?s .
+  }
+}
