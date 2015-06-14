@@ -19,7 +19,7 @@ dataset = dataset_normalized
 
 colnames(dataset) = c("id_user", "V1", "weight")
 
-write.table(subsetting, file="dataset_normalized.tsv", sep="\t", row.names=F, col.names=F, quote=F)
+write.table(dataset, file="dataset.tsv", sep="\t", row.names=F, col.names=F, quote=F)
 
 
 # some analysis from data
@@ -47,7 +47,7 @@ summary(weight_aggregate$x)
 plot(sort(weight_aggregate$x), main="Aggregation of sum of weights by User", ylab = "Aggregate Weight")
 boxplot(weight_aggregate$x,outline = F)
 
-length(weight_aggregate$x[weight_aggregate$x<120000])
+length(weight_aggregate$x[weight_aggregate$x>200000])
 
 users_outliers = weight_aggregate[weight_aggregate$x>300000,1]
 x = dataset[ (dataset$id_user%in%users_outliers), ]
@@ -71,12 +71,12 @@ plot(artists_weight_aggregate[c(1:1000),c("x")])
 # removing low weights
 summary(dataset$weight)
 plot(sort(log(dataset$weight, base=10)), main="Sorted User weight", ylab = "Weight (log 10)", )
-boxplot(dataset$weight, outline=T)
-usersoutlier = dataset[dataset$weight > 20000,1]
+boxplot(dataset$weight, outline=F)
+usersoutlier = dataset[dataset$weight > 40000,1]
 
 x = dataset[ (dataset$id_user%in%usersoutlier), ]
 dataset = dataset[ !(dataset$id_user%in%usersoutlier), ]
-dataset2  =dataset
+
 length(dataset[dataset$weight < 10,1])
 
 dataset = dataset[dataset$weight >= 10,]

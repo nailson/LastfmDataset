@@ -1,5 +1,5 @@
 
-typeof(dataset$V3)
+typeof(dataset$weight)
 
 subsetting <- data.frame(id_user=c(), V1=c() ,weight=c(), normalized=c())
   
@@ -12,7 +12,7 @@ for(user in unique(dataset$id_user)){
   subsetting = rbind(subsetting,new_subsetting2 ) 
 
 }
-write.table(subsetting, file="dataset_normalized.tsv", sep="\t", row.names=F, col.names=F, quote=F)
+write.table(subsetting[,c(-3)], file="dataset_norm.tsv", sep="\t", row.names=F, col.names=F, quote=F)
 
 
 #normalize <- function(x){(x-min(x))/(max(x)-min(x))}
