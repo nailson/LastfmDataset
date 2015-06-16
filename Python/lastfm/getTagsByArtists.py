@@ -5,6 +5,8 @@ import requests
 import json
 import time
 import sys
+import urllib2 as ul
+
 
 api_key = '592caeca2bae6d0bf5a7a4c50038f842'
 limit_per_page = 100
@@ -17,14 +19,14 @@ def read_the_dataset(the_dataset_file):
 
 	with file(the_dataset_file,'r') as infile:
 		f = open('/home/nailson/Documentos/tags.txt', 'a')
-        f.write("artistMbid\"\t\"tagname\"\t\"tagcount\"\t\"tagurl\"\n")
+        
+        	#f.write("artistMbid\"\t\"tagname\"\t\"tagcount\"\t\"tagurl\"\n")
 
 		for line in infile:   
 			artistMbid = line.rstrip('\n') 
 			#print(artistMbid)
 			getTracks_by_User(artistMbid,f)
 		f.close();
-
 def getTracks_by_User(artistMbid, f):	
 	totalPages = 1
 

@@ -1,7 +1,7 @@
 #install.packages('reshape2')
 library("ggplot2")
 library('reshape2') 
-
+colnames(map_genre) = c("V1","V2")
 
 merged = merge(allItem_Category, clustered_users_dbscan, by.x="User", by.y="user")
 
@@ -25,4 +25,5 @@ genres = tops_genres$Group.1[c(1:20)]
 top_genres_result = new_z[  new_z$V1%in%genres,]
 top_genres_result$count = top_genres_result$count*100
 
+top_genres_result = top_genres_result[top_genres_result$cluster!=0,]
 write.table(top_genres_result[,c(4,3)], col.names = F, row.names = F, sep="\t", quote = F, file="dots_plot.tsv")
