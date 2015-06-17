@@ -1,4 +1,7 @@
+
 allItem_ILS_Dataset = allItem_ILS_Test
+allItem_ILS_BPRMF = allItem_ILS_KNN
+
 boxplot(allItem_ILS_Dataset$ILS_5)
 summary(allItem_ILS_Dataset$ILS_5)
 
@@ -66,8 +69,42 @@ error <- qt(0.975,df=length(merged_ILS[,2])-1)*sd(merged_ILS[,2])/sqrt(length(me
 left <- mean(merged_ILS[,2])-error
 right <- mean(merged_ILS[,2])+error
 
+t.test(merged_ILS[,3], merged_ILS[,2], paired = T)
+
+t.test(merged_ILS[,3], merged_ILS[,2], paired = T, alternative = "greater")
+
+t.test(merged_ILS[,3], merged_ILS[,2], paired = T, alternative = "less")
+
+
+
+error <- qt(0.975,df=length(merged_ILS[,2])-1)*sd(merged_ILS[,2])/sqrt(length(merged_ILS[,2]))
+left <- mean(merged_ILS[,2])-error
+right <- mean(merged_ILS[,2])+error
+median(merged_ILS[,2])
+
 error <- qt(0.975,df=length(merged_ILS[,3])-1)*sd(merged_ILS[,3])/sqrt(length(merged_ILS[,3]))
 left <- mean(merged_ILS[,3])-error
 right <- mean(merged_ILS[,3])+error
+median(merged_ILS[,3])
+
+
+
+ggplot(merged_ILS, aes(x=dose, y=len, colour=supp, group=supp)) + 
+  geom_errorbar(aes(ymin=len-ci, ymax=len+ci), colour="black", width=.1, position=pd) +
+  geom_line(position=pd) +
+  geom_point(position=pd, size=3)
+
+
+g = ggplot(data=data.summary, aes(x=data.summary$tecnica, y=data.summary$it, 
+                                  group=1, fill=data.summary$tecnica)) +
+  geom_bar(position=position_dodge(), colour="black", stat="identity") + 
+  geom_errorbar(width=.1, aes(ymin=data.summary$it - data.summary$ci,
+                              ymax=data.summary$it + data.summary$ci)) + 
+  xlab("Técnicas") + 
+  ylab("Número de Iterações") +
+  labs(fill="Técnicas") +
+  ggtitle(title)+
+  theme(axis.text.x=element_blank(),
+        axis.ticks=element_blank());g;
 
 median(merged_ILS[,2])
