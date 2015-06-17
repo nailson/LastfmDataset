@@ -62,30 +62,12 @@ t.test(merged_ILS[,3], merged_ILS[,2], paired = T, alternative = "less")
 
 
 
+error <- qt(0.975,df=length(merged_ILS[,2])-1)*sd(merged_ILS[,2])/sqrt(length(merged_ILS[,2]))
+left <- mean(merged_ILS[,2])-error
+right <- mean(merged_ILS[,2])+error
 
-ggplot(tgc2, aes(x=dose, y=len, fill=supp)) + 
-  geom_bar(position=position_dodge(), stat="identity",
-           colour="black", # Use black outlines,
-           size=.3) +      # Thinner lines
-  geom_errorbar(aes(ymin=len-se, ymax=len+se),
-                size=.3,    # Thinner lines
-                width=.2,
-                position=position_dodge(.9)) +
-  xlab("Dose (mg)") +
-  ylab("Tooth length") +
-  scale_fill_hue(name="Supplement type", # Legend label, use darker colors
-                 breaks=c("OJ", "VC"),
-                 labels=c("Orange juice", "Ascorbic acid")) +
-  ggtitle("The Effect of Vitamin C on\nTooth Growth in Guinea Pigs") +
-  scale_y_continuous(breaks=0:20*4) +
-  theme_bw()
+error <- qt(0.975,df=length(merged_ILS[,3])-1)*sd(merged_ILS[,3])/sqrt(length(merged_ILS[,3]))
+left <- mean(merged_ILS[,3])-error
+right <- mean(merged_ILS[,3])+error
 
-
-ggplot(resultILS, aes(x = as.factor(resultILS$model), y = resultILS$value, fill=Modelo))+ 
-  #geom_bar(stat = "identity")+
-  stat_summary(fun.y=mean, geom="bar", position="dodge", colour='white',show_guide = FALSE)+
-  #scale_y_continuous(breaks=seq(0, 1,0.01))+
-  coord_cartesian(ylim=c(0.30,0.42))+
-  labs(list(x="", y="ILD@5", col=""))+ scale_fill_hue()
-
-
+median(merged_ILS[,2])
