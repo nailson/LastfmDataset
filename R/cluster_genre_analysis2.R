@@ -20,7 +20,7 @@ new_z$V1 = substring( new_z$V1, 29)
 tops_genres = aggregate(new_z$count, by=list(new_z$V1), FUN = sum)
 tops_genres = tops_genres[order(-tops_genres$x),]
 
-genres = tops_genres$Group.1[c(1:20)]
+genres = tops_genres$Group.1[c(1:10)]
 
 top_genres_result = new_z[  new_z$V1%in%genres,]
 top_genres_result$count = top_genres_result$count*100
