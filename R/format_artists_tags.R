@@ -19,3 +19,5 @@ for(artist in unique(artist_tags$V1)){
   }
   new_artist_tags = rbind(new_artist_tags, one_artist_tags)
 }
+
+write.table(new_artist_tags, file="new_artist_tags.tsv", col.names=F, row.names=F, quote=F, sep="\t")

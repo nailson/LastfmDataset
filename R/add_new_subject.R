@@ -19,4 +19,4 @@ colnames(z) = c("V1","V2")
 
 artist_subject = rbind(artist_subject, z)
 artist_subject = unique(artist_subject)
-write.table(artist_subject, file="artist_subject.tsv", col.names=F, row.names=F, quote=F, sep="\n")
+write.table(artist_subject, file="artist_subject.tsv", col.names=F, row.names=F, quote=F, sep="\t")
