@@ -1,13 +1,17 @@
 
+# READ TABLE
+dataset <- read.delim("../new data/dataset.tsv", header=F)
+artist_id_genre <- read.delim("../new data/artist relation/artist_genre_final.tsv", header=F)
+map_dbpedia <- read.delim("../new data/map/map_dbpedia.tsv", header=F, quote="")
 
-dataset <- read.delim("~/GitHub/LastfmDataset/R/dataset.tsv", header=F)
 
-artist_id_genre <- read.delim("~/GitHub/LastfmDataset/R/artist_id_genre.tsv", header=F)
-
+# FIND ARTISTS THAT NOT HAVE GENRE
 x = data.frame( V1 = unique(dataset[!(dataset$V2%in%artist_id_genre$V1),2]))
 
-map_lf_id_db <- read.delim("~/GitHub/LastfmDataset/R/map_lf_id_db.tsv", header=F, quote="")
+# MERGE WITH MAP DBPEDIA
+x = merge(x,map_dbpedia, by="V1")
 
-x = merge(x,map_lf_id_db, by="V1")
 
+
+# WRITE NOT HAVE GENRE
 write.table(x, file="not_have_genre.tsv", col.names=F, row.names=F, sep="\t", quote=F )
