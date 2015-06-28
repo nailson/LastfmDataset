@@ -10,6 +10,7 @@ x = data.frame( V1 = unique(dataset[ !(dataset$V2%in%artist_subject$V1),2]) )
 
 # MERGE WITH MAP ARTISTS
 x = merge(x,map_dbpedia, by="V1")
+x = unique(x)
 x = x[order(x$V1),]
 #write.table(x, file="not_have_subject.tsv", col.names=F, row.names=F, quote=F, sep="\t")
 
