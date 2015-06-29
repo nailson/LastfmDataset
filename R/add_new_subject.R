@@ -23,5 +23,21 @@ colnames(z) = c("V1","V2")
 
 artist_subject = rbind(artist_subject, z)
 artist_subject = unique(artist_subject)
+artist_subject$V1 = as.numeric(artist_subject$V1)
 artist_subject = artist_subject[order(artist_subject$V1), ]
 write.table(artist_subject, file="artist_subject.tsv", col.names=F, row.names=F, quote=F, sep="\t")
+
+
+# CREATE MAP SUBJECT
+
+map_subjet = data.frame( V1 =  unique(artist_subject$V2), V2 = c(1:length( unique(artist_subject$V2)) ) )
+write.table(map_subjet, file="map_subjet.tsv", col.names=F, row.names=F, quote=F, sep="\t")
+
+colnames(map_subjet) = c("V2","id")
+artist_subject = merge(artist_subject, map_subjet, by="V2")
+
+artist_subject_final = artist_subject[, c(2,3)]
+artist_subject_final$V3 = rep(1, length(artist_subject_final$id))
+artist_subject_final = artist_subject_final[order(artist_subject_final$V1, artist_subject_final$id),]
+
+write.table(artist_subject_final, file="artist_subject_final.tsv", col.names=F, row.names=F, quote=F, sep="\t")

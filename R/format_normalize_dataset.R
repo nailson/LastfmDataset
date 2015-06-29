@@ -1,3 +1,7 @@
+dataset <- read.delim("../new data/dataset.tsv", header=F)
+
+dataset = artist_genre_final
+colnames(dataset) = c("id_user", "V1", "weight")
 
 typeof(dataset$weight)
 
@@ -12,7 +16,7 @@ for(user in unique(dataset$id_user)){
   subsetting = rbind(subsetting,new_subsetting2 ) 
 
 }
-write.table(subsetting[,c(-3)], file="dataset_norm.tsv", sep="\t", row.names=F, col.names=F, quote=F)
+write.table(subsetting[,c(-3)], file="genre_norm.tsv", sep="\t", row.names=F, col.names=F, quote=F)
 
 
 #normalize <- function(x){(x-min(x))/(max(x)-min(x))}
