@@ -37366,6 +37366,8 @@
 21133	http://dbpedia.org/resource/United_States
 21134	http://dbpedia.org/resource/Czech_Republic
 21134	http://dbpedia.org/resource/Prague
+21135	http://dbpedia.org/resource/White_Plains,_New_York
+21135	http://dbpedia.org/resource/United_States
 21136	http://dbpedia.org/resource/Belgrade
 21136	http://dbpedia.org/resource/Serbia
 21138	http://dbpedia.org/resource/Grand_Forks,_North_Dakota
@@ -37430,6 +37432,8 @@
 21197	http://dbpedia.org/resource/Brazil
 21201	http://dbpedia.org/resource/United_States
 21201	http://dbpedia.org/resource/Maynardville,_Tennessee
+21202	http://dbpedia.org/resource/New_Jersey
+21202	http://dbpedia.org/resource/United_States
 21203	http://dbpedia.org/resource/Netherlands
 21209	http://dbpedia.org/resource/Phoenix,_Arizona
 21209	http://dbpedia.org/resource/Arizona
@@ -37499,8 +37503,11 @@
 21259	http://dbpedia.org/resource/Massachusetts
 21260	http://dbpedia.org/resource/Melbourne
 21260	http://dbpedia.org/resource/Australia
+21261	http://dbpedia.org/resource/Florissant,_Missouri
 21264	http://dbpedia.org/resource/Sydney
 21265	http://dbpedia.org/resource/Taiwan
+21266	http://dbpedia.org/resource/Owensboro,_Kentucky
+21266	http://dbpedia.org/resource/United_States
 21267	http://dbpedia.org/resource/Nova_Scotia
 21267	http://dbpedia.org/resource/Halifax,_Nova_Scotia
 21267	http://dbpedia.org/resource/Canada
@@ -37517,6 +37524,8 @@
 21273	http://dbpedia.org/resource/Germany
 21274	http://dbpedia.org/resource/Bratislava
 21274	http://dbpedia.org/resource/Czechoslovakia
+21276	http://dbpedia.org/resource/Italy
+21276	http://dbpedia.org/resource/Turin
 21277	http://dbpedia.org/resource/Atlanta
 21277	http://dbpedia.org/resource/Georgia_(U.S._state)
 21277	http://dbpedia.org/resource/United_States
@@ -37526,6 +37535,8 @@
 21284	http://dbpedia.org/resource/Denmark
 21288	http://dbpedia.org/resource/England
 21288	http://dbpedia.org/resource/Grantham
+21289	http://dbpedia.org/resource/New_Delhi
+21289	http://dbpedia.org/resource/Dominion_of_India
 21295	http://dbpedia.org/resource/Wodonga,_Victoria
 21297	http://es.dbpedia.org/resource/Argentina
 21297	http://es.dbpedia.org/resource/Paraná_(Argentina)
@@ -37549,6 +37560,7 @@
 21315	http://dbpedia.org/resource/Peru
 21318	http://dbpedia.org/resource/Hartford,_Connecticut
 21323	http://dbpedia.org/resource/Valkenswaard
+21324	http://dbpedia.org/resource/West_Newbury,_Massachusetts
 21328	http://dbpedia.org/resource/Chingford
 21328	http://dbpedia.org/resource/England
 21329	http://dbpedia.org/resource/United_Kingdom
@@ -37708,6 +37720,9 @@
 21487	http://dbpedia.org/resource/Azores
 21487	http://dbpedia.org/resource/Terceira_Island
 21487	http://dbpedia.org/resource/Praia_da_Vit%C3%B3ria
+21488	http://dbpedia.org/resource/Sichuan
+21488	http://dbpedia.org/resource/China
+21488	http://dbpedia.org/resource/Chongqing
 21490	http://dbpedia.org/resource/Italy
 21490	http://dbpedia.org/resource/Palermo
 21493	http://dbpedia.org/resource/Philadelphia
@@ -37793,6 +37808,8 @@
 21562	http://dbpedia.org/resource/United_States
 21565	http://dbpedia.org/resource/Washington_(state)
 21565	http://dbpedia.org/resource/Seattle
+21566	http://dbpedia.org/resource/Hartford,_Connecticut
+21566	http://dbpedia.org/resource/Connecticut
 21568	http://dbpedia.org/resource/New_Zealand
 21568	http://dbpedia.org/resource/Auckland
 21570	http://dbpedia.org/resource/Mexico_City
@@ -37833,6 +37850,8 @@
 21612	http://dbpedia.org/resource/Australia
 21618	http://dbpedia.org/resource/Norway
 21618	http://dbpedia.org/resource/Oslo
+21619	http://dbpedia.org/resource/Sundsvall
+21619	http://dbpedia.org/resource/Sweden
 21620	http://dbpedia.org/resource/China
 21620	http://dbpedia.org/resource/Beijing
 21622	http://dbpedia.org/resource/Norway
@@ -37869,6 +37888,7 @@
 21662	http://dbpedia.org/resource/United_States
 21662	http://dbpedia.org/resource/Sioux_City,_Iowa
 21664	http://dbpedia.org/resource/Greece
+21668	http://dbpedia.org/resource/Munich
 21670	http://dbpedia.org/resource/New_York_City
 21670	http://dbpedia.org/resource/Queens
 21670	http://dbpedia.org/resource/New_York
@@ -37883,6 +37903,9 @@
 21685	http://dbpedia.org/resource/United_States
 21686	http://dbpedia.org/resource/South_Korea
 21686	http://dbpedia.org/resource/Seoul
+21689	http://dbpedia.org/resource/Las_Vegas
+21689	http://dbpedia.org/resource/Nevada
+21689	http://dbpedia.org/resource/United_States
 21690	http://dbpedia.org/resource/California
 21690	http://dbpedia.org/resource/Los_Angeles
 21690	http://dbpedia.org/resource/United_States
@@ -37907,6 +37930,9 @@
 21713	http://dbpedia.org/resource/Halmstad
 21713	http://dbpedia.org/resource/Sweden
 21716	http://dbpedia.org/resource/Germany
+21717	http://dbpedia.org/resource/Philadelphia
+21717	http://dbpedia.org/resource/Pennsylvania
+21717	http://dbpedia.org/resource/United_States
 21718	http://dbpedia.org/resource/Belgium
 21718	http://dbpedia.org/resource/Antwerp
 21719	http://dbpedia.org/resource/California
@@ -37932,6 +37958,8 @@
 21731	http://dbpedia.org/resource/Brazil
 21731	http://dbpedia.org/resource/Para%C3%ADba
 21733	http://dbpedia.org/resource/Sacramento,_California
+21738	http://dbpedia.org/resource/Anth%C3%A9e
+21738	http://dbpedia.org/resource/Belgium
 21743	http://dbpedia.org/resource/Soviet_Union
 21743	http://dbpedia.org/resource/Yagodnoye,_Magadan_Oblast
 21743	http://dbpedia.org/resource/Russian_Soviet_Federative_Socialist_Republic
@@ -37973,6 +38001,8 @@
 21774	http://dbpedia.org/resource/California
 21774	http://dbpedia.org/resource/United_States
 21776	http://dbpedia.org/resource/Rome
+21777	http://dbpedia.org/resource/L%C3%BCnen
+21777	http://dbpedia.org/resource/Allied-occupied_Germany
 21778	http://dbpedia.org/resource/Austria
 21778	http://dbpedia.org/resource/Styria
 21780	http://dbpedia.org/resource/Gda%C5%84sk
@@ -38112,6 +38142,8 @@
 21893	http://dbpedia.org/resource/Minneapolis
 21894	http://dbpedia.org/resource/Mikkeli
 21894	http://dbpedia.org/resource/Finland
+21897	http://dbpedia.org/resource/Finland
+21897	http://dbpedia.org/resource/Sysm%C3%A4
 21900	http://dbpedia.org/resource/Edmundston
 21900	http://dbpedia.org/resource/Canada
 21900	http://dbpedia.org/resource/New_Brunswick
@@ -38147,6 +38179,8 @@
 21935	http://dbpedia.org/resource/United_States
 21937	http://dbpedia.org/resource/Utrecht
 21937	http://dbpedia.org/resource/Netherlands
+21938	http://dbpedia.org/resource/New_Zealand
+21938	http://dbpedia.org/resource/Auckland
 21939	http://dbpedia.org/resource/Chicago
 21939	http://dbpedia.org/resource/United_States
 21940	http://dbpedia.org/resource/Westminster,_Colorado
@@ -38163,6 +38197,8 @@
 21951	http://dbpedia.org/resource/England
 21953	http://dbpedia.org/resource/Japan
 21953	http://dbpedia.org/resource/Aichi_Prefecture
+21954	http://dbpedia.org/resource/S%C3%A3o_Paulo_(state)
+21954	http://dbpedia.org/resource/S%C3%A3o_Paulo
 21955	http://dbpedia.org/resource/Orange_County,_California
 21955	http://dbpedia.org/resource/United_States
 21956	http://dbpedia.org/resource/Orangeburg,_South_Carolina
@@ -38248,6 +38284,8 @@
 22031	http://dbpedia.org/resource/Sandy,_Oregon
 22032	http://dbpedia.org/resource/Leicester
 22032	http://dbpedia.org/resource/United_Kingdom
+22034	http://dbpedia.org/resource/United_States
+22034	http://dbpedia.org/resource/Boston
 22035	http://dbpedia.org/resource/Portsmouth,_Virginia
 22035	http://dbpedia.org/resource/Virginia
 22035	http://dbpedia.org/resource/United_States
@@ -38271,6 +38309,7 @@
 22055	http://dbpedia.org/resource/New_Orleans
 22055	http://dbpedia.org/resource/United_States
 22055	http://dbpedia.org/resource/Louisiana
+22058	http://dbpedia.org/resource/Tucson,_Arizona
 22060	http://dbpedia.org/resource/Chicago
 22060	http://dbpedia.org/resource/Illinois
 22061	http://dbpedia.org/resource/Minnesota
@@ -38280,11 +38319,15 @@
 22062	http://dbpedia.org/resource/Billboard_200
 22062	http://dbpedia.org/resource/Florida
 22069	http://dbpedia.org/resource/Melbourne
+22071	http://dbpedia.org/resource/Princeton,_New_Jersey
+22071	http://dbpedia.org/resource/United_States
 22072	http://dbpedia.org/resource/Oakland,_California
 22072	http://dbpedia.org/resource/California
 22072	http://dbpedia.org/resource/United_States
 22073	http://dbpedia.org/resource/Australia
 22073	http://dbpedia.org/resource/Melbourne
+22077	http://dbpedia.org/resource/Isle_of_Man
+22077	http://dbpedia.org/resource/Laxey
 22078	http://dbpedia.org/resource/Troy,_New_York
 22078	http://dbpedia.org/resource/United_States
 22081	http://dbpedia.org/resource/Carlisle,_Cumbria
@@ -38375,6 +38418,8 @@
 22153	http://dbpedia.org/resource/M%C3%A1laga
 22154	http://dbpedia.org/resource/Poland
 22155	http://dbpedia.org/resource/Turkey
+22160	http://dbpedia.org/resource/Seal_Beach,_California
+22160	http://dbpedia.org/resource/United_States
 22161	http://dbpedia.org/resource/San_Francisco
 22161	http://dbpedia.org/resource/California
 22162	http://dbpedia.org/resource/Honshu
@@ -38407,6 +38452,9 @@
 22182	http://dbpedia.org/resource/New_York
 22183	http://dbpedia.org/resource/Croatia
 22183	http://dbpedia.org/resource/Rijeka
+22184	http://dbpedia.org/resource/New_York
+22184	http://dbpedia.org/resource/New_York_City
+22184	http://dbpedia.org/resource/United_States
 22185	http://dbpedia.org/resource/Nashville,_Tennessee
 22186	http://dbpedia.org/resource/United_States
 22186	http://dbpedia.org/resource/Boston
@@ -38416,6 +38464,8 @@
 22194	http://dbpedia.org/resource/Aichi_Prefecture
 22195	http://dbpedia.org/resource/New_York
 22195	http://dbpedia.org/resource/United_States
+22196	http://dbpedia.org/resource/Nairobi
+22196	http://dbpedia.org/resource/British_Kenya
 22197	http://dbpedia.org/resource/San_Clemente,_California
 22203	http://dbpedia.org/resource/Austin,_Texas
 22203	http://dbpedia.org/resource/Texas
@@ -38489,6 +38539,10 @@
 22267	http://dbpedia.org/resource/Camberley
 22268	Detroit, Michigan, United States@en
 22269	http://dbpedia.org/resource/United_States
+22270	http://dbpedia.org/resource/West_Germany
+22270	http://dbpedia.org/resource/Bremen
+22272	http://dbpedia.org/resource/Japan
+22272	http://dbpedia.org/resource/Yokohama
 22274	http://dbpedia.org/resource/Vancouver
 22274	http://dbpedia.org/resource/Canada
 22276	http://dbpedia.org/resource/Germany
@@ -38603,6 +38657,8 @@
 22390	http://dbpedia.org/resource/Germany
 22395	http://dbpedia.org/resource/Nancy,_France
 22395	http://dbpedia.org/resource/France
+22398	http://dbpedia.org/resource/Pau,_Pyr%C3%A9n%C3%A9es-Atlantiques
+22398	http://dbpedia.org/resource/France
 22400	http://dbpedia.org/resource/New_York
 22400	http://dbpedia.org/resource/United_States
 22400	http://dbpedia.org/resource/The_Bronx
@@ -38615,6 +38671,9 @@
 22405	http://dbpedia.org/resource/United_States
 22406	http://dbpedia.org/resource/Spain
 22406	http://dbpedia.org/resource/Madrid
+22409	http://dbpedia.org/resource/Andalusia
+22409	http://dbpedia.org/resource/Spain
+22409	http://dbpedia.org/resource/M%C3%A1laga
 22410	http://dbpedia.org/resource/Houston
 22411	http://dbpedia.org/resource/Turkey
 22414	http://dbpedia.org/resource/Michigan
@@ -38640,6 +38699,9 @@
 22439	http://dbpedia.org/resource/United_Kingdom
 22439	http://dbpedia.org/resource/England
 22439	http://dbpedia.org/resource/London
+22441	http://dbpedia.org/resource/Phoenix,_Arizona
+22441	http://dbpedia.org/resource/Arizona
+22441	http://dbpedia.org/resource/United_States
 22442	Bridgetown, Western Australia, Australia@en
 22445	http://dbpedia.org/resource/Bansda
 22445	http://dbpedia.org/resource/Bansda_State
@@ -38669,6 +38731,10 @@
 22472	http://dbpedia.org/resource/Buffalo,_New_York
 22472	http://dbpedia.org/resource/New_York
 22473	Chicago, United States@en
+22474	http://dbpedia.org/resource/Pahang
+22474	http://dbpedia.org/resource/Malaysia
+22474	http://dbpedia.org/resource/Kampung_Awah
+22474	http://dbpedia.org/resource/Temerloh
 22475	http://dbpedia.org/resource/Kentish_Town
 22475	http://dbpedia.org/resource/London
 22476	Victoria, British Columbia, Canada@en
@@ -38693,6 +38759,9 @@
 22504	http://dbpedia.org/resource/Portland,_Oregon
 22504	http://dbpedia.org/resource/Oregon
 22504	http://dbpedia.org/resource/United_States
+22505	http://dbpedia.org/resource/England
+22505	http://dbpedia.org/resource/Essex
+22505	http://dbpedia.org/resource/Grays
 22512	http://dbpedia.org/resource/Kent
 22512	http://dbpedia.org/resource/Ashford,_Kent
 22513	http://dbpedia.org/resource/Ohio
@@ -38724,6 +38793,9 @@
 22531	http://dbpedia.org/resource/Texas
 22533	http://dbpedia.org/resource/Lomma
 22533	http://dbpedia.org/resource/Sweden
+22535	http://dbpedia.org/resource/North_Rhine-Westphalia
+22535	http://dbpedia.org/resource/West_Germany
+22535	http://dbpedia.org/resource/M%C3%BCnster
 22536	http://dbpedia.org/resource/Trondheim
 22536	http://dbpedia.org/resource/S%C3%B8r-Tr%C3%B8ndelag
 22536	http://dbpedia.org/resource/Norway
@@ -38812,6 +38884,8 @@
 22624	http://dbpedia.org/resource/Slough
 22624	http://dbpedia.org/resource/England
 22625	Seoul, South Korea@en
+22628	http://dbpedia.org/resource/Los_Angeles
+22628	http://dbpedia.org/resource/United_States
 22630	http://dbpedia.org/resource/Streatham
 22630	http://dbpedia.org/resource/London
 22631	http://dbpedia.org/resource/Link%C3%B6ping
@@ -38899,6 +38973,8 @@
 22696	http://dbpedia.org/resource/New_York_City
 22697	Pittsburgh, Pennsylvania, United States@en
 22699	http://dbpedia.org/resource/New_York
+22701	http://dbpedia.org/resource/Montreal
+22701	http://dbpedia.org/resource/Quebec
 22704	http://dbpedia.org/resource/Japan
 22706	http://dbpedia.org/resource/Croatia
 22706	http://dbpedia.org/resource/Pula
@@ -39002,6 +39078,8 @@
 22806	http://dbpedia.org/resource/Canada
 22807	http://dbpedia.org/resource/Tateyama,_Chiba
 22811	Edinburgh, Scotland@en
+22815	http://dbpedia.org/resource/Bucharest
+22815	http://dbpedia.org/resource/Kingdom_of_Romania
 22823	http://dbpedia.org/resource/Staten_Island
 22823	http://dbpedia.org/resource/New_York
 22823	http://dbpedia.org/resource/United_States
@@ -39087,6 +39165,9 @@
 22918	http://dbpedia.org/resource/Queens
 22918	http://dbpedia.org/resource/New_York_City
 22918	http://dbpedia.org/resource/United_States
+22920	http://dbpedia.org/resource/London,_Ontario
+22920	http://dbpedia.org/resource/Ontario
+22920	http://dbpedia.org/resource/Canada
 22926	http://dbpedia.org/resource/New_Jersey
 22926	http://dbpedia.org/resource/Red_Bank,_New_Jersey
 22926	http://dbpedia.org/resource/United_States
@@ -39104,6 +39185,9 @@
 22936	http://dbpedia.org/resource/Maryland
 22940	http://dbpedia.org/resource/Germany
 22941	Münster, Germany@en
+22942	http://dbpedia.org/resource/Chicago
+22942	http://dbpedia.org/resource/Oak_Park,_Illinois
+22942	http://dbpedia.org/resource/United_States
 22943	http://dbpedia.org/resource/Japan
 22944	http://dbpedia.org/resource/Eugene,_Oregon
 22946	http://dbpedia.org/resource/Buffalo,_New_York
@@ -39119,6 +39203,8 @@
 22952	http://dbpedia.org/resource/New_York_City
 22958	http://dbpedia.org/resource/Spokane,_Washington
 22958	http://dbpedia.org/resource/United_States
+22959	http://dbpedia.org/resource/LaGrange,_Georgia
+22959	http://dbpedia.org/resource/United_States
 22960	http://dbpedia.org/resource/New_York_City
 22962	http://dbpedia.org/resource/California
 22962	http://dbpedia.org/resource/Los_Angeles
@@ -39181,11 +39267,16 @@
 23022	http://dbpedia.org/resource/Belleville,_Ontario
 23025	http://dbpedia.org/resource/Finsp%C3%A5ng
 23025	http://dbpedia.org/resource/Sweden
+23026	http://dbpedia.org/resource/Santa_Monica,_California
+23026	http://dbpedia.org/resource/United_States
 23028	http://dbpedia.org/resource/Rhode_Island
 23028	http://dbpedia.org/resource/Providence,_Rhode_Island
 23028	http://dbpedia.org/resource/United_States
 23033	http://dbpedia.org/resource/San_Francisco
 23033	http://dbpedia.org/resource/California
+23034	http://dbpedia.org/resource/Andalusia
+23034	http://dbpedia.org/resource/Spain
+23034	http://dbpedia.org/resource/M%C3%A1laga
 23036	Zagreb, Croatia@en
 23037	http://dbpedia.org/resource/Honshu
 23037	http://dbpedia.org/resource/Japan
@@ -39197,6 +39288,7 @@
 23046	http://dbpedia.org/resource/England
 23047	http://dbpedia.org/resource/Karlsruhe
 23047	http://dbpedia.org/resource/Germany
+23049	http://dbpedia.org/resource/Dominican_Republic
 23051	http://dbpedia.org/resource/Sweden
 23052	http://dbpedia.org/resource/Russia
 23052	http://dbpedia.org/resource/Spas-Klepiki
@@ -39302,6 +39394,7 @@
 23163	http://dbpedia.org/resource/Rhode_Island
 23163	http://dbpedia.org/resource/Providence,_Rhode_Island
 23164	http://dbpedia.org/resource/California
+23165	http://dbpedia.org/resource/Scunthorpe
 23166	http://dbpedia.org/resource/Los_Angeles
 23166	http://dbpedia.org/resource/United_States
 23167	http://dbpedia.org/resource/Phoenix,_Arizona
@@ -39327,6 +39420,7 @@
 23192	http://dbpedia.org/resource/New_Mexico
 23193	http://dbpedia.org/resource/United_States
 23193	http://dbpedia.org/resource/Compton,_California
+23194	http://dbpedia.org/resource/Bridgeport,_Connecticut
 23197	http://dbpedia.org/resource/Italy
 23200	http://dbpedia.org/resource/Karlskoga
 23200	http://dbpedia.org/resource/Sweden
@@ -39425,6 +39519,8 @@
 23313	http://dbpedia.org/resource/United_States
 23314	http://dbpedia.org/resource/New_York_City
 23314	http://dbpedia.org/resource/Queens
+23316	http://dbpedia.org/resource/Fort_Lauderdale,_Florida
+23316	http://dbpedia.org/resource/United_States
 23318	http://dbpedia.org/resource/Zwijndrecht,_Netherlands
 23319	http://dbpedia.org/resource/Moi,_Norway
 23324	http://dbpedia.org/resource/Paris
@@ -39435,6 +39531,7 @@
 23328	http://dbpedia.org/resource/Canada
 23329	http://dbpedia.org/resource/Seattle
 23329	http://dbpedia.org/resource/Washington_(state)
+23332	http://dbpedia.org/resource/Sheffield
 23337	http://dbpedia.org/resource/Miami
 23337	http://dbpedia.org/resource/New_York
 23337	http://dbpedia.org/resource/New_York_City
@@ -39451,6 +39548,7 @@
 23344	http://dbpedia.org/resource/Asturias
 23349	http://dbpedia.org/resource/United_Kingdom
 23349	http://dbpedia.org/resource/London
+23350	http://dbpedia.org/resource/Princeton,_New_Jersey
 23352	http://dbpedia.org/resource/Arkansas
 23352	http://dbpedia.org/resource/Little_Rock,_Arkansas
 23353	http://dbpedia.org/resource/Detroit
@@ -39588,6 +39686,8 @@
 23495	http://dbpedia.org/resource/Belgrade
 23495	http://dbpedia.org/resource/Serbia
 23496	http://dbpedia.org/resource/Taiwan
+23497	http://dbpedia.org/resource/Northport,_New_York
+23497	http://dbpedia.org/resource/United_States
 23498	http://dbpedia.org/resource/Dublin
 23498	http://dbpedia.org/resource/Republic_of_Ireland
 23499	http://dbpedia.org/resource/Finland
@@ -39600,6 +39700,9 @@
 23513	http://dbpedia.org/resource/England
 23513	http://dbpedia.org/resource/West_Yorkshire
 23513	http://dbpedia.org/resource/Leeds
+23514	http://dbpedia.org/resource/Sinaloa
+23514	http://dbpedia.org/resource/Mexico
+23514	http://dbpedia.org/resource/Mazatl%C3%A1n
 23515	http://dbpedia.org/resource/Chicago
 23516	http://dbpedia.org/resource/Maryland
 23516	http://dbpedia.org/resource/United_States
@@ -39768,6 +39871,8 @@
 23685	http://dbpedia.org/resource/Los_Angeles
 23685	http://dbpedia.org/resource/United_States
 23690	http://dbpedia.org/resource/Japan
+23698	http://dbpedia.org/resource/France
+23698	http://dbpedia.org/resource/Pantin
 23699	http://dbpedia.org/resource/England
 23699	http://dbpedia.org/resource/Brighton
 23700	http://dbpedia.org/resource/Albany,_California
@@ -39817,6 +39922,9 @@
 23733	http://dbpedia.org/resource/United_Kingdom
 23733	http://dbpedia.org/resource/England
 23737	http://dbpedia.org/resource/Newcastle,_New_South_Wales
+23741	http://dbpedia.org/resource/Alberta
+23741	http://dbpedia.org/resource/Edmonton
+23741	http://dbpedia.org/resource/Canada
 23742	http://dbpedia.org/resource/Norway
 23742	http://dbpedia.org/resource/Oslo
 23744	http://dbpedia.org/resource/Los_Angeles
@@ -39829,6 +39937,8 @@
 23752	http://dbpedia.org/resource/France
 23754	http://dbpedia.org/resource/United_States
 23754	http://dbpedia.org/resource/Parris_Island,_South_Carolina
+23757	http://dbpedia.org/resource/Germany
+23757	http://dbpedia.org/resource/Munich
 23760	Crook of Devon, Scotland@en
 23763	http://dbpedia.org/resource/United_States
 23763	http://dbpedia.org/resource/California
@@ -39870,6 +39980,9 @@
 23807	http://dbpedia.org/resource/Morocco
 23808	http://dbpedia.org/resource/Norway
 23808	http://dbpedia.org/resource/Oslo
+23809	http://dbpedia.org/resource/Chicago
+23809	http://dbpedia.org/resource/Illinois
+23809	http://dbpedia.org/resource/United_States
 23812	http://dbpedia.org/resource/Middleburg,_Florida
 23812	http://dbpedia.org/resource/United_States
 23814	http://dbpedia.org/resource/Sweden
@@ -39896,6 +40009,7 @@
 23834	http://dbpedia.org/resource/United_States
 23834	http://dbpedia.org/resource/Orange,_Texas
 23837	http://dbpedia.org/resource/Atlanta
+23838	http://dbpedia.org/resource/Taiwan
 23840	http://dbpedia.org/resource/Riverside,_California
 23840	http://dbpedia.org/resource/United_States
 23845	http://dbpedia.org/resource/England
@@ -39903,6 +40017,8 @@
 23846	http://dbpedia.org/resource/United_States
 23846	http://dbpedia.org/resource/Bearden,_Oklahoma
 23846	http://dbpedia.org/resource/Oklahoma
+23849	http://dbpedia.org/resource/California
+23849	http://dbpedia.org/resource/San_Diego
 23854	http://dbpedia.org/resource/Mexico_City
 23854	http://dbpedia.org/resource/Mexico
 23857	http://dbpedia.org/resource/Chatham,_Kent
@@ -40102,6 +40218,8 @@
 24067	http://dbpedia.org/resource/United_States
 24068	http://dbpedia.org/resource/England
 24068	http://dbpedia.org/resource/Oxford
+24071	http://dbpedia.org/resource/Japan
+24071	http://dbpedia.org/resource/Koganei,_Tokyo
 24072	http://dbpedia.org/resource/United_States
 24072	http://dbpedia.org/resource/Houston
 24072	http://dbpedia.org/resource/Texas
@@ -40118,6 +40236,8 @@
 24087	http://dbpedia.org/resource/New_York_City
 24087	http://dbpedia.org/resource/United_States
 24087	http://dbpedia.org/resource/Brooklyn
+24089	http://dbpedia.org/resource/Japan
+24089	http://dbpedia.org/resource/Tait%C5%8D,_Tokyo
 24090	Detroit, Michigan, U.S.@en
 24092	http://dbpedia.org/resource/Taiwan
 24093	http://dbpedia.org/resource/%C3%9Csk%C3%BCdar
@@ -40150,6 +40270,8 @@
 24115	http://dbpedia.org/resource/Glasgow
 24116	http://dbpedia.org/resource/Santa_Fe,_Argentina
 24116	http://dbpedia.org/resource/Argentina
+24117	http://dbpedia.org/resource/Independence,_Missouri
+24117	http://dbpedia.org/resource/United_States
 24118	http://dbpedia.org/resource/Oakland,_California
 24120	http://dbpedia.org/resource/Corona,_California
 24122	http://dbpedia.org/resource/England
@@ -40162,6 +40284,7 @@
 24131	http://dbpedia.org/resource/Canada
 24131	http://dbpedia.org/resource/British_Columbia
 24131	http://dbpedia.org/resource/Vancouver
+24132	http://dbpedia.org/resource/Cambridge,_Massachusetts
 24133	http://dbpedia.org/resource/Philadelphia
 24133	http://dbpedia.org/resource/United_States
 24136	http://dbpedia.org/resource/Texas
@@ -40188,6 +40311,7 @@
 24164	http://dbpedia.org/resource/Flatbush,_Brooklyn
 24164	http://dbpedia.org/resource/New_York
 24164	http://dbpedia.org/resource/Brooklyn
+24166	http://dbpedia.org/resource/Hong_Kong
 24167	http://dbpedia.org/resource/Clackmannan
 24167	http://dbpedia.org/resource/Scotland
 24168	http://dbpedia.org/resource/Havana
@@ -40200,6 +40324,8 @@
 24175	http://dbpedia.org/resource/Athens
 24175	http://dbpedia.org/resource/Greece
 24177	http://dbpedia.org/resource/United_States
+24179	http://dbpedia.org/resource/United_States
+24179	http://dbpedia.org/resource/Baltimore
 24182	http://dbpedia.org/resource/New_York_City
 24182	http://dbpedia.org/resource/United_States
 24184	http://dbpedia.org/resource/Tambunan
@@ -40246,6 +40372,8 @@
 24225	http://dbpedia.org/resource/England
 24225	http://dbpedia.org/resource/London
 24226	Verwood, England@en
+24227	http://dbpedia.org/resource/The_Bronx
+24227	http://dbpedia.org/resource/United_States
 24228	http://dbpedia.org/resource/Norway
 24228	http://dbpedia.org/resource/Nesodden
 24229	Hong Kong@en
@@ -40283,6 +40411,7 @@
 24267	http://dbpedia.org/resource/Italy
 24267	http://dbpedia.org/resource/Turin
 24269	http://dbpedia.org/resource/London
+24270	http://dbpedia.org/resource/New_York
 24273	http://dbpedia.org/resource/Colorado
 24273	http://dbpedia.org/resource/Denver
 24275	http://es.dbpedia.org/resource/España
@@ -40318,6 +40447,9 @@
 24304	http://dbpedia.org/resource/Tampa,_Florida
 24307	http://dbpedia.org/resource/Cleveland
 24307	http://dbpedia.org/resource/United_States
+24308	http://dbpedia.org/resource/Brooklyn
+24308	http://dbpedia.org/resource/New_York
+24308	http://dbpedia.org/resource/United_States
 24309	http://dbpedia.org/resource/United_States
 24309	http://dbpedia.org/resource/Los_Angeles
 24310	http://dbpedia.org/resource/United_Kingdom
@@ -40358,6 +40490,8 @@
 24352	http://dbpedia.org/resource/Havana
 24355	http://dbpedia.org/resource/Christchurch
 24355	http://dbpedia.org/resource/New_Zealand
+24357	http://dbpedia.org/resource/Raleigh,_North_Carolina
+24357	http://dbpedia.org/resource/United_States
 24358	http://dbpedia.org/resource/Toronto
 24358	http://dbpedia.org/resource/Ontario
 24358	http://dbpedia.org/resource/Canada
@@ -40375,6 +40509,7 @@
 24369	http://dbpedia.org/resource/Adelaide
 24369	http://dbpedia.org/resource/South_Australia
 24373	http://es.dbpedia.org/resource/Málaga
+24374	http://dbpedia.org/resource/Chicago
 24377	Detroit, Michigan, U.S.@en
 24378	http://dbpedia.org/resource/V%C3%A4stervik
 24378	http://dbpedia.org/resource/Sweden
@@ -40425,6 +40560,11 @@
 24416	http://dbpedia.org/resource/Mabou,_Nova_Scotia
 24417	http://dbpedia.org/resource/Gothenburg
 24417	http://dbpedia.org/resource/Sweden
+24418	http://dbpedia.org/resource/Kiel
+24418	http://dbpedia.org/resource/German_Empire
+24419	http://dbpedia.org/resource/The_Bronx
+24419	http://dbpedia.org/resource/New_York
+24419	http://dbpedia.org/resource/United_States
 24421	London, England, UK@en
 24423	http://dbpedia.org/resource/Rio_Grande_do_Sul
 24423	http://dbpedia.org/resource/Brazil
@@ -40560,6 +40700,7 @@
 24563	http://dbpedia.org/resource/United_Kingdom
 24563	http://dbpedia.org/resource/Belfast
 24563	http://dbpedia.org/resource/Northern_Ireland
+24564	http://dbpedia.org/resource/Paris
 24565	http://dbpedia.org/resource/Georgia_(U.S._state)
 24565	http://dbpedia.org/resource/Atlanta
 24565	http://dbpedia.org/resource/United_States
@@ -40593,6 +40734,7 @@
 24581	http://dbpedia.org/resource/United_States
 24583	http://dbpedia.org/resource/Staffordshire
 24583	http://dbpedia.org/resource/Cannock
+24584	http://dbpedia.org/resource/Chester,_Pennsylvania
 24585	http://dbpedia.org/resource/Siparia
 24585	http://dbpedia.org/resource/Trinidad_and_Tobago
 24586	http://dbpedia.org/resource/Davyhulme
@@ -40719,6 +40861,7 @@
 24715	http://dbpedia.org/resource/United_States
 24715	http://dbpedia.org/resource/Potsdam,_New_York
 24717	http://dbpedia.org/resource/Fort_Worth,_Texas
+24718	http://dbpedia.org/resource/New_York_City
 24719	http://dbpedia.org/resource/Fairfield,_California
 24722	http://dbpedia.org/resource/England
 24722	http://dbpedia.org/resource/London
@@ -40772,6 +40915,8 @@
 24786	http://dbpedia.org/resource/United_Kingdom
 24787	http://dbpedia.org/resource/Johns_Island,_South_Carolina
 24787	http://dbpedia.org/resource/United_States
+24791	http://dbpedia.org/resource/Netherlands
+24791	http://dbpedia.org/resource/The_Hague
 24794	http://dbpedia.org/resource/City_of_London
 24794	http://dbpedia.org/resource/Guildhall_School_of_Music_and_Drama
 24795	http://dbpedia.org/resource/England
@@ -40797,6 +40942,10 @@
 24809	http://dbpedia.org/resource/K%C4%B1r%C5%9Fehir
 24809	http://dbpedia.org/resource/Turkey
 24809	http://dbpedia.org/resource/%C3%87i%C3%A7ekda%C4%9F%C4%B1,_K%C4%B1r%C5%9Fehir
+24812	http://dbpedia.org/resource/Lancashire
+24812	http://dbpedia.org/resource/England
+24812	http://dbpedia.org/resource/Salford,_Greater_Manchester
+24812	http://dbpedia.org/resource/Broughton,_Salford
 24819	http://dbpedia.org/resource/London,_Ontario
 24819	http://dbpedia.org/resource/Canada
 24820	http://dbpedia.org/resource/Murfreesboro,_Tennessee
@@ -40910,6 +41059,9 @@
 24923	http://dbpedia.org/resource/Olympia,_Washington
 24923	http://dbpedia.org/resource/Washington_(state)
 24923	http://dbpedia.org/resource/United_States
+24925	http://dbpedia.org/resource/Brighton
+24925	http://dbpedia.org/resource/Sussex
+24925	http://dbpedia.org/resource/England
 24930	http://dbpedia.org/resource/Germany
 24930	http://dbpedia.org/resource/Hamburg
 24933	http://dbpedia.org/resource/Greece
@@ -41076,6 +41228,8 @@
 25119	http://dbpedia.org/resource/Stockholm
 25125	http://dbpedia.org/resource/Russian_Empire
 25125	http://dbpedia.org/resource/Mogilev
+25126	http://dbpedia.org/resource/Japan
+25126	http://dbpedia.org/resource/Tokyo
 25130	http://dbpedia.org/resource/California
 25130	http://dbpedia.org/resource/Long_Beach,_California
 25130	http://dbpedia.org/resource/United_States
@@ -41085,6 +41239,7 @@
 25133	http://dbpedia.org/resource/Prague
 25134	http://dbpedia.org/resource/Oslo
 25135	http://dbpedia.org/resource/Petaluma,_California
+25136	http://dbpedia.org/resource/San_Jose,_California
 25137	http://dbpedia.org/resource/San_Francisco
 25137	http://dbpedia.org/resource/California
 25137	http://dbpedia.org/resource/United_States
@@ -41140,12 +41295,20 @@
 25184	http://dbpedia.org/resource/Washington,_D.C.
 25186	http://dbpedia.org/resource/Long_Island
 25186	http://dbpedia.org/resource/United_States
+25189	http://dbpedia.org/resource/Toronto
+25189	http://dbpedia.org/resource/Ontario
+25189	http://dbpedia.org/resource/Canada
 25192	http://dbpedia.org/resource/London
 25192	http://dbpedia.org/resource/Mitcham,_London
 25196	http://dbpedia.org/resource/Texas
 25196	http://dbpedia.org/resource/United_States
 25196	http://dbpedia.org/resource/Dallas
 25197	http://dbpedia.org/resource/Dallas
+25201	http://dbpedia.org/resource/Connecticut
+25201	http://dbpedia.org/resource/United_States
+25201	http://dbpedia.org/resource/Trumbull,_Connecticut
+25202	http://dbpedia.org/resource/South_Korea
+25202	http://dbpedia.org/resource/Busan
 25203	http://dbpedia.org/resource/Vienna
 25207	http://dbpedia.org/resource/Bangkok
 25207	http://dbpedia.org/resource/Thailand
@@ -41614,6 +41777,7 @@
 25724	http://dbpedia.org/resource/Indonesia
 25724	http://dbpedia.org/resource/West_Java
 25724	http://dbpedia.org/resource/Bandung
+25726	http://dbpedia.org/resource/Rio_de_Janeiro
 25728	http://dbpedia.org/resource/Northampton
 25728	http://dbpedia.org/resource/England
 25732	http://dbpedia.org/resource/United_States
@@ -41646,6 +41810,8 @@
 25765	http://dbpedia.org/resource/United_Kingdom
 25765	http://dbpedia.org/resource/Wiltshire
 25768	http://dbpedia.org/resource/Sweden
+25770	http://dbpedia.org/resource/Belgium
+25770	http://dbpedia.org/resource/Hasselt
 25773	http://dbpedia.org/resource/Finland
 25773	http://dbpedia.org/resource/Helsinki
 25774	http://dbpedia.org/resource/Sherbrooke
@@ -41667,8 +41833,12 @@
 25787	http://dbpedia.org/resource/United_States
 25789	http://dbpedia.org/resource/Manila
 25789	http://dbpedia.org/resource/Philippines
+25790	http://dbpedia.org/resource/Netherlands
+25790	http://dbpedia.org/resource/South_Holland
+25790	http://dbpedia.org/resource/Leiderdorp
 25791	http://dbpedia.org/resource/Castelsarrasin
 25791	http://dbpedia.org/resource/France
+25792	http://dbpedia.org/resource/Richland,_Washington
 25796	http://dbpedia.org/resource/Jackson,_Tennessee
 25798	http://dbpedia.org/resource/Burlington,_Vermont
 25799	http://dbpedia.org/resource/Vancouver
@@ -41689,11 +41859,15 @@
 25815	http://dbpedia.org/resource/Troms
 25824	http://es.dbpedia.org/resource/España
 25824	http://es.dbpedia.org/resource/Zaragoza
+25825	http://dbpedia.org/resource/Taiwan
+25825	http://dbpedia.org/resource/Donghe,_Taitung
+25825	http://dbpedia.org/resource/Taitung_County
 25826	http://dbpedia.org/resource/Gloucestershire
 25826	http://dbpedia.org/resource/Stroud
 25827	http://es.dbpedia.org/resource/México
 25827	http://es.dbpedia.org/resource/México,_D._F.
 25827	http://es.dbpedia.org/resource/Ciudad_de_México
+25829	http://dbpedia.org/resource/Leigh-on-Sea
 25830	http://dbpedia.org/resource/Chicago
 25830	http://dbpedia.org/resource/United_States
 25831	http://dbpedia.org/resource/South_Africa
@@ -41782,6 +41956,8 @@
 25939	http://dbpedia.org/resource/Netherlands
 25939	http://dbpedia.org/resource/Kaatsheuvel
 25943	Sassuolo@en
+25946	http://dbpedia.org/resource/Brazil
+25946	http://dbpedia.org/resource/Londrina
 25949	http://dbpedia.org/resource/Brooklyn
 25953	http://es.dbpedia.org/resource/Asturias
 25953	http://es.dbpedia.org/resource/España
@@ -41856,8 +42032,11 @@
 26034	http://dbpedia.org/resource/The_Hague
 26039	http://dbpedia.org/resource/Riverside,_California
 26039	http://dbpedia.org/resource/United_States
+26041	http://dbpedia.org/resource/Millbrae,_California
+26041	http://dbpedia.org/resource/United_States
 26042	http://dbpedia.org/resource/Broken_Hill,_New_South_Wales
 26047	http://dbpedia.org/resource/United_States
+26048	http://dbpedia.org/resource/Hong_Kong
 26053	http://dbpedia.org/resource/Port_Elizabeth
 26053	http://dbpedia.org/resource/South_Africa
 26054	http://dbpedia.org/resource/Sweden
@@ -41918,6 +42097,8 @@
 26125	http://dbpedia.org/resource/Oxfordshire
 26125	http://dbpedia.org/resource/England
 26125	http://dbpedia.org/resource/Oxford
+26126	http://dbpedia.org/resource/United_Kingdom
+26126	http://dbpedia.org/resource/Oxford
 26134	http://dbpedia.org/resource/Denver
 26134	http://dbpedia.org/resource/United_States
 26134	http://dbpedia.org/resource/Colorado
@@ -41949,6 +42130,9 @@
 26158	http://dbpedia.org/resource/Illinois
 26158	http://dbpedia.org/resource/Chicago
 26158	http://dbpedia.org/resource/United_States
+26159	http://dbpedia.org/resource/Masovian_Voivodeship
+26159	http://dbpedia.org/resource/Warsaw
+26159	http://dbpedia.org/resource/Poland
 26162	Minneapolis, United States@en
 26163	http://dbpedia.org/resource/Lafayette,_Indiana
 26163	http://dbpedia.org/resource/United_States
@@ -41992,6 +42176,8 @@
 26206	http://dbpedia.org/resource/Illinois
 26210	http://dbpedia.org/resource/Houston
 26210	http://dbpedia.org/resource/United_States
+26211	http://dbpedia.org/resource/Japan
+26211	http://dbpedia.org/resource/Tokyo
 26212	http://dbpedia.org/resource/Liverpool
 26216	http://dbpedia.org/resource/Los_Angeles
 26216	http://dbpedia.org/resource/California
@@ -42066,6 +42252,8 @@
 26275	http://dbpedia.org/resource/California
 26275	http://dbpedia.org/resource/Los_Angeles
 26275	http://dbpedia.org/resource/United_States
+26276	http://dbpedia.org/resource/Finland
+26276	http://dbpedia.org/resource/Tampere
 26279	http://dbpedia.org/resource/Detroit
 26279	http://dbpedia.org/resource/Michigan
 26279	http://dbpedia.org/resource/United_States
@@ -42148,6 +42336,8 @@
 26384	http://dbpedia.org/resource/United_States
 26388	http://dbpedia.org/resource/Turku
 26388	http://dbpedia.org/resource/Finland
+26389	http://dbpedia.org/resource/London,_Ontario
+26389	http://dbpedia.org/resource/Ontario
 26390	http://dbpedia.org/resource/Wills_Point,_Texas
 26390	http://dbpedia.org/resource/Texas
 26390	http://dbpedia.org/resource/United_States
@@ -42165,6 +42355,8 @@
 26398	http://dbpedia.org/resource/England
 26398	http://dbpedia.org/resource/Essex
 26405	http://dbpedia.org/resource/Perth
+26410	http://dbpedia.org/resource/Springfield,_Missouri
+26410	http://dbpedia.org/resource/United_States
 26411	http://dbpedia.org/resource/Stockholm
 26411	http://dbpedia.org/resource/Sweden
 26412	http://dbpedia.org/resource/Milan
@@ -42185,6 +42377,7 @@
 26424	http://dbpedia.org/resource/Brentwood,_New_York
 26430	http://dbpedia.org/resource/Ames,_Iowa
 26430	http://dbpedia.org/resource/United_States
+26432	http://dbpedia.org/resource/Kentucky
 26437	http://es.dbpedia.org/resource/España
 26437	http://dbpedia.org/resource/Spain
 26438	Japan, United States@en
@@ -42377,6 +42570,9 @@
 26660	http://dbpedia.org/resource/New_Brunswick
 26661	http://dbpedia.org/resource/Spain
 26661	http://dbpedia.org/resource/Madrid
+26665	http://dbpedia.org/resource/California
+26665	http://dbpedia.org/resource/Los_Angeles
+26665	http://dbpedia.org/resource/United_States
 26669	http://dbpedia.org/resource/San_Francisco
 26669	http://dbpedia.org/resource/California
 26669	http://dbpedia.org/resource/United_States
@@ -42412,6 +42608,9 @@
 26713	http://dbpedia.org/resource/Gary,_Indiana
 26714	http://dbpedia.org/resource/Norway
 26714	http://dbpedia.org/resource/Oslo
+26721	http://dbpedia.org/resource/Bacup
+26721	http://dbpedia.org/resource/Lancashire
+26721	http://dbpedia.org/resource/England
 26722	http://dbpedia.org/resource/Saint_Paul,_Minnesota
 26726	Bradford, England, UK@en
 26731	Uddevalla, Sweden@en
@@ -42488,6 +42687,8 @@
 26810	http://dbpedia.org/resource/Melbourne
 26812	http://dbpedia.org/resource/Memphis,_Tennessee
 26812	http://dbpedia.org/resource/United_States
+26819	http://dbpedia.org/resource/Wiederstedt
+26819	http://dbpedia.org/resource/Electorate_of_Saxony
 26820	http://dbpedia.org/resource/New_Jersey
 26820	http://dbpedia.org/resource/New_Brunswick,_New_Jersey
 26823	http://dbpedia.org/resource/Link%C3%B6ping
@@ -42787,6 +42988,8 @@
 27144	http://dbpedia.org/resource/New_Orleans
 27144	http://dbpedia.org/resource/Louisiana
 27144	http://dbpedia.org/resource/United_States
+27146	http://dbpedia.org/resource/Lexington,_Kentucky
+27146	http://dbpedia.org/resource/United_States
 27153	http://es.dbpedia.org/resource/Santiago_de_Compostela
 27153	http://es.dbpedia.org/resource/Galicia
 27153	http://es.dbpedia.org/resource/Santiago_de_compostela
@@ -42811,9 +43014,13 @@
 27178	http://pt.dbpedia.org/resource/Fortaleza
 27178	http://pt.dbpedia.org/resource/Ceará
 27180	http://dbpedia.org/resource/Indianapolis
+27181	http://dbpedia.org/resource/West_Germany
+27181	http://dbpedia.org/resource/Hanover
 27183	http://dbpedia.org/resource/Australia
 27186	http://dbpedia.org/resource/Scotland
 27189	Melbourne, Victoria, Australia@en
+27194	http://dbpedia.org/resource/Vienna
+27194	http://dbpedia.org/resource/Austria-Hungary
 27199	http://dbpedia.org/resource/Medell%C3%ADn
 27200	http://dbpedia.org/resource/Germany
 27201	http://dbpedia.org/resource/South_Africa
@@ -42936,6 +43143,8 @@
 27327	http://dbpedia.org/resource/Sweden
 27332	http://dbpedia.org/resource/Bulgaria
 27332	http://dbpedia.org/resource/Sofia
+27337	http://dbpedia.org/resource/German_Empire
+27337	http://dbpedia.org/resource/Hamburg
 27338	http://dbpedia.org/resource/Japan
 27338	http://dbpedia.org/resource/Fukuchiyama,_Kyoto
 27338	http://dbpedia.org/resource/Kyoto_Prefecture
@@ -43046,6 +43255,8 @@
 27504	http://dbpedia.org/resource/Itami,_Hy%C5%8Dgo
 27504	http://dbpedia.org/resource/Japan
 27504	http://dbpedia.org/resource/Hy%C5%8Dgo_Prefecture
+27505	http://dbpedia.org/resource/Germany
+27505	http://dbpedia.org/resource/Ulm
 27507	Paris, France@en
 27508	http://dbpedia.org/resource/Liverpool
 27509	Libertyville, Illinois, United States@en
@@ -43173,6 +43384,8 @@
 27695	http://dbpedia.org/resource/Detroit
 27695	http://dbpedia.org/resource/Michigan
 27696	Portland, OR, U.S.@en
+27700	http://dbpedia.org/resource/Berlin
+27700	http://dbpedia.org/resource/Germany
 27702	http://dbpedia.org/resource/England
 27702	http://dbpedia.org/resource/London
 27703	http://dbpedia.org/resource/California
@@ -43185,6 +43398,8 @@
 27714	http://dbpedia.org/resource/Jakarta
 27716	http://dbpedia.org/resource/Osaka
 27716	http://dbpedia.org/resource/Japan
+27717	http://dbpedia.org/resource/Iran
+27717	http://dbpedia.org/resource/Ahvaz
 27718	http://dbpedia.org/resource/South_Korea
 27719	http://dbpedia.org/resource/Port_Elizabeth
 27719	http://dbpedia.org/resource/South_Africa
@@ -43206,6 +43421,8 @@
 27738	http://dbpedia.org/resource/Asbury_Park,_New_Jersey
 27738	http://dbpedia.org/resource/United_States
 27740	http://dbpedia.org/resource/Sacramento,_California
+27742	http://dbpedia.org/resource/Paris
+27742	http://dbpedia.org/resource/France
 27744	http://dbpedia.org/resource/Stockholm
 27744	http://dbpedia.org/resource/Sweden
 27747	http://dbpedia.org/resource/Australia
@@ -43246,6 +43463,8 @@
 27824	http://dbpedia.org/resource/Fortis_Green
 27825	http://dbpedia.org/resource/Brooklyn
 27825	http://dbpedia.org/resource/United_States
+27832	http://dbpedia.org/resource/Charlottetown
+27832	http://dbpedia.org/resource/Canada
 27833	http://dbpedia.org/resource/Pihtipudas
 27833	http://dbpedia.org/resource/Finland
 27834	Diemen, Netherlands@en
@@ -43264,6 +43483,7 @@
 27844	http://dbpedia.org/resource/Haynesville,_Louisiana
 27844	http://dbpedia.org/resource/United_States
 27845	http://dbpedia.org/resource/Leatherhead
+27850	http://dbpedia.org/resource/Philadelphia
 27851	http://dbpedia.org/resource/Bangkok
 27851	http://dbpedia.org/resource/Thailand
 27852	http://dbpedia.org/resource/Texas
@@ -43286,6 +43506,8 @@
 27869	http://dbpedia.org/resource/Birmingham,_Alabama
 27871	http://es.dbpedia.org/resource/Catemu
 27871	http://es.dbpedia.org/resource/Chile
+27872	http://dbpedia.org/resource/St._Louis
+27872	http://dbpedia.org/resource/United_States
 27873	http://dbpedia.org/resource/New_York
 27873	http://dbpedia.org/resource/New_York_City
 27873	http://dbpedia.org/resource/United_States
@@ -43315,6 +43537,10 @@
 27911	http://dbpedia.org/resource/Dublin
 27911	http://dbpedia.org/resource/Republic_of_Ireland
 27912	http://dbpedia.org/resource/United_States
+27919	http://dbpedia.org/resource/Japan
+27919	http://dbpedia.org/resource/Tokyo
+27919	http://dbpedia.org/resource/Aoyama,_Minato,_Tokyo
+27919	http://dbpedia.org/resource/Minato,_Tokyo
 27920	http://dbpedia.org/resource/Birmingham
 27920	http://dbpedia.org/resource/Warwickshire
 27922	http://dbpedia.org/resource/Stockholm
@@ -43383,6 +43609,8 @@
 28003	UK@en
 28010	http://dbpedia.org/resource/Germany
 28010	http://dbpedia.org/resource/Hanover
+28011	http://dbpedia.org/resource/Sitka,_Alaska
+28011	http://dbpedia.org/resource/United_States
 28012	http://dbpedia.org/resource/New_York_City
 28014	http://dbpedia.org/resource/Shropshire
 28014	http://dbpedia.org/resource/United_Kingdom
@@ -43431,6 +43659,7 @@
 28070	Lakeland, Florida, United States@en
 28071	http://dbpedia.org/resource/Dominican_Republic
 28071	http://dbpedia.org/resource/Puerto_Rico
+28073	http://dbpedia.org/resource/Wayne,_Nebraska
 28075	http://dbpedia.org/resource/Los_Angeles
 28075	http://dbpedia.org/resource/United_States
 28076	http://dbpedia.org/resource/Finland
@@ -43628,6 +43857,8 @@
 28322	Brisbane, Queensland, Australia@en
 28326	http://dbpedia.org/resource/Long_Island
 28326	http://dbpedia.org/resource/United_States
+28327	http://dbpedia.org/resource/Weimar
+28327	http://dbpedia.org/resource/Germany
 28328	http://dbpedia.org/resource/Belgrade
 28328	http://dbpedia.org/resource/Serbia
 28331	Jamaica@en
@@ -43843,6 +44074,8 @@
 28625	http://dbpedia.org/resource/Japan
 28626	http://dbpedia.org/resource/Slovakia
 28626	http://dbpedia.org/resource/Bardejov
+28627	http://dbpedia.org/resource/Brandenburg_an_der_Havel
+28627	http://dbpedia.org/resource/German_Reich
 28628	http://dbpedia.org/resource/Atlanta
 28628	http://dbpedia.org/resource/United_States
 28629	http://dbpedia.org/resource/Kansas_City,_Missouri
@@ -43858,11 +44091,15 @@
 28645	http://dbpedia.org/resource/England
 28646	http://dbpedia.org/resource/Fukuoka
 28647	http://dbpedia.org/resource/Bolton
+28649	http://dbpedia.org/resource/Port-au-Prince
 28650	http://dbpedia.org/resource/County_Galway
 28650	http://dbpedia.org/resource/Ireland
 28655	http://dbpedia.org/resource/United_Kingdom
 28655	http://dbpedia.org/resource/London
 28655	http://dbpedia.org/resource/England
+28656	http://dbpedia.org/resource/England
+28656	http://dbpedia.org/resource/London
+28656	http://dbpedia.org/resource/Croydon
 28657	http://dbpedia.org/resource/Vancouver
 28657	http://dbpedia.org/resource/British_Columbia
 28657	http://dbpedia.org/resource/Canada
@@ -43911,6 +44148,8 @@
 28726	http://dbpedia.org/resource/New_York
 28726	http://dbpedia.org/resource/New_York_City
 28726	http://dbpedia.org/resource/United_States
+28727	http://dbpedia.org/resource/United_States
+28727	http://dbpedia.org/resource/Sheboygan,_Wisconsin
 28731	http://dbpedia.org/resource/New_York_City
 28731	http://dbpedia.org/resource/New_York
 28731	http://dbpedia.org/resource/United_States
@@ -43959,6 +44198,7 @@
 28781	http://dbpedia.org/resource/Bergen
 28782	Raised: Austin, Texas@en
 28782	Born: San Antonio, Texas@en
+28784	http://dbpedia.org/resource/Monroeville,_Alabama
 28785	http://dbpedia.org/resource/New_Jersey
 28785	http://dbpedia.org/resource/United_States
 28785	http://dbpedia.org/resource/Vineland,_New_Jersey
@@ -43987,6 +44227,8 @@
 28832	http://dbpedia.org/resource/Osaka
 28832	http://dbpedia.org/resource/Japan
 28833	http://dbpedia.org/resource/Japan
+28834	http://dbpedia.org/resource/Paris
+28834	http://dbpedia.org/resource/France
 28836	http://dbpedia.org/resource/Northampton
 28836	http://dbpedia.org/resource/England
 28842	http://dbpedia.org/resource/Bromborough
@@ -44033,6 +44275,9 @@
 28900	http://dbpedia.org/resource/Ontario
 28900	http://dbpedia.org/resource/Kingston,_Ontario
 28900	http://dbpedia.org/resource/Canada
+28901	http://dbpedia.org/resource/Republic_of_Ireland
+28901	http://dbpedia.org/resource/Mullingar
+28901	http://dbpedia.org/resource/County_Westmeath
 28905	http://dbpedia.org/resource/San_Diego
 28905	http://dbpedia.org/resource/Fairfield_County,_Connecticut
 28908	http://dbpedia.org/resource/New_York_City
@@ -44205,6 +44450,8 @@
 29165	http://dbpedia.org/resource/Pakistan
 29165	http://dbpedia.org/resource/Larkana
 29168	http://dbpedia.org/resource/Rahway,_New_Jersey
+29169	http://dbpedia.org/resource/Sweden
+29169	http://dbpedia.org/resource/Farsta
 29170	Sacramento, California, United States@en
 29175	http://dbpedia.org/resource/Los_Angeles
 29175	http://dbpedia.org/resource/United_States
@@ -44225,6 +44472,8 @@
 29211	http://dbpedia.org/resource/Vancouver
 29211	http://dbpedia.org/resource/British_Columbia
 29211	http://dbpedia.org/resource/Canada
+29212	http://dbpedia.org/resource/Colombia
+29212	http://dbpedia.org/resource/Barranquilla
 29214	http://dbpedia.org/resource/Russia
 29218	http://dbpedia.org/resource/Bristol,_Tennessee
 29223	http://dbpedia.org/resource/Ireland
@@ -44257,6 +44506,8 @@
 29259	http://dbpedia.org/resource/Winnipeg
 29259	http://dbpedia.org/resource/Manitoba
 29259	http://dbpedia.org/resource/Canada
+29262	http://dbpedia.org/resource/Germany
+29262	http://dbpedia.org/resource/Ulm
 29263	http://dbpedia.org/resource/San_Antonio
 29266	http://dbpedia.org/resource/Canada
 29266	http://dbpedia.org/resource/Toronto
@@ -44406,6 +44657,9 @@
 29456	http://dbpedia.org/resource/England
 29456	http://dbpedia.org/resource/Wiltshire
 29457	http://dbpedia.org/resource/Rio_de_Janeiro
+29460	http://dbpedia.org/resource/Riga
+29460	http://dbpedia.org/resource/Russian_Empire
+29460	http://dbpedia.org/resource/Governorate_of_Livonia
 29461	http://dbpedia.org/resource/New_York
 29461	http://dbpedia.org/resource/New_York_City
 29461	http://dbpedia.org/resource/United_States
@@ -44431,6 +44685,8 @@
 29490	http://dbpedia.org/resource/Brighton
 29490	http://dbpedia.org/resource/England
 29493	http://dbpedia.org/resource/Hyde_Park,_Chicago
+29496	http://dbpedia.org/resource/England
+29496	http://dbpedia.org/resource/Hampstead
 29497	France@en
 29498	http://dbpedia.org/resource/California
 29498	http://dbpedia.org/resource/Los_Angeles
@@ -44452,6 +44708,8 @@
 29528	http://dbpedia.org/resource/London
 29529	http://dbpedia.org/resource/Greece
 29529	http://dbpedia.org/resource/Giannitsa
+29530	http://dbpedia.org/resource/Turkey
+29530	http://dbpedia.org/resource/Hakk%C3%A2ri
 29531	http://dbpedia.org/resource/Australia
 29534	http://dbpedia.org/resource/Minnesota
 29534	http://dbpedia.org/resource/Paul_the_Apostle
@@ -44477,6 +44735,7 @@
 29550	http://dbpedia.org/resource/United_States
 29550	http://dbpedia.org/resource/Fort_Worth,_Texas
 29550	http://dbpedia.org/resource/Texas
+29557	http://dbpedia.org/resource/London
 29558	http://es.dbpedia.org/resource/Asturias
 29558	http://es.dbpedia.org/resource/Principado_de_Asturias
 29561	Stockholm, Sweden@en
@@ -44496,6 +44755,8 @@
 29584	http://dbpedia.org/resource/New_York_City
 29584	http://dbpedia.org/resource/United_States
 29584	http://dbpedia.org/resource/Greenwich_Village
+29587	http://dbpedia.org/resource/Portland,_Oregon
+29587	http://dbpedia.org/resource/United_States
 29591	http://dbpedia.org/resource/Chicago
 29593	http://dbpedia.org/resource/South_Jamaica,_Queens
 29593	http://dbpedia.org/resource/United_States
@@ -44568,6 +44829,9 @@
 29680	http://dbpedia.org/resource/California
 29680	http://dbpedia.org/resource/United_States
 29681	http://dbpedia.org/resource/Seattle
+29690	http://dbpedia.org/resource/Japan
+29690	http://dbpedia.org/resource/Chiba_Prefecture
+29690	http://dbpedia.org/resource/Kashiwa,_Chiba
 29691	http://dbpedia.org/resource/Los_Angeles
 29691	http://dbpedia.org/resource/California
 29695	http://dbpedia.org/resource/New_South_Wales
@@ -44631,6 +44895,8 @@
 29773	http://dbpedia.org/resource/Scotland
 29776	http://dbpedia.org/resource/Vermont
 29776	http://dbpedia.org/resource/Burlington,_Vermont
+29777	http://dbpedia.org/resource/Ayd%C4%B1n
+29777	http://dbpedia.org/resource/Turkey
 29779	http://dbpedia.org/resource/New_York_City
 29781	http://dbpedia.org/resource/Austria
 29782	http://dbpedia.org/resource/Huizen
@@ -44727,6 +44993,9 @@
 29910	http://dbpedia.org/resource/United_States
 29911	http://dbpedia.org/resource/Hokkaido
 29911	http://dbpedia.org/resource/Japan
+29915	http://dbpedia.org/resource/Kobe
+29915	http://dbpedia.org/resource/Japan
+29915	http://dbpedia.org/resource/Hy%C5%8Dgo_Prefecture
 29919	http://dbpedia.org/resource/United_States
 29919	http://dbpedia.org/resource/Annapolis,_Maryland
 29925	http://dbpedia.org/resource/United_Kingdom
@@ -44734,6 +45003,8 @@
 29928	http://dbpedia.org/resource/Hamilton,_Ontario
 29928	http://dbpedia.org/resource/Ontario
 29928	http://dbpedia.org/resource/Canada
+29929	http://dbpedia.org/resource/Kingdom_of_Romania
+29929	http://dbpedia.org/resource/Gala%C8%9Bi
 29931	http://dbpedia.org/resource/Los_Angeles
 29931	http://dbpedia.org/resource/United_States
 29933	http://dbpedia.org/resource/Miami
@@ -44744,9 +45015,14 @@
 29936	http://dbpedia.org/resource/Tehran
 29937	http://dbpedia.org/resource/India
 29937	http://dbpedia.org/resource/Kolkata
+29938	http://dbpedia.org/resource/Lorient
+29938	http://dbpedia.org/resource/France
 29939	http://dbpedia.org/resource/England
 29939	http://dbpedia.org/resource/Hitchin
 29939	http://dbpedia.org/resource/Hertfordshire
+29949	http://dbpedia.org/resource/Harlem
+29949	http://dbpedia.org/resource/New_York
+29949	http://dbpedia.org/resource/United_States
 29952	http://dbpedia.org/resource/Birmingham,_Alabama
 29953	http://dbpedia.org/resource/Toronto
 29953	http://dbpedia.org/resource/Ontario
@@ -44771,6 +45047,8 @@
 29973	http://dbpedia.org/resource/California
 29973	http://dbpedia.org/resource/Los_Angeles
 29973	http://dbpedia.org/resource/United_States
+29974	http://dbpedia.org/resource/Brazil
+29974	http://dbpedia.org/resource/Rio_de_Janeiro
 29979	http://dbpedia.org/resource/Canada
 29979	http://dbpedia.org/resource/Toronto
 29979	http://dbpedia.org/resource/Ontario
@@ -44795,6 +45073,8 @@
 30003	http://dbpedia.org/resource/New_York
 30003	http://dbpedia.org/resource/United_States
 30003	http://dbpedia.org/resource/Brooklyn
+30004	http://dbpedia.org/resource/Saint_Petersburg
+30004	http://dbpedia.org/resource/Russian_Empire
 30006	http://dbpedia.org/resource/Columbus,_Ohio
 30010	http://dbpedia.org/resource/Los_Angeles
 30011	Los Angeles, California, United States@en
@@ -44831,6 +45111,9 @@
 30060	http://dbpedia.org/resource/Shepherd's_Bush
 30063	http://dbpedia.org/resource/Harlem
 30064	Swedish artist of French origin@en
+30066	http://dbpedia.org/resource/United_Kingdom
+30066	http://dbpedia.org/resource/London
+30073	http://dbpedia.org/resource/Orange,_New_Jersey
 30074	http://dbpedia.org/resource/London
 30080	http://dbpedia.org/resource/New_York_City
 30082	http://dbpedia.org/resource/London
@@ -44900,6 +45183,9 @@
 30147	http://dbpedia.org/resource/Caracas
 30148	http://dbpedia.org/resource/Kingston,_Jamaica
 30148	http://dbpedia.org/resource/Franklyn_Town
+30151	http://dbpedia.org/resource/Hesse
+30151	http://dbpedia.org/resource/Frankfurt
+30151	http://dbpedia.org/resource/Germany
 30155	http://dbpedia.org/resource/Gothenburg
 30155	http://dbpedia.org/resource/Sweden
 30155	http://dbpedia.org/resource/J%C3%B6nk%C3%B6ping
@@ -44967,6 +45253,8 @@
 30226	http://dbpedia.org/resource/Ohio
 30226	http://dbpedia.org/resource/Lakewood,_Ohio
 30227	http://dbpedia.org/resource/Bogot%C3%A1
+30231	http://dbpedia.org/resource/Melbourne
+30231	http://dbpedia.org/resource/Australia
 30233	http://dbpedia.org/resource/United_States
 30233	http://dbpedia.org/resource/Boston
 30234	http://dbpedia.org/resource/Australia
@@ -45001,6 +45289,9 @@
 30273	http://dbpedia.org/resource/Namibia
 30274	http://dbpedia.org/resource/London
 30274	http://dbpedia.org/resource/England
+30280	http://dbpedia.org/resource/Chicago
+30280	http://dbpedia.org/resource/Illinois
+30280	http://dbpedia.org/resource/United_States
 30285	http://dbpedia.org/resource/Bologna
 30286	http://dbpedia.org/resource/Floriana
 30286	http://dbpedia.org/resource/Malta
@@ -45121,6 +45412,7 @@
 30453	http://dbpedia.org/resource/United_States
 30453	http://dbpedia.org/resource/New_York
 30453	http://dbpedia.org/resource/Staten_Island
+30458	http://dbpedia.org/resource/Mars_Hill,_North_Carolina
 30462	http://dbpedia.org/resource/Leeds
 30462	http://dbpedia.org/resource/England
 30462	http://dbpedia.org/resource/Garforth
@@ -45341,6 +45633,9 @@
 30822	http://pt.dbpedia.org/resource/Porto
 30823	http://dbpedia.org/resource/Detroit
 30823	http://dbpedia.org/resource/Michigan
+30825	http://dbpedia.org/resource/Columbus,_Ohio
+30825	http://dbpedia.org/resource/United_States
+30833	http://dbpedia.org/resource/Chicago
 30836	http://dbpedia.org/resource/Republic_of_Ireland
 30836	http://dbpedia.org/resource/Cork_(city)
 30840	Tokyo, Japan@en
@@ -45352,6 +45647,8 @@
 30847	http://dbpedia.org/resource/Australia
 30850	http://dbpedia.org/resource/Albania
 30850	http://dbpedia.org/resource/Burrel,_Albania
+30852	http://dbpedia.org/resource/Springfield,_Massachusetts
+30852	http://dbpedia.org/resource/United_States
 30858	http://dbpedia.org/resource/Chicago
 30858	http://dbpedia.org/resource/United_States
 30859	http://dbpedia.org/resource/Amsterdam
@@ -45377,6 +45674,8 @@
 30881	http://dbpedia.org/resource/United_States
 30881	http://dbpedia.org/resource/Hamtramck,_Michigan
 30889	Ireland@en
+30893	http://dbpedia.org/resource/New_York
+30893	http://dbpedia.org/resource/New_York_City
 30898	http://dbpedia.org/resource/Manat%C3%AD,_Puerto_Rico
 30898	http://dbpedia.org/resource/Puerto_Rico
 30899	http://dbpedia.org/resource/Long_Beach,_California
@@ -45386,6 +45685,8 @@
 30912	http://dbpedia.org/resource/Wichita,_Kansas
 30916	http://dbpedia.org/resource/Scotland
 30916	http://dbpedia.org/resource/Orkney
+30922	http://dbpedia.org/resource/Paris
+30922	http://dbpedia.org/resource/France
 30923	http://dbpedia.org/resource/Slovenia
 30923	http://dbpedia.org/resource/Novo_Mesto
 30924	http://dbpedia.org/resource/Los_Angeles
@@ -45499,9 +45800,14 @@
 31103	http://dbpedia.org/resource/Jackson,_Tennessee
 31103	http://dbpedia.org/resource/United_States
 31113	http://dbpedia.org/resource/Los_Angeles
+31116	http://dbpedia.org/resource/Germany
+31116	http://dbpedia.org/resource/Bremen
 31118	http://dbpedia.org/resource/Seattle
 31125	http://dbpedia.org/resource/New_England
 31125	http://dbpedia.org/resource/United_States
+31130	http://dbpedia.org/resource/Ramos_Mej%C3%ADa
+31130	http://dbpedia.org/resource/Buenos_Aires_Province
+31130	http://dbpedia.org/resource/Argentina
 31131	http://dbpedia.org/resource/British_Columbia
 31131	http://dbpedia.org/resource/Kelowna
 31131	http://dbpedia.org/resource/Canada
@@ -45536,6 +45842,7 @@
 31176	http://dbpedia.org/resource/S%C3%A3o_Paulo
 31184	http://dbpedia.org/resource/Bulgaria
 31184	http://dbpedia.org/resource/Dimitrovgrad,_Bulgaria
+31190	http://dbpedia.org/resource/Pasadena,_California
 31191	http://dbpedia.org/resource/Oakland,_California
 31192	http://dbpedia.org/resource/United_Kingdom
 31193	http://dbpedia.org/resource/Hamilton,_New_Zealand
@@ -45552,6 +45859,9 @@
 31202	http://dbpedia.org/resource/United_States
 31202	http://dbpedia.org/resource/California
 31203	http://dbpedia.org/resource/Pretoria
+31204	http://dbpedia.org/resource/Chicago
+31204	http://dbpedia.org/resource/Illinois
+31204	http://dbpedia.org/resource/United_States
 31210	http://dbpedia.org/resource/Ontario
 31210	http://dbpedia.org/resource/Kingston,_Ontario
 31210	http://dbpedia.org/resource/Canada
@@ -45593,6 +45903,8 @@
 31259	http://dbpedia.org/resource/Oakland,_California
 31260	http://dbpedia.org/resource/Illinois
 31260	http://dbpedia.org/resource/Cicero,_Illinois
+31266	http://dbpedia.org/resource/Belgium
+31266	http://dbpedia.org/resource/Lessines
 31269	Canberra, ACT, Australia@en
 31271	http://dbpedia.org/resource/United_States
 31271	http://dbpedia.org/resource/New_York_City
@@ -45671,6 +45983,8 @@
 31350	http://dbpedia.org/resource/Sweden
 31351	http://dbpedia.org/resource/United_States
 31351	http://dbpedia.org/resource/New_York
+31354	http://dbpedia.org/resource/Japan
+31354	http://dbpedia.org/resource/Aichi_Prefecture
 31361	Danbury, England@en
 31363	http://dbpedia.org/resource/Maryland
 31363	http://dbpedia.org/resource/New_York
@@ -45774,6 +46088,8 @@
 31527	http://dbpedia.org/resource/Mandeville,_Jamaica
 31534	http://dbpedia.org/resource/West_Palm_Beach,_Florida
 31534	http://dbpedia.org/resource/Florida
+31535	http://dbpedia.org/resource/Northampton
+31535	http://dbpedia.org/resource/England
 31537	Romford, England@en
 31550	http://dbpedia.org/resource/Boulogne-sur-Mer
 31555	http://dbpedia.org/resource/Belgium
@@ -45789,6 +46105,8 @@
 31575	http://dbpedia.org/resource/S%C3%A3o_Bernardo_do_Campo
 31575	http://dbpedia.org/resource/Brazil
 31577	http://dbpedia.org/resource/San_Francisco
+31579	http://dbpedia.org/resource/Bourbon_Restoration
+31579	http://dbpedia.org/resource/Nantes
 31581	http://dbpedia.org/resource/United_States
 31581	http://dbpedia.org/resource/New_York
 31581	http://dbpedia.org/resource/New_York_City
@@ -45871,6 +46189,8 @@
 31701	http://dbpedia.org/resource/United_States
 31704	http://dbpedia.org/resource/New_York
 31704	http://dbpedia.org/resource/Bushwick,_Brooklyn
+31709	http://dbpedia.org/resource/Venezuela
+31709	http://dbpedia.org/resource/Ciudad_Bol%C3%ADvar
 31715	http://dbpedia.org/resource/Sapporo
 31720	http://dbpedia.org/resource/Cambridge,_Massachusetts
 31721	http://dbpedia.org/resource/United_States
@@ -45881,6 +46201,9 @@
 31725	http://dbpedia.org/resource/Bloomington,_Indiana
 31727	http://dbpedia.org/resource/New_Orleans
 31727	http://dbpedia.org/resource/United_States
+31729	http://dbpedia.org/resource/Sarajevo
+31729	http://dbpedia.org/resource/Socialist_Federal_Republic_of_Yugoslavia
+31729	http://dbpedia.org/resource/Socialist_Republic_of_Bosnia_and_Herzegovina
 31730	http://dbpedia.org/resource/Eskilstuna
 31730	http://dbpedia.org/resource/Sweden
 31732	http://dbpedia.org/resource/B%C4%83l%C8%9Bi
@@ -45914,6 +46237,8 @@
 31775	http://dbpedia.org/resource/Basel
 31775	http://dbpedia.org/resource/Switzerland
 31784	http://dbpedia.org/resource/Adelaide
+31785	http://dbpedia.org/resource/Algeria
+31785	http://dbpedia.org/resource/Blida
 31797	http://dbpedia.org/resource/New_Zealand
 31802	http://dbpedia.org/resource/California
 31802	http://dbpedia.org/resource/Los_Angeles
@@ -45939,10 +46264,15 @@
 31823	http://dbpedia.org/resource/Las_Vegas_Valley
 31829	http://dbpedia.org/resource/Hollywood
 31829	http://dbpedia.org/resource/California
+31832	http://dbpedia.org/resource/Norway
+31832	http://dbpedia.org/resource/Oslo
 31835	http://dbpedia.org/resource/Norway
 31838	Lisbon, Portugal@en
 31840	http://dbpedia.org/resource/Washington,_D.C.
 31840	http://dbpedia.org/resource/United_States
+31841	http://dbpedia.org/resource/Japan
+31841	http://dbpedia.org/resource/Gunma_Prefecture
+31841	http://dbpedia.org/resource/Ohta
 31842	http://dbpedia.org/resource/New_Zealand
 31842	http://dbpedia.org/resource/Auckland
 31849	http://dbpedia.org/resource/Indianapolis
@@ -46022,6 +46352,8 @@
 31949	http://dbpedia.org/resource/Gotland
 31951	http://dbpedia.org/resource/V%C3%A4stervik
 31951	http://dbpedia.org/resource/Sweden
+31953	http://dbpedia.org/resource/State_College,_Pennsylvania
+31953	http://dbpedia.org/resource/United_States
 31954	http://dbpedia.org/resource/Los_Angeles
 31956	http://dbpedia.org/resource/Loretteville,_Quebec_City
 31956	http://dbpedia.org/resource/Quebec
@@ -46054,6 +46386,8 @@
 32007	http://es.dbpedia.org/resource/Barcelona
 32007	http://es.dbpedia.org/resource/España
 32007	http://es.dbpedia.org/resource/La_Ametlla
+32009	http://dbpedia.org/resource/Japan
+32009	http://dbpedia.org/resource/Tokyo
 32012	http://dbpedia.org/resource/Brazil
 32013	http://dbpedia.org/resource/Seoul
 32014	http://dbpedia.org/resource/Belfast
@@ -46103,6 +46437,8 @@
 32072	Pittsburgh, Pennsylvania@en
 32075	http://dbpedia.org/resource/Holland,_Michigan
 32083	http://dbpedia.org/resource/Germany
+32090	http://dbpedia.org/resource/Belgium
+32090	http://dbpedia.org/resource/Bruges
 32103	Madison, Wisconsin@en
 32104	http://dbpedia.org/resource/Canada
 32104	http://dbpedia.org/resource/Montreal
@@ -46133,6 +46469,8 @@
 32147	http://es.dbpedia.org/resource/Culiacán
 32147	http://es.dbpedia.org/resource/Sinaloa
 32147	http://es.dbpedia.org/resource/Culiacán_Rosales
+32150	http://dbpedia.org/resource/Queens
+32150	http://dbpedia.org/resource/United_States
 32153	http://dbpedia.org/resource/Taiwan
 32156	http://dbpedia.org/resource/South_Korea
 32168	http://dbpedia.org/resource/United_Kingdom
@@ -46205,6 +46543,8 @@
 32275	http://dbpedia.org/resource/Dallas
 32275	http://dbpedia.org/resource/Texas
 32275	http://dbpedia.org/resource/United_States
+32278	http://dbpedia.org/resource/Dublin
+32278	http://dbpedia.org/resource/Republic_of_Ireland
 32284	http://dbpedia.org/resource/Poland
 32285	http://dbpedia.org/resource/United_States
 32285	http://dbpedia.org/resource/Concord,_Massachusetts
@@ -46273,6 +46613,7 @@
 32388	http://dbpedia.org/resource/St._Albans,_Queens
 32388	http://dbpedia.org/resource/United_States
 32388	http://dbpedia.org/resource/New_York
+32389	http://dbpedia.org/resource/Helsinki
 32390	http://dbpedia.org/resource/West_Virginia
 32390	http://dbpedia.org/resource/Weirton,_West_Virginia
 32395	http://dbpedia.org/resource/Ghana
@@ -46319,6 +46660,9 @@
 32454	http://dbpedia.org/resource/British_Columbia
 32454	http://dbpedia.org/resource/Canada
 32459	http://dbpedia.org/resource/Portugal
+32460	http://dbpedia.org/resource/Kensington
+32460	http://dbpedia.org/resource/England
+32460	http://dbpedia.org/resource/London
 32461	http://dbpedia.org/resource/Bristol
 32461	http://dbpedia.org/resource/United_Kingdom
 32461	http://dbpedia.org/resource/England
@@ -46330,6 +46674,7 @@
 32469	http://dbpedia.org/resource/United_States
 32471	http://dbpedia.org/resource/United_States
 32471	http://dbpedia.org/resource/Cleveland
+32472	http://dbpedia.org/resource/Bessemer,_Alabama
 32475	http://dbpedia.org/resource/Georgia_(U.S._state)
 32475	http://dbpedia.org/resource/Atlanta
 32478	http://dbpedia.org/resource/United_States
@@ -46367,6 +46712,7 @@
 32546	http://dbpedia.org/resource/Presidencies_and_provinces_of_British_India
 32546	http://dbpedia.org/resource/Kolkata
 32547	http://dbpedia.org/resource/Orange_County,_California
+32550	http://dbpedia.org/resource/Stephens,_Arkansas
 32553	http://dbpedia.org/resource/Tallinn
 32553	http://dbpedia.org/resource/Estonia
 32561	http://dbpedia.org/resource/Brooklyn
@@ -46423,6 +46769,7 @@
 32657	http://dbpedia.org/resource/Birmingham
 32662	http://dbpedia.org/resource/San_Francisco
 32663	http://dbpedia.org/resource/Huntington_Beach,_California
+32666	http://dbpedia.org/resource/Marseille
 32678	http://dbpedia.org/resource/Feldbach,_Styria
 32680	http://dbpedia.org/resource/Oslo
 32682	http://dbpedia.org/resource/California
@@ -46445,6 +46792,8 @@
 32706	http://dbpedia.org/resource/Japan
 32706	http://dbpedia.org/resource/Sendai
 32709	Tokyo, Japan@en
+32711	http://dbpedia.org/resource/New_Haven,_Connecticut
+32711	http://dbpedia.org/resource/United_States
 32714	New York, New York, United States@en
 32716	http://dbpedia.org/resource/Houston
 32717	http://dbpedia.org/resource/Philippines
@@ -46482,13 +46831,19 @@
 32760	New York, New York@en
 32761	http://dbpedia.org/resource/Germany
 32761	http://dbpedia.org/resource/Hamburg
+32763	http://dbpedia.org/resource/Japan
+32763	http://dbpedia.org/resource/Tokyo
 32766	http://dbpedia.org/resource/England
 32766	http://dbpedia.org/resource/Swindon
 32766	http://dbpedia.org/resource/United_Kingdom
+32768	http://dbpedia.org/resource/Girona
 32772	http://dbpedia.org/resource/Jackson,_Tennessee
 32772	http://dbpedia.org/resource/United_States
 32792	http://dbpedia.org/resource/Chi%C8%99in%C4%83u
 32792	http://dbpedia.org/resource/Moldova
+32794	http://dbpedia.org/resource/Germany
+32794	http://dbpedia.org/resource/Hengersberg
+32794	http://dbpedia.org/resource/Lower_Bavaria
 32797	http://dbpedia.org/resource/Zimbabwe
 32798	http://dbpedia.org/resource/Akihabara
 32798	http://dbpedia.org/resource/Japan
@@ -46537,9 +46892,13 @@
 32856	http://dbpedia.org/resource/Amsterdam
 32856	http://dbpedia.org/resource/Netherlands
 32859	http://dbpedia.org/resource/Republic_of_Ireland
+32860	http://dbpedia.org/resource/Leipzig
 32862	Akihabara, Tokyo, Japan@en
 32868	http://dbpedia.org/resource/Nottingham
 32868	http://dbpedia.org/resource/England
+32869	http://dbpedia.org/resource/Wroc%C5%82aw
+32869	http://dbpedia.org/resource/German_Empire
+32869	http://dbpedia.org/resource/Province_of_Silesia
 32870	http://dbpedia.org/resource/United_States
 32870	http://dbpedia.org/resource/Tennessee
 32872	http://dbpedia.org/resource/Hopewell,_New_Jersey
@@ -46560,6 +46919,8 @@
 32895	http://dbpedia.org/resource/Manchester
 32901	http://dbpedia.org/resource/West_Yorkshire
 32901	http://dbpedia.org/resource/Leeds
+32905	http://dbpedia.org/resource/Paris
+32905	http://dbpedia.org/resource/France
 32913	http://dbpedia.org/resource/England
 32913	http://dbpedia.org/resource/London
 32916	http://dbpedia.org/resource/Japan
@@ -46617,7 +46978,11 @@
 32990	http://dbpedia.org/resource/Dublin
 32990	http://dbpedia.org/resource/Ireland
 32995	http://dbpedia.org/resource/London
+33009	http://dbpedia.org/resource/Richmond,_Virginia
 33011	http://dbpedia.org/resource/United_Kingdom
+33019	http://dbpedia.org/resource/Carlisle,_Cumbria
+33019	http://dbpedia.org/resource/England
+33019	http://dbpedia.org/resource/Cumberland
 33021	http://dbpedia.org/resource/Puerto_Rico
 33021	http://dbpedia.org/resource/Bayam%C3%B3n,_Puerto_Rico
 33026	http://dbpedia.org/resource/Birmingham
@@ -46634,6 +46999,8 @@
 33044	http://dbpedia.org/resource/Toronto
 33044	http://dbpedia.org/resource/Ontario
 33044	http://dbpedia.org/resource/Canada
+33045	http://dbpedia.org/resource/Surrey
+33045	http://dbpedia.org/resource/Croydon
 33050	http://dbpedia.org/resource/Germany
 33050	http://dbpedia.org/resource/Rostock
 33051	http://dbpedia.org/resource/Royston,_Hertfordshire
@@ -46667,6 +47034,8 @@
 33081	http://dbpedia.org/resource/Notodden
 33081	http://dbpedia.org/resource/Telemark
 33090	http://dbpedia.org/resource/Rochford
+33091	http://dbpedia.org/resource/Washington,_D.C.
+33091	http://dbpedia.org/resource/United_States
 33101	http://dbpedia.org/resource/Saskatchewan
 33101	http://dbpedia.org/resource/Canada
 33101	http://dbpedia.org/resource/Caronport,_Saskatchewan
@@ -46798,6 +47167,7 @@
 33348	http://dbpedia.org/resource/British_Columbia
 33348	http://dbpedia.org/resource/Kelowna
 33348	http://dbpedia.org/resource/Canada
+33351	http://dbpedia.org/resource/Oxford
 33361	http://dbpedia.org/resource/London
 33361	http://dbpedia.org/resource/Greater_London
 33361	http://dbpedia.org/resource/East_Ham
@@ -46809,6 +47179,8 @@
 33368	http://dbpedia.org/resource/Atlanta
 33370	http://dbpedia.org/resource/Madrid
 33370	http://dbpedia.org/resource/Spain
+33378	http://dbpedia.org/resource/Tulchyn
+33378	http://dbpedia.org/resource/Russian_Empire
 33384	http://dbpedia.org/resource/Kingston_upon_Hull
 33385	http://dbpedia.org/resource/United_States
 33385	http://dbpedia.org/resource/Rockland_County,_New_York
@@ -46838,6 +47210,9 @@
 33422	http://dbpedia.org/resource/Japan
 33422	http://dbpedia.org/resource/Tokyo
 33425	http://dbpedia.org/resource/Portugal
+33428	http://dbpedia.org/resource/Kanagawa_Prefecture
+33428	http://dbpedia.org/resource/Japan
+33428	http://dbpedia.org/resource/Yokohama
 33430	http://dbpedia.org/resource/Richmond,_Virginia
 33430	http://dbpedia.org/resource/United_States
 33435	http://dbpedia.org/resource/Netherlands
@@ -46872,6 +47247,8 @@
 33477	http://dbpedia.org/resource/United_States
 33479	http://dbpedia.org/resource/New_Orleans
 33479	http://dbpedia.org/resource/United_States
+33483	http://dbpedia.org/resource/G%C3%A4vle
+33483	http://dbpedia.org/resource/Sweden
 33492	http://dbpedia.org/resource/Dhaka
 33493	http://es.dbpedia.org/resource/Madrid
 33496	http://dbpedia.org/resource/Royal_Oak,_Michigan
@@ -46929,6 +47306,9 @@
 33610	http://dbpedia.org/resource/New_York_City
 33612	http://dbpedia.org/resource/Sweden
 33612	http://dbpedia.org/resource/Lund
+33615	http://dbpedia.org/resource/Bengal_Presidency
+33615	http://dbpedia.org/resource/Presidencies_and_provinces_of_British_India
+33615	http://dbpedia.org/resource/Motihari
 33616	http://dbpedia.org/resource/New_York_City
 33616	http://dbpedia.org/resource/United_States
 33618	http://dbpedia.org/resource/Adelaide
@@ -46989,6 +47369,8 @@
 33683	http://dbpedia.org/resource/Indianola,_Mississippi
 33689	http://dbpedia.org/resource/Japan
 33689	http://dbpedia.org/resource/Hokkaido
+33690	http://dbpedia.org/resource/West_Germany
+33690	http://dbpedia.org/resource/Cologne
 33694	http://dbpedia.org/resource/Osaka
 33694	http://dbpedia.org/resource/Japan
 33698	http://dbpedia.org/resource/Canada
@@ -47062,6 +47444,8 @@
 33797	http://dbpedia.org/resource/Brooklyn
 33797	http://dbpedia.org/resource/New_York
 33797	http://dbpedia.org/resource/United_States
+33799	http://dbpedia.org/resource/Pasco,_Washington
+33799	http://dbpedia.org/resource/Washington_(state)
 33812	http://es.dbpedia.org/resource/Santiago_de_Chile
 33812	http://es.dbpedia.org/resource/Chile
 33815	Argenteuil, France@en
@@ -47079,6 +47463,8 @@
 33845	http://dbpedia.org/resource/Tennessee
 33848	http://dbpedia.org/resource/Seoul
 33848	http://dbpedia.org/resource/South_Korea
+33852	http://dbpedia.org/resource/Kansas_City,_Missouri
+33852	http://dbpedia.org/resource/United_States
 33856	http://dbpedia.org/resource/Georgia_(U.S._state)
 33856	http://dbpedia.org/resource/Rome,_Georgia
 33856	http://dbpedia.org/resource/United_States
@@ -47095,6 +47481,9 @@
 33882	http://dbpedia.org/resource/Wisconsin
 33882	http://dbpedia.org/resource/Milwaukee
 33883	http://dbpedia.org/resource/Aurora,_Colorado
+33888	http://dbpedia.org/resource/Japan
+33888	http://dbpedia.org/resource/Okazaki,_Aichi
+33888	http://dbpedia.org/resource/Aichi_Prefecture
 33904	http://dbpedia.org/resource/Piraeus
 33904	http://dbpedia.org/resource/Greece
 33913	http://dbpedia.org/resource/England
@@ -47200,6 +47589,9 @@
 34076	http://dbpedia.org/resource/Cricklewood
 34078	http://dbpedia.org/resource/Rimini
 34081	Bedford, Nova Scotia, Canada@en
+34083	http://dbpedia.org/resource/England
+34083	http://dbpedia.org/resource/London
+34083	http://dbpedia.org/resource/Stepney
 34084	http://dbpedia.org/resource/Seoul
 34084	http://dbpedia.org/resource/South_Korea
 34085	http://dbpedia.org/resource/Champaign,_Illinois
@@ -47274,6 +47666,8 @@
 34196	http://dbpedia.org/resource/New_Zealand
 34197	http://dbpedia.org/resource/Roanoke,_Illinois
 34197	http://dbpedia.org/resource/Illinois
+34204	http://dbpedia.org/resource/Upper_Darby_Township,_Delaware_County,_Pennsylvania
+34204	http://dbpedia.org/resource/United_States
 34206	http://dbpedia.org/resource/Ontario
 34206	http://dbpedia.org/resource/Burlington,_Ontario
 34206	http://dbpedia.org/resource/Canada
@@ -47395,6 +47789,8 @@
 34438	http://dbpedia.org/resource/England
 34444	http://dbpedia.org/resource/Milan
 34444	http://dbpedia.org/resource/Italy
+34447	http://dbpedia.org/resource/Buenos_Aires
+34447	http://dbpedia.org/resource/Argentina
 34450	http://dbpedia.org/resource/Arkansas
 34450	http://dbpedia.org/resource/Buffalo,_New_York
 34450	http://dbpedia.org/resource/United_States
@@ -47414,8 +47810,13 @@
 34472	http://dbpedia.org/resource/Japan
 34473	http://dbpedia.org/resource/Illinois
 34473	http://dbpedia.org/resource/Champaign,_Illinois
+34476	http://dbpedia.org/resource/England
+34476	http://dbpedia.org/resource/London
 34486	Houston, Texas, U.S.@en
 34487	Washington DC@en
+34490	http://dbpedia.org/resource/New_York
+34490	http://dbpedia.org/resource/New_York_City
+34490	http://dbpedia.org/resource/United_States
 34491	http://dbpedia.org/resource/Brooklyn
 34491	http://dbpedia.org/resource/New_York
 34496	http://dbpedia.org/resource/West_Java
@@ -47471,6 +47872,8 @@
 34590	http://dbpedia.org/resource/Cincinnati
 34590	http://dbpedia.org/resource/Ohio
 34592	http://dbpedia.org/resource/Indiana
+34595	http://dbpedia.org/resource/Chicago
+34595	http://dbpedia.org/resource/United_States
 34596	Hornchurch, England@en
 34597	http://dbpedia.org/resource/Switzerland
 34597	http://dbpedia.org/resource/Losone
@@ -47488,6 +47891,8 @@
 34608	http://dbpedia.org/resource/Cardiff
 34623	http://dbpedia.org/resource/United_Kingdom
 34623	http://dbpedia.org/resource/London
+34625	http://dbpedia.org/resource/Haworth,_New_Jersey
+34625	http://dbpedia.org/resource/United_States
 34632	http://dbpedia.org/resource/Gothenburg
 34632	http://dbpedia.org/resource/V%C3%A4stra_G%C3%B6taland_County
 34632	http://dbpedia.org/resource/Sweden
@@ -47513,8 +47918,13 @@
 34663	http://dbpedia.org/resource/Germany
 34664	http://dbpedia.org/resource/Istanbul
 34664	http://dbpedia.org/resource/Turkey
+34669	http://dbpedia.org/resource/United_Kingdom
+34669	http://dbpedia.org/resource/England
+34669	http://dbpedia.org/resource/London
 34673	http://dbpedia.org/resource/England
 34673	http://dbpedia.org/resource/Liverpool
+34674	http://dbpedia.org/resource/Ashland,_Kentucky
+34674	http://dbpedia.org/resource/United_States
 34681	http://dbpedia.org/resource/Slovenia
 34684	http://dbpedia.org/resource/Oakland,_California
 34684	http://dbpedia.org/resource/United_States
@@ -47545,6 +47955,12 @@
 34764	http://dbpedia.org/resource/San_Francisco
 34764	http://dbpedia.org/resource/California
 34770	http://dbpedia.org/resource/Hong_Kong
+34774	http://dbpedia.org/resource/Alberta
+34774	http://dbpedia.org/resource/Edmonton
+34774	http://dbpedia.org/resource/Canada
+34778	http://dbpedia.org/resource/New_South_Wales
+34778	http://dbpedia.org/resource/Australia
+34778	http://dbpedia.org/resource/Nowra,_New_South_Wales
 34780	http://dbpedia.org/resource/France
 34780	http://dbpedia.org/resource/Boulogne-Billancourt
 34785	http://dbpedia.org/resource/Kungsbacka
@@ -47583,6 +47999,8 @@
 34850	http://dbpedia.org/resource/Andros,_Bahamas
 34852	http://dbpedia.org/resource/Toulouse
 34852	http://dbpedia.org/resource/France
+34856	http://dbpedia.org/resource/France
+34856	http://dbpedia.org/resource/Charvieu-Chavagneux
 34859	http://dbpedia.org/resource/California
 34859	http://dbpedia.org/resource/Los_Angeles
 34859	http://dbpedia.org/resource/United_States
@@ -47645,6 +48063,7 @@
 34969	http://dbpedia.org/resource/Los_Angeles
 34970	http://dbpedia.org/resource/Copenhagen
 34970	Denmark@en
+34977	http://dbpedia.org/resource/Pembury
 34986	http://dbpedia.org/resource/Cleveland
 34993	http://dbpedia.org/resource/New_Orleans
 34993	http://dbpedia.org/resource/United_States
@@ -47670,6 +48089,8 @@
 35026	http://dbpedia.org/resource/Buenos_Aires
 35026	http://dbpedia.org/resource/Argentina
 35027	http://dbpedia.org/resource/Bridgeport,_Connecticut
+35033	http://dbpedia.org/resource/West_Germany
+35033	http://dbpedia.org/resource/Neu-Ulm
 35038	http://dbpedia.org/resource/Washington,_D.C.
 35038	http://dbpedia.org/resource/United_States
 35053	http://dbpedia.org/resource/United_States
@@ -47685,6 +48106,8 @@
 35083	http://dbpedia.org/resource/Australia
 35089	http://dbpedia.org/resource/England
 35089	http://dbpedia.org/resource/Manchester
+35093	http://dbpedia.org/resource/Danvers,_Massachusetts
+35093	http://dbpedia.org/resource/United_States
 35095	Adelaide, Australia@en
 35098	http://dbpedia.org/resource/United_States
 35098	http://dbpedia.org/resource/Springfield_Township,_Delaware_County,_Pennsylvania
@@ -47719,11 +48142,16 @@
 35163	http://dbpedia.org/resource/Fairmont,_West_Virginia
 35166	http://dbpedia.org/resource/Albuquerque,_New_Mexico
 35166	http://dbpedia.org/resource/United_States
+35168	http://dbpedia.org/resource/South_Holland
+35168	http://dbpedia.org/resource/Oegstgeest
 35169	http://dbpedia.org/resource/St_Helens,_Merseyside
 35169	http://dbpedia.org/resource/England
 35169	http://dbpedia.org/resource/Merseyside
 35170	http://dbpedia.org/resource/Norway
 35170	http://dbpedia.org/resource/Bergen
+35177	http://dbpedia.org/resource/Brooklyn
+35181	http://dbpedia.org/resource/Zhejiang
+35181	http://dbpedia.org/resource/Quzhou
 35187	http://dbpedia.org/resource/Tulsa,_Oklahoma
 35188	http://dbpedia.org/resource/Brooklyn
 35188	http://dbpedia.org/resource/New_York
@@ -47803,6 +48231,9 @@
 35336	http://dbpedia.org/resource/Turku
 35346	http://dbpedia.org/resource/England
 35346	http://dbpedia.org/resource/Birmingham
+35349	http://dbpedia.org/resource/Dublin
+35349	http://dbpedia.org/resource/Republic_of_Ireland
+35349	http://dbpedia.org/resource/Baldoyle
 35353	http://dbpedia.org/resource/England
 35353	http://dbpedia.org/resource/London
 35356	http://dbpedia.org/resource/United_States_of_Israeli_parents
@@ -47939,6 +48370,8 @@
 35652	http://dbpedia.org/resource/Taiwan
 35655	http://es.dbpedia.org/resource/Barcelona
 35655	http://es.dbpedia.org/resource/España
+35657	http://dbpedia.org/resource/Tehran
+35657	http://dbpedia.org/resource/Iran
 35658	Dublin, Ireland@en
 35659	http://es.dbpedia.org/resource/Argentina
 35659	http://es.dbpedia.org/resource/Villa_Gesell
@@ -47946,6 +48379,9 @@
 35669	France@en
 35682	http://dbpedia.org/resource/Sweden
 35682	http://dbpedia.org/resource/Scania
+35684	http://dbpedia.org/resource/Omaha,_Nebraska
+35684	http://dbpedia.org/resource/Nebraska
+35684	http://dbpedia.org/resource/United_States
 35689	http://dbpedia.org/resource/Istanbul
 35699	http://dbpedia.org/resource/Birmingham,_Alabama
 35699	http://dbpedia.org/resource/United_States
@@ -47972,6 +48408,8 @@
 35749	http://dbpedia.org/resource/Rhode_Island
 35749	http://dbpedia.org/resource/Providence,_Rhode_Island
 35749	http://dbpedia.org/resource/United_States
+35752	http://dbpedia.org/resource/Stockholm
+35752	http://dbpedia.org/resource/Sweden
 35756	http://dbpedia.org/resource/London,_Ontario
 35756	http://dbpedia.org/resource/Toronto
 35756	http://dbpedia.org/resource/Ontario
@@ -48007,11 +48445,14 @@
 35813	http://dbpedia.org/resource/Tucson,_Arizona
 35813	http://dbpedia.org/resource/United_States
 35820	http://dbpedia.org/resource/St._Louis
+35823	http://dbpedia.org/resource/Oak_Park,_Illinois
+35823	http://dbpedia.org/resource/United_States
 35826	http://dbpedia.org/resource/Reading,_Berkshire
 35831	http://dbpedia.org/resource/Uttar_Pradesh
 35831	http://dbpedia.org/resource/Allahabad
 35831	http://dbpedia.org/resource/India
 35832	http://dbpedia.org/resource/Memphis,_Tennessee
+35835	http://dbpedia.org/resource/Honolulu
 35837	http://dbpedia.org/resource/Melbourne
 35837	http://dbpedia.org/resource/Australia
 35842	http://dbpedia.org/resource/Spain
@@ -48047,6 +48488,7 @@
 35905	http://dbpedia.org/resource/Brazil
 35914	Georgia, United States@en
 35915	http://dbpedia.org/resource/Bramsche
+35920	http://dbpedia.org/resource/Ikoma,_Nara
 35921	http://dbpedia.org/resource/Mexico
 35922	http://dbpedia.org/resource/Nigeria
 35922	http://dbpedia.org/resource/Lagos
@@ -48079,6 +48521,7 @@
 36006	http://dbpedia.org/resource/Ramat_Aviv
 36007	http://dbpedia.org/resource/United_States
 36007	http://dbpedia.org/resource/Camden,_New_Jersey
+36008	http://dbpedia.org/resource/Santiago
 36026	http://dbpedia.org/resource/Tyrol_(state)
 36026	http://dbpedia.org/resource/Austria
 36026	http://dbpedia.org/resource/Inzing
@@ -48087,6 +48530,9 @@
 36038	London, England, United Kingdom@en
 36043	http://dbpedia.org/resource/United_States
 36043	http://dbpedia.org/resource/Englewood,_New_Jersey
+36046	http://dbpedia.org/resource/New_York
+36046	http://dbpedia.org/resource/New_York_City
+36046	http://dbpedia.org/resource/United_States
 36054	http://dbpedia.org/resource/Philadelphia
 36054	http://dbpedia.org/resource/Pennsylvania
 36058	http://dbpedia.org/resource/Queens
@@ -48107,6 +48553,9 @@
 36083	http://dbpedia.org/resource/United_States
 36086	Lubbock, Texas, USA@en
 36089	http://dbpedia.org/resource/Chino,_California
+36093	http://dbpedia.org/resource/California
+36093	http://dbpedia.org/resource/Los_Angeles
+36093	http://dbpedia.org/resource/United_States
 36094	http://dbpedia.org/resource/Romania
 36094	http://dbpedia.org/resource/Baia_Mare
 36096	http://dbpedia.org/resource/Canada
@@ -48126,6 +48575,7 @@
 36145	http://dbpedia.org/resource/San_Francisco
 36145	http://dbpedia.org/resource/California
 36145	http://dbpedia.org/resource/United_States
+36146	http://dbpedia.org/resource/United_States
 36153	http://dbpedia.org/resource/County_Londonderry
 36153	http://dbpedia.org/resource/Northern_Ireland
 36153	http://dbpedia.org/resource/Dungiven
@@ -48181,6 +48631,9 @@
 36252	New York City@en
 36255	http://dbpedia.org/resource/Colorado
 36255	http://dbpedia.org/resource/United_States
+36263	http://dbpedia.org/resource/West_Germany
+36263	http://dbpedia.org/resource/Baden-W%C3%BCrttemberg
+36263	http://dbpedia.org/resource/Bietigheim-Bissingen
 36268	http://dbpedia.org/resource/Japan
 36277	http://dbpedia.org/resource/Australia
 36277	http://dbpedia.org/resource/Melbourne
@@ -48231,6 +48684,9 @@
 36358	http://dbpedia.org/resource/Tampere
 36358	http://dbpedia.org/resource/Finland
 36363	http://dbpedia.org/resource/London
+36366	http://dbpedia.org/resource/Perthshire
+36366	http://dbpedia.org/resource/Scotland
+36366	http://dbpedia.org/resource/Aberfeldy,_Scotland
 36367	http://dbpedia.org/resource/United_States
 36367	http://dbpedia.org/resource/Boston
 36371	http://dbpedia.org/resource/Puerto_Rico
@@ -48242,7 +48698,12 @@
 36382	http://dbpedia.org/resource/Belgrade
 36382	http://dbpedia.org/resource/Serbia
 36382	http://dbpedia.org/resource/Serbia_and_Montenegro
+36386	http://dbpedia.org/resource/Karachi
+36386	http://dbpedia.org/resource/Pakistan
 36389	http://dbpedia.org/resource/Berkeley,_California
+36391	http://dbpedia.org/resource/California
+36391	http://dbpedia.org/resource/Los_Angeles
+36391	http://dbpedia.org/resource/United_States
 36397	http://dbpedia.org/resource/Los_Angeles
 36397	http://dbpedia.org/resource/United_States
 36398	http://dbpedia.org/resource/Lincoln,_Nebraska
@@ -48272,6 +48733,7 @@
 36453	http://dbpedia.org/resource/Girona
 36453	http://dbpedia.org/resource/Catalonia
 36453	http://dbpedia.org/resource/Spain
+36462	http://dbpedia.org/resource/Dennis,_Massachusetts
 36467	http://dbpedia.org/resource/Netherlands
 36467	http://dbpedia.org/resource/Rotterdam
 36471	http://dbpedia.org/resource/Manchester
@@ -48316,6 +48778,8 @@
 36546	http://dbpedia.org/resource/Glasgow
 36547	http://dbpedia.org/resource/Tampa,_Florida
 36547	http://dbpedia.org/resource/Florida
+36548	http://dbpedia.org/resource/Prague
+36548	http://dbpedia.org/resource/Kingdom_of_Bohemia
 36549	Volos, Thessaly, Greece@en
 36557	http://dbpedia.org/resource/O_Incio
 36557	http://dbpedia.org/resource/Spain
@@ -48346,6 +48810,7 @@
 36618	http://dbpedia.org/resource/Australia
 36621	http://dbpedia.org/resource/Czechoslovakia
 36621	http://dbpedia.org/resource/Prague
+36623	http://dbpedia.org/resource/Philadelphia
 36625	Crystal Lake, Illinois, United States@en
 36627	http://dbpedia.org/resource/California
 36628	http://dbpedia.org/resource/Iran
@@ -48360,6 +48825,14 @@
 36639	http://dbpedia.org/resource/England
 36639	http://dbpedia.org/resource/Isleworth
 36639	http://dbpedia.org/resource/Middlesex
+36642	http://dbpedia.org/resource/Nevada
+36642	http://dbpedia.org/resource/United_States
+36642	http://dbpedia.org/resource/Las_Vegas_Valley
+36643	http://dbpedia.org/resource/United_Kingdom
+36643	http://dbpedia.org/resource/England
+36643	http://dbpedia.org/resource/London
+36645	http://dbpedia.org/resource/Port-au-Prince
+36645	http://dbpedia.org/resource/Haiti
 36649	http://dbpedia.org/resource/Roselle,_Illinois
 36655	http://dbpedia.org/resource/Youngstown,_Ohio
 36655	http://dbpedia.org/resource/United_States
@@ -48381,6 +48854,8 @@
 36683	http://dbpedia.org/resource/United_Kingdom
 36683	http://dbpedia.org/resource/London
 36685	http://dbpedia.org/resource/Norwalk,_California
+36688	http://dbpedia.org/resource/Australia
+36688	http://dbpedia.org/resource/South_Coast_(New_South_Wales)
 36689	http://dbpedia.org/resource/Kingston,_Jamaica
 36689	http://dbpedia.org/resource/Jamaica
 36691	http://dbpedia.org/resource/Nevada
@@ -48447,6 +48922,9 @@
 36815	http://dbpedia.org/resource/Riga
 36817	http://dbpedia.org/resource/New_York_City
 36817	http://dbpedia.org/resource/Brooklyn
+36818	http://dbpedia.org/resource/Birmingham,_Alabama
+36825	http://dbpedia.org/resource/Rosario,_Santa_Fe
+36825	http://dbpedia.org/resource/Argentina
 36826	http://dbpedia.org/resource/Atlanta
 36836	New York City, U.S.@en
 36846	http://dbpedia.org/resource/St._Gallen
@@ -48457,6 +48935,8 @@
 36868	http://dbpedia.org/resource/Vancouver
 36868	http://dbpedia.org/resource/British_Columbia
 36868	http://dbpedia.org/resource/Canada
+36873	http://dbpedia.org/resource/Staffordshire
+36873	http://dbpedia.org/resource/United_Kingdom
 36876	http://dbpedia.org/resource/Dublin
 36876	http://dbpedia.org/resource/Republic_of_Ireland
 36885	http://dbpedia.org/resource/Canada
@@ -48475,6 +48955,8 @@
 36940	http://dbpedia.org/resource/Australia
 36942	http://dbpedia.org/resource/Sweden
 36942	http://dbpedia.org/resource/Uppsala
+36952	http://dbpedia.org/resource/Philadelphia
+36952	http://dbpedia.org/resource/Pennsylvania
 36956	Cairns, Queensland, Australia@en
 36967	http://dbpedia.org/resource/Missouri
 36967	http://dbpedia.org/resource/United_States
@@ -48505,10 +48987,17 @@
 37014	http://dbpedia.org/resource/Illinois
 37016	http://dbpedia.org/resource/England
 37016	http://dbpedia.org/resource/Bourne_End,_Buckinghamshire
+37020	http://dbpedia.org/resource/England
+37020	http://dbpedia.org/resource/London
+37020	http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland
+37020	http://dbpedia.org/resource/Honor_Oak
 37023	http://dbpedia.org/resource/New_Orleans
 37023	http://dbpedia.org/resource/Louisiana
 37027	http://dbpedia.org/resource/D%C3%BCsseldorf
 37033	http://dbpedia.org/resource/Hamburg
+37042	http://dbpedia.org/resource/Chicago
+37042	http://dbpedia.org/resource/Illinois
+37042	http://dbpedia.org/resource/United_States
 37044	http://dbpedia.org/resource/England
 37044	http://dbpedia.org/resource/Surrey
 37044	http://dbpedia.org/resource/Thornton_Heath
@@ -48624,6 +49113,8 @@
 37339	http://dbpedia.org/resource/Oslo
 37339	http://dbpedia.org/resource/Norway
 37342	http://dbpedia.org/resource/New_York_City
+37354	http://dbpedia.org/resource/Finland
+37354	http://dbpedia.org/resource/Helsinki
 37356	http://dbpedia.org/resource/London_Borough_of_Harrow
 37356	http://dbpedia.org/resource/Middlesex
 37356	http://dbpedia.org/resource/England
@@ -48688,6 +49179,7 @@
 37498	http://dbpedia.org/resource/Toronto
 37503	http://dbpedia.org/resource/United_States
 37503	http://dbpedia.org/resource/Minneapolis
+37519	http://dbpedia.org/resource/Finland
 37523	http://dbpedia.org/resource/Madrid
 37523	http://dbpedia.org/resource/Spain
 37533	http://dbpedia.org/resource/United_States
@@ -48696,6 +49188,10 @@
 37535	http://dbpedia.org/resource/Barbados
 37537	http://dbpedia.org/resource/United_Kingdom
 37541	http://es.dbpedia.org/resource/País_Vasco
+37549	http://dbpedia.org/resource/United_Kingdom
+37549	http://dbpedia.org/resource/England
+37549	http://dbpedia.org/resource/Hertfordshire
+37549	http://dbpedia.org/resource/Watford
 37555	http://dbpedia.org/resource/New_York
 37555	http://dbpedia.org/resource/New_York_City
 37555	http://dbpedia.org/resource/United_States
@@ -48721,6 +49217,8 @@
 37627	http://dbpedia.org/resource/Brooklyn
 37627	http://dbpedia.org/resource/New_York
 37627	http://dbpedia.org/resource/United_States
+37629	http://dbpedia.org/resource/Stockholm
+37629	http://dbpedia.org/resource/Sweden
 37631	http://dbpedia.org/resource/Miami
 37631	http://dbpedia.org/resource/United_States
 37632	http://dbpedia.org/resource/United_Kingdom
@@ -48731,6 +49229,8 @@
 37644	http://dbpedia.org/resource/United_States
 37644	http://dbpedia.org/resource/Kansas
 37644	http://dbpedia.org/resource/Wichita,_Kansas
+37649	http://dbpedia.org/resource/Paonia,_Colorado
+37649	http://dbpedia.org/resource/United_States
 37651	http://dbpedia.org/resource/Illinois
 37651	http://dbpedia.org/resource/United_States
 37651	http://dbpedia.org/resource/Chicago_Heights,_Illinois
@@ -48757,6 +49257,8 @@
 37690	http://dbpedia.org/resource/Philadelphia
 37691	http://dbpedia.org/resource/Argentina
 37691	http://dbpedia.org/resource/Buenos_Aires
+37695	http://dbpedia.org/resource/L%C3%BCbeck
+37695	http://dbpedia.org/resource/Schleswig-Holstein
 37697	http://dbpedia.org/resource/County_Dublin
 37697	http://dbpedia.org/resource/Republic_of_Ireland
 37699	Las Vegas, Nevada, U.S.@en
@@ -48766,7 +49268,11 @@
 37738	http://dbpedia.org/resource/San_Francisco
 37738	http://dbpedia.org/resource/United_States
 37738	http://dbpedia.org/resource/California
+37743	http://dbpedia.org/resource/Washington,_D.C.
 37745	Sydney, Australia@en
+37746	http://dbpedia.org/resource/England
+37746	http://dbpedia.org/resource/Handsworth,_West_Midlands
+37746	http://dbpedia.org/resource/Birmingham
 37748	Melbourne, Australia@en
 37749	http://dbpedia.org/resource/Alabama
 37749	http://dbpedia.org/resource/Huntsville,_Alabama
@@ -48790,6 +49296,9 @@
 37813	http://dbpedia.org/resource/Nacimiento,_Chile
 37813	http://dbpedia.org/resource/Chile
 37816	http://dbpedia.org/resource/Kiel
+37821	http://dbpedia.org/resource/England
+37821	http://dbpedia.org/resource/Armley
+37821	http://dbpedia.org/resource/Leeds
 37837	http://dbpedia.org/resource/Netherlands
 37849	http://dbpedia.org/resource/Birmingham
 37849	http://dbpedia.org/resource/England
@@ -48811,6 +49320,7 @@
 37872	Dalton, Georgia, U.S.@en
 37882	http://dbpedia.org/resource/Utah
 37882	http://dbpedia.org/resource/Alpine,_Utah
+37883	http://dbpedia.org/resource/New_York_City
 37884	http://dbpedia.org/resource/Georgia_(U.S._state)
 37884	http://dbpedia.org/resource/Atlanta
 37885	http://dbpedia.org/resource/Mansfield,_Ohio
@@ -48826,6 +49336,8 @@
 37920	http://dbpedia.org/resource/London
 37930	http://dbpedia.org/resource/Downey,_California
 37932	http://dbpedia.org/resource/Washington,_D.C.
+37943	http://dbpedia.org/resource/Senoji_Var%C4%97na
+37943	http://dbpedia.org/resource/Russian_Empire
 37945	http://dbpedia.org/resource/New_Jersey
 37945	http://dbpedia.org/resource/United_States
 37953	http://dbpedia.org/resource/New_York
@@ -48840,6 +49352,8 @@
 37964	http://dbpedia.org/resource/Indiana
 37978	http://dbpedia.org/resource/Melbourne
 37978	http://dbpedia.org/resource/Australia
+37979	http://dbpedia.org/resource/Cuba
+37979	http://dbpedia.org/resource/Santiago_de_Cuba
 37982	http://dbpedia.org/resource/Sydney
 37982	http://dbpedia.org/resource/Australia
 37986	http://dbpedia.org/resource/Switzerland
@@ -48879,6 +49393,8 @@
 38037	West London@en
 38046	http://dbpedia.org/resource/United_States
 38046	http://dbpedia.org/resource/Alameda,_California
+38060	http://dbpedia.org/resource/Bursa
+38060	http://dbpedia.org/resource/Turkey
 38068	http://dbpedia.org/resource/Montreal
 38068	http://dbpedia.org/resource/Canada
 38068	http://dbpedia.org/resource/Quebec
@@ -48923,9 +49439,14 @@
 38174	http://dbpedia.org/resource/Mobile,_Alabama
 38180	http://dbpedia.org/resource/Norway
 38181	Birkenhead, Cheshire, UK@en
+38184	http://dbpedia.org/resource/Lindenhurst,_New_York
+38184	http://dbpedia.org/resource/United_States
 38185	http://dbpedia.org/resource/Aarhus
 38185	http://dbpedia.org/resource/Denmark
 38195	Essex, England, United Kingdom@en
+38196	http://dbpedia.org/resource/Salt_Lake_City
+38196	http://dbpedia.org/resource/Utah
+38196	http://dbpedia.org/resource/United_States
 38205	http://dbpedia.org/resource/Mozambique
 38208	http://dbpedia.org/resource/Newark,_New_Jersey
 38214	http://dbpedia.org/resource/Christchurch
@@ -48977,6 +49498,9 @@
 38372	http://dbpedia.org/resource/Chicago
 38373	http://dbpedia.org/resource/Suresnes
 38382	London, United Kingdom@en
+38394	http://dbpedia.org/resource/United_Kingdom
+38394	http://dbpedia.org/resource/England
+38394	http://dbpedia.org/resource/London
 38401	http://dbpedia.org/resource/Buenos_Aires
 38401	http://dbpedia.org/resource/Argentina
 38409	http://dbpedia.org/resource/Berlin
@@ -49042,6 +49566,7 @@
 38577	http://dbpedia.org/resource/Norman,_Oklahoma
 38578	http://dbpedia.org/resource/England
 38578	http://dbpedia.org/resource/London
+38579	http://dbpedia.org/resource/Jacksonville,_Florida
 38593	http://dbpedia.org/resource/Nebraska
 38593	http://dbpedia.org/resource/Lincoln,_Nebraska
 38595	http://dbpedia.org/resource/Melbourne
@@ -49136,6 +49661,8 @@
 38823	http://dbpedia.org/resource/United_Kingdom
 38825	Belgium@en
 38830	http://dbpedia.org/resource/Los_Angeles
+38839	http://dbpedia.org/resource/Philadelphia
+38839	http://dbpedia.org/resource/United_States
 38841	http://dbpedia.org/resource/Los_Angeles
 38841	http://dbpedia.org/resource/United_States
 38843	http://dbpedia.org/resource/Dublin
@@ -49213,6 +49740,8 @@
 39055	http://dbpedia.org/resource/London
 39059	http://dbpedia.org/resource/Sweden
 39059	http://dbpedia.org/resource/Hallstavik
+39071	http://dbpedia.org/resource/Point_Pleasant,_New_Jersey
+39071	http://dbpedia.org/resource/United_States
 39079	http://dbpedia.org/resource/Santiago
 39079	http://dbpedia.org/resource/Chile
 39080	http://dbpedia.org/resource/North_Carolina
@@ -49223,6 +49752,12 @@
 39082	http://dbpedia.org/resource/Chapel_Hill,_North_Carolina
 39088	http://dbpedia.org/resource/Bromley
 39088	http://dbpedia.org/resource/England
+39093	http://dbpedia.org/resource/Savonlinna
+39093	http://dbpedia.org/resource/Finland
+39093	http://dbpedia.org/resource/Kiviapaja
+39096	http://dbpedia.org/resource/Kanagawa_Prefecture
+39096	http://dbpedia.org/resource/Japan
+39096	http://dbpedia.org/resource/Yokosuka,_Kanagawa
 39097	http://dbpedia.org/resource/T%C3%B3rshavn
 39097	http://dbpedia.org/resource/Faroe_Islands
 39100	http://dbpedia.org/resource/Hollandale,_Mississippi
@@ -49238,6 +49773,8 @@
 39127	http://dbpedia.org/resource/Stockholm
 39133	http://dbpedia.org/resource/British_Columbia
 39133	http://dbpedia.org/resource/Kamloops
+39135	http://dbpedia.org/resource/Manchester
+39142	http://dbpedia.org/resource/Dickinson,_North_Dakota
 39145	http://dbpedia.org/resource/Philadelphia
 39145	http://dbpedia.org/resource/Pennsylvania
 39145	http://dbpedia.org/resource/United_States
@@ -49269,6 +49806,7 @@
 39239	http://dbpedia.org/resource/Italy
 39239	http://dbpedia.org/resource/Naples
 39241	Coyotita, Sinaloa@en
+39257	http://dbpedia.org/resource/Newton,_Massachusetts
 39271	http://dbpedia.org/resource/Brisbane
 39286	http://dbpedia.org/resource/San_Bruno,_California
 39287	http://dbpedia.org/resource/London
@@ -49293,9 +49831,13 @@
 39341	France@en
 39343	http://dbpedia.org/resource/Jasper,_Texas
 39343	http://dbpedia.org/resource/United_States
+39363	http://dbpedia.org/resource/New_York
+39363	http://dbpedia.org/resource/New_York_City
 39365	http://dbpedia.org/resource/Tennessee
 39365	http://dbpedia.org/resource/United_States
 39365	http://dbpedia.org/resource/Memphis,_Tennessee
+39367	http://dbpedia.org/resource/Sweden
+39367	http://dbpedia.org/resource/Skelleftehamn
 39386	http://es.dbpedia.org/resource/Guadalajara_(México)
 39386	http://es.dbpedia.org/resource/Guadalajara_(Jalisco)
 39393	http://dbpedia.org/resource/Brooklyn
@@ -49312,8 +49854,13 @@
 39406	http://dbpedia.org/resource/Shusha
 39413	http://dbpedia.org/resource/Belgrade
 39413	http://dbpedia.org/resource/Serbia
+39416	http://dbpedia.org/resource/New_York
+39416	http://dbpedia.org/resource/New_York_City
 39425	http://dbpedia.org/resource/England
 39425	http://dbpedia.org/resource/Manchester
+39427	http://dbpedia.org/resource/Indianapolis
+39427	http://dbpedia.org/resource/United_States
+39427	http://dbpedia.org/resource/Indiana
 39432	New York City, United States@en
 39440	Cork@en
 39444	http://dbpedia.org/resource/Geneva
@@ -49351,6 +49898,9 @@
 39516	http://dbpedia.org/resource/South_London
 39516	http://dbpedia.org/resource/England
 39517	Dallas, Texas, United States@en
+39518	http://dbpedia.org/resource/Liverpool
+39520	http://dbpedia.org/resource/Newark,_New_Jersey
+39520	http://dbpedia.org/resource/United_States
 39523	http://dbpedia.org/resource/Sweden
 39523	http://dbpedia.org/resource/Stockholm
 39526	http://dbpedia.org/resource/United_States
@@ -49390,6 +49940,8 @@
 39641	http://dbpedia.org/resource/Canada
 39643	Los Angeles, California, United States@en
 39646	Klarup, Denmark@en
+39652	http://dbpedia.org/resource/Cambridgeshire
+39652	http://dbpedia.org/resource/England
 39654	http://dbpedia.org/resource/Hokkaido
 39654	http://dbpedia.org/resource/Japan
 39654	http://dbpedia.org/resource/Sapporo
@@ -49428,6 +49980,8 @@
 39749	http://dbpedia.org/resource/Metropolitan_Borough_of_Hackney
 39753	http://dbpedia.org/resource/Bengal
 39753	http://dbpedia.org/resource/India
+39754	http://dbpedia.org/resource/St._Louis
+39754	http://dbpedia.org/resource/United_States
 39767	http://dbpedia.org/resource/Jamshedpur
 39767	http://dbpedia.org/resource/India
 39767	http://dbpedia.org/resource/Jharkhand
@@ -49461,6 +50015,8 @@
 39863	http://dbpedia.org/resource/Italy
 39867	http://dbpedia.org/resource/England
 39867	http://dbpedia.org/resource/London
+39869	http://dbpedia.org/resource/Rome,_New_York
+39869	http://dbpedia.org/resource/United_States
 39872	http://dbpedia.org/resource/North_Carolina
 39874	Paris, France@en
 39875	Isle of Skye, Inverness-shire, Scotland@en
@@ -49487,6 +50043,9 @@
 39953	http://dbpedia.org/resource/Reuver
 39957	http://dbpedia.org/resource/Bucharest
 39957	http://dbpedia.org/resource/Romania
+39968	http://dbpedia.org/resource/Chennai
+39968	http://dbpedia.org/resource/Madras_Presidency
+39968	http://dbpedia.org/resource/Presidencies_and_provinces_of_British_India
 39969	http://dbpedia.org/resource/Montreal
 39969	http://dbpedia.org/resource/Canada
 39969	http://dbpedia.org/resource/Quebec
@@ -49540,6 +50099,8 @@
 40083	http://dbpedia.org/resource/Newport_News,_Virginia
 40083	http://dbpedia.org/resource/Bridgeport,_Connecticut
 40085	http://pt.dbpedia.org/resource/Rio_de_Janeiro
+40098	http://dbpedia.org/resource/Charlotte_Amalie,_United_States_Virgin_Islands
+40098	http://dbpedia.org/resource/United_States_Virgin_Islands
 40108	San Juan, Puerto Rico, USA@en
 40113	http://dbpedia.org/resource/Barcelona
 40113	http://dbpedia.org/resource/Espulgues_de_Llobregat
@@ -49585,6 +50146,9 @@
 40277	http://dbpedia.org/resource/London
 40277	http://dbpedia.org/resource/Edgware
 40292	http://dbpedia.org/resource/Los_Angeles
+40301	http://dbpedia.org/resource/Stockholm
+40301	http://dbpedia.org/resource/Solna_Municipality
+40301	http://dbpedia.org/resource/Sweden
 40303	http://es.dbpedia.org/resource/Santiago_de_Chile
 40303	http://es.dbpedia.org/resource/Chile
 40306	http://dbpedia.org/resource/Kristiansand
@@ -49600,6 +50164,12 @@
 40333	http://dbpedia.org/resource/Oslo
 40341	http://dbpedia.org/resource/Borl%C3%A4nge
 40341	http://dbpedia.org/resource/Sweden
+40345	http://dbpedia.org/resource/Bemidji,_Minnesota
+40345	http://dbpedia.org/resource/United_States
+40352	http://dbpedia.org/resource/Venezuela
+40352	http://dbpedia.org/resource/Lara,_Venezuela
+40352	http://dbpedia.org/resource/Barquisimeto
+40356	http://dbpedia.org/resource/New_York_City
 40362	http://dbpedia.org/resource/Claremont,_California
 40362	http://dbpedia.org/resource/United_States
 40372	http://dbpedia.org/resource/Sweden
@@ -49608,6 +50178,7 @@
 40389	http://dbpedia.org/resource/Great_Lever
 40398	http://dbpedia.org/resource/United_States
 40398	http://dbpedia.org/resource/North_Carolina
+40426	http://dbpedia.org/resource/Tucson,_Arizona
 40434	http://dbpedia.org/resource/Guatemala
 40483	http://dbpedia.org/resource/Philippines
 40483	http://dbpedia.org/resource/Manila
@@ -49634,13 +50205,18 @@
 40538	http://dbpedia.org/resource/Canada
 40559	http://dbpedia.org/resource/Norway
 40559	http://dbpedia.org/resource/Kristiansand
+40562	http://dbpedia.org/resource/Guinea
 40569	http://dbpedia.org/resource/Mississippi
 40569	http://dbpedia.org/resource/United_States
 40569	http://dbpedia.org/resource/Macon,_Mississippi
 40573	http://dbpedia.org/resource/Dublin
 40573	http://dbpedia.org/resource/Ireland
+40574	http://dbpedia.org/resource/Dallas
+40574	http://dbpedia.org/resource/United_States
 40575	http://dbpedia.org/resource/Maryland
 40579	http://es.dbpedia.org/resource/Montevideo
+40593	http://dbpedia.org/resource/Sweden
+40593	http://dbpedia.org/resource/Kisa,_Sweden
 40599	Wednesfield, Wolverhampton, England@en
 40613	Bromley, Kent, England@en
 40617	http://dbpedia.org/resource/Isle_of_Man
@@ -49666,6 +50242,9 @@
 40681	http://dbpedia.org/resource/Philadelphia
 40691	http://dbpedia.org/resource/London
 40691	http://dbpedia.org/resource/England
+40695	http://dbpedia.org/resource/Ahmednagar
+40695	http://dbpedia.org/resource/British_Raj
+40695	http://dbpedia.org/resource/Bombay_Presidency
 40705	http://es.dbpedia.org/resource/Asturias
 40705	http://es.dbpedia.org/resource/España
 40705	http://es.dbpedia.org/resource/Principado_de_Asturias
@@ -49693,6 +50272,8 @@
 40822	http://dbpedia.org/resource/London
 40826	http://dbpedia.org/resource/Bridgewater_Township,_New_Jersey
 40826	http://dbpedia.org/resource/United_States
+40829	http://dbpedia.org/resource/Saskatchewan
+40829	http://dbpedia.org/resource/Moose_Jaw
 40845	http://dbpedia.org/resource/Esl%C3%B6v
 40845	http://dbpedia.org/resource/Sweden
 40848	Bochum, Hamburg@en
@@ -49745,9 +50326,16 @@
 40987	http://dbpedia.org/resource/United_Kingdom
 40987	http://dbpedia.org/resource/England
 40987	http://dbpedia.org/resource/London
+40996	http://dbpedia.org/resource/United_States
+40996	http://dbpedia.org/resource/Needham,_Massachusetts
 40998	http://dbpedia.org/resource/Los_Angeles
 40998	http://dbpedia.org/resource/United_States
 41001	Nanaimo, British Columbia, Canada@en
+41006	http://dbpedia.org/resource/San_Francisco
+41006	http://dbpedia.org/resource/California
+41006	http://dbpedia.org/resource/United_States
+41010	http://dbpedia.org/resource/Kansas
+41010	http://dbpedia.org/resource/Wichita,_Kansas
 41028	http://dbpedia.org/resource/San_Angelo,_Texas
 41035	http://dbpedia.org/resource/Pelham,_New_York
 41035	http://dbpedia.org/resource/United_States
@@ -49759,11 +50347,15 @@
 41049	http://dbpedia.org/resource/England
 41052	http://dbpedia.org/resource/Brooklyn
 41052	http://dbpedia.org/resource/New_York_City
+41053	http://dbpedia.org/resource/Belgium
+41053	http://dbpedia.org/resource/Ghent
 41057	http://dbpedia.org/resource/New_York_City
 41073	http://dbpedia.org/resource/Melbourne
 41073	http://dbpedia.org/resource/Australia
 41087	http://dbpedia.org/resource/Melbourne
 41096	http://dbpedia.org/resource/Orocovis,_Puerto_Rico
+41100	http://dbpedia.org/resource/Japan
+41100	http://dbpedia.org/resource/Tokyo
 41116	http://pt.dbpedia.org/resource/Rio_de_Janeiro
 41116	http://pt.dbpedia.org/resource/Rio_de_Janeiro_(cidade)
 41125	http://dbpedia.org/resource/Hungary
@@ -49793,6 +50385,7 @@
 41217	http://dbpedia.org/resource/Kakogawa,_Hy%C5%8Dgo
 41219	http://dbpedia.org/resource/Boston
 41219	http://dbpedia.org/resource/Massachusetts
+41223	http://dbpedia.org/resource/Stamford,_Connecticut
 41224	http://dbpedia.org/resource/Adelaide
 41224	http://dbpedia.org/resource/Australia
 41225	http://dbpedia.org/resource/Queens
@@ -49888,6 +50481,9 @@
 41588	http://dbpedia.org/resource/Vicksburg,_Mississippi
 41605	http://dbpedia.org/resource/England
 41605	http://dbpedia.org/resource/Folkestone
+41606	http://dbpedia.org/resource/Ryazan_Oblast
+41606	http://dbpedia.org/resource/Russian_Empire
+41606	http://dbpedia.org/resource/Rybnovsky_District
 41612	http://dbpedia.org/resource/New_York
 41612	http://dbpedia.org/resource/New_York_City
 41612	http://dbpedia.org/resource/Austria
@@ -49912,6 +50508,8 @@
 41704	http://dbpedia.org/resource/Edmonton
 41709	http://dbpedia.org/resource/United_Kingdom
 41709	http://dbpedia.org/resource/Peterborough
+41710	http://dbpedia.org/resource/South_Korea
+41710	http://dbpedia.org/resource/Seoul
 41712	http://dbpedia.org/resource/Iceland
 41712	http://dbpedia.org/resource/Reykjav%C3%ADk
 41717	http://dbpedia.org/resource/United_Kingdom
@@ -49929,8 +50527,12 @@
 41749	http://dbpedia.org/resource/Oxford,_Alabama
 41749	http://dbpedia.org/resource/United_States
 41750	Kingston, Jamaica@en
+41767	http://dbpedia.org/resource/South_Bay
+41767	http://dbpedia.org/resource/United_States
 41771	http://dbpedia.org/resource/New_Zealand
 41801	Brooklyn, New York, United States@en
+41802	http://dbpedia.org/resource/Cairo
+41802	http://dbpedia.org/resource/Egypt
 41810	http://dbpedia.org/resource/Morocco
 41817	http://pt.dbpedia.org/resource/São_Paulo_(cidade)
 41817	http://pt.dbpedia.org/resource/São_Paulo
@@ -49950,26 +50552,40 @@
 41881	http://dbpedia.org/resource/Los_Angeles
 41882	http://dbpedia.org/resource/Finland
 41882	http://dbpedia.org/resource/Tampere
+41884	http://dbpedia.org/resource/Nottingham
 41887	http://dbpedia.org/resource/Germany
 41888	Englewood, New Jersey, U.S.@en
 41890	http://dbpedia.org/resource/Swansea
 41890	http://dbpedia.org/resource/Wales
+41899	http://dbpedia.org/resource/York
+41899	http://dbpedia.org/resource/Yorkshire
+41899	http://dbpedia.org/resource/England
 41903	http://dbpedia.org/resource/Lazio
 41903	http://dbpedia.org/resource/Italy
 41912	Scottsdale, Arizona,@en
+41915	http://dbpedia.org/resource/Gillespie,_Illinois
+41915	http://dbpedia.org/resource/United_States
 41919	http://dbpedia.org/resource/Stockholm
 41919	http://dbpedia.org/resource/Sweden
 41923	http://dbpedia.org/resource/South_Africa
 41940	http://dbpedia.org/resource/United_States
 41940	http://dbpedia.org/resource/Baltimore
+41958	http://dbpedia.org/resource/Chi%C8%99in%C4%83u
+41958	http://dbpedia.org/resource/Moldova
 41959	http://dbpedia.org/resource/United_States
 41959	http://dbpedia.org/resource/Nevada
 41959	http://dbpedia.org/resource/Las_Vegas_Valley
 41965	http://dbpedia.org/resource/Tunisia
+41978	http://dbpedia.org/resource/Par%C3%A1cuaro
+41978	http://dbpedia.org/resource/Michoac%C3%A1n
+41978	http://dbpedia.org/resource/Mexico
 41980	http://dbpedia.org/resource/Dundee
 41980	http://dbpedia.org/resource/Scotland
+41983	http://dbpedia.org/resource/Japan
+41983	http://dbpedia.org/resource/Tokyo
 41989	http://dbpedia.org/resource/Dublin
 41989	http://dbpedia.org/resource/Republic_of_Ireland
+41997	http://dbpedia.org/resource/Bonsall,_California
 42007	http://dbpedia.org/resource/United_Kingdom
 42011	http://dbpedia.org/resource/Masaya
 42011	http://dbpedia.org/resource/Nicaragua
@@ -50021,6 +50637,8 @@
 42184	http://dbpedia.org/resource/Athens
 42184	http://dbpedia.org/resource/Greece
 42189	Tokyo, Japan@en
+42192	http://dbpedia.org/resource/Belgium
+42192	http://dbpedia.org/resource/Li%C3%A8ge
 42196	http://dbpedia.org/resource/New_York
 42200	http://dbpedia.org/resource/Western_Australia
 42200	http://dbpedia.org/resource/Perth
@@ -50035,6 +50653,8 @@
 42216	http://dbpedia.org/resource/Santa_Cruz,_California
 42224	http://dbpedia.org/resource/Louisville,_Kentucky
 42224	http://dbpedia.org/resource/United_States
+42227	http://dbpedia.org/resource/Japan
+42227	http://dbpedia.org/resource/Saitama_Prefecture
 42228	http://dbpedia.org/resource/Champaign,_Illinois
 42228	http://dbpedia.org/resource/United_States
 42232	http://dbpedia.org/resource/United_Kingdom
@@ -50047,21 +50667,33 @@
 42250	http://dbpedia.org/resource/Los_Angeles
 42253	http://dbpedia.org/resource/United_States
 42253	http://dbpedia.org/resource/Florida
+42262	http://dbpedia.org/resource/Belgium
+42262	http://dbpedia.org/resource/Li%C3%A8ge
 42267	http://dbpedia.org/resource/Val-d'Or
 42267	http://dbpedia.org/resource/Quebec
 42267	http://dbpedia.org/resource/Canada
 42268	http://dbpedia.org/resource/San_Francisco
 42268	http://dbpedia.org/resource/United_States
+42272	http://dbpedia.org/resource/United_Kingdom
+42272	http://dbpedia.org/resource/England
+42272	http://dbpedia.org/resource/London
+42272	http://dbpedia.org/resource/Osterley
 42287	http://dbpedia.org/resource/Lookout_Mountain,_Georgia
 42287	http://dbpedia.org/resource/United_States
 42288	http://dbpedia.org/resource/Nakano,_Tokyo
+42317	http://dbpedia.org/resource/West_Germany
+42317	http://dbpedia.org/resource/Munich
 42322	http://dbpedia.org/resource/United_States
 42322	http://dbpedia.org/resource/Sherman_Oaks,_Los_Angeles
+42330	http://dbpedia.org/resource/Finland
+42330	http://dbpedia.org/resource/P%C3%A4lk%C3%A4ne
 42338	http://dbpedia.org/resource/Norway
 42338	http://dbpedia.org/resource/Telemark
 42340	Naples@en
 42348	http://dbpedia.org/resource/Washington_(state)
 42348	http://dbpedia.org/resource/Seattle
+42352	http://dbpedia.org/resource/Westchester_County,_New_York
+42352	http://dbpedia.org/resource/United_States
 42360	http://dbpedia.org/resource/Finland
 42360	http://dbpedia.org/resource/Vassa
 42374	http://dbpedia.org/resource/Corner_Brook
@@ -50084,6 +50716,9 @@
 42414	http://es.dbpedia.org/resource/Montevideo
 42437	http://dbpedia.org/resource/United_States
 42437	http://dbpedia.org/resource/Austin,_Texas
+42443	http://dbpedia.org/resource/New_Jersey
+42443	http://dbpedia.org/resource/Newark,_New_Jersey
+42443	http://dbpedia.org/resource/United_States
 42464	http://dbpedia.org/resource/Netherlands
 42469	http://dbpedia.org/resource/New_Haven,_Connecticut
 42482	http://dbpedia.org/resource/Canada
@@ -50116,6 +50751,7 @@
 42677	(Jeannette, Pennsylvania, United States)@en
 42680	http://dbpedia.org/resource/Jamaica
 42680	http://dbpedia.org/resource/Steertown
+42699	http://dbpedia.org/resource/Santa_Monica,_California
 42709	http://dbpedia.org/resource/England
 42709	http://dbpedia.org/resource/London
 42715	http://dbpedia.org/resource/Denton,_Texas
@@ -50132,6 +50768,8 @@
 42772	http://dbpedia.org/resource/London
 42774	http://dbpedia.org/resource/Caracas
 42774	http://dbpedia.org/resource/Venezuela
+42790	http://dbpedia.org/resource/Uttar_Pradesh
+42790	http://dbpedia.org/resource/Lucknow
 42795	http://dbpedia.org/resource/Toronto
 42795	http://dbpedia.org/resource/Ontario
 42795	http://dbpedia.org/resource/Canada
@@ -50153,18 +50791,24 @@
 42837	Morristown, NJ@en
 42845	http://dbpedia.org/resource/Mali
 42846	http://dbpedia.org/resource/England
+42862	http://dbpedia.org/resource/England
+42862	http://dbpedia.org/resource/London
 42874	http://dbpedia.org/resource/England
 42874	http://dbpedia.org/resource/Kent
 42877	http://dbpedia.org/resource/Melbourne
 42877	http://dbpedia.org/resource/Australia
 42895	London, England@en
 42898	http://dbpedia.org/resource/Malta
+42900	http://dbpedia.org/resource/Sweden
+42900	http://dbpedia.org/resource/Blackeberg
 42901	http://dbpedia.org/resource/Toronto
 42901	http://dbpedia.org/resource/Ontario
 42901	http://dbpedia.org/resource/Canada
 42911	http://dbpedia.org/resource/Michigan
 42911	http://dbpedia.org/resource/United_States
 42911	http://dbpedia.org/resource/Detroit
+42924	http://dbpedia.org/resource/Germany
+42924	http://dbpedia.org/resource/Krefeld
 42926	http://dbpedia.org/resource/Montreal
 42926	http://dbpedia.org/resource/Canada
 42940	http://dbpedia.org/resource/United_States
@@ -50200,6 +50844,8 @@
 43184	http://dbpedia.org/resource/Toronto
 43184	http://dbpedia.org/resource/Ontario
 43184	http://dbpedia.org/resource/Canada
+43195	http://dbpedia.org/resource/Vienna
+43195	http://dbpedia.org/resource/Austria
 43197	http://dbpedia.org/resource/Belfast
 43197	http://dbpedia.org/resource/Northern_Ireland
 43202	Glasgow, Scotland@en
@@ -50212,6 +50858,8 @@
 43225	http://dbpedia.org/resource/Canada
 43225	http://dbpedia.org/resource/Vancouver
 43225	http://dbpedia.org/resource/British_Columbia
+43264	http://dbpedia.org/resource/Derbyshire
+43264	http://dbpedia.org/resource/Chesterfield
 43265	http://dbpedia.org/resource/United_Kingdom
 43265	http://dbpedia.org/resource/Brighton
 43265	http://dbpedia.org/resource/England
@@ -50245,6 +50893,8 @@
 43345	http://dbpedia.org/resource/Toronto
 43347	http://dbpedia.org/resource/Vicksburg,_Mississippi
 43353	http://dbpedia.org/resource/Placentia,_California
+43362	http://dbpedia.org/resource/Germany
+43362	http://dbpedia.org/resource/Cranz
 43372	http://dbpedia.org/resource/Mal%C3%A9
 43386	http://dbpedia.org/resource/South_London
 43393	http://dbpedia.org/resource/Tamil_Nadu
@@ -50259,6 +50909,8 @@
 43432	http://dbpedia.org/resource/Naples
 43461	http://dbpedia.org/resource/Mississippi
 43461	http://dbpedia.org/resource/McComb,_Mississippi
+43476	http://dbpedia.org/resource/Ottawa,_Illinois
+43476	http://dbpedia.org/resource/United_States
 43481	http://dbpedia.org/resource/Whitby,_Ontario
 43485	http://dbpedia.org/resource/Toronto
 43485	http://dbpedia.org/resource/Ontario
@@ -50288,6 +50940,7 @@
 43602	http://dbpedia.org/resource/United_States
 43602	http://dbpedia.org/resource/South_Haven
 43614	http://dbpedia.org/resource/Kuala_Lumpur
+43642	http://dbpedia.org/resource/United_Kingdom
 43643	http://dbpedia.org/resource/Ghana
 43643	http://dbpedia.org/resource/Africa
 43646	Osaka, Japan@en
@@ -50355,6 +51008,8 @@
 43988	http://dbpedia.org/resource/Atlanta
 43988	http://dbpedia.org/resource/United_States
 43997	Nagaoka, Niigata, Japan@en
+43999	http://dbpedia.org/resource/Osaka
+43999	http://dbpedia.org/resource/Japan
 44013	http://dbpedia.org/resource/Lebanon
 44013	http://dbpedia.org/resource/Beirut
 44035	http://dbpedia.org/resource/Victoria,_British_Columbia
@@ -50381,6 +51036,8 @@
 44128	http://dbpedia.org/resource/Essex
 44128	http://dbpedia.org/resource/England
 44128	http://dbpedia.org/resource/Woodford,_London
+44141	http://dbpedia.org/resource/Australia
+44141	http://dbpedia.org/resource/Brisbane
 44143	Nottinghamshire, England, United Kingdom@en
 44161	http://dbpedia.org/resource/Nea_Ionia
 44161	http://dbpedia.org/resource/Greece
@@ -50409,6 +51066,9 @@
 44224	http://dbpedia.org/resource/Canada
 44237	http://dbpedia.org/resource/New_York
 44237	http://dbpedia.org/resource/New_York_City
+44238	http://dbpedia.org/resource/England
+44238	http://dbpedia.org/resource/Kent
+44238	http://dbpedia.org/resource/Swanley
 44248	http://dbpedia.org/resource/Jokioinen
 44248	http://dbpedia.org/resource/Finland
 44249	http://dbpedia.org/resource/Kinshasa
@@ -50418,6 +51078,8 @@
 44259	http://dbpedia.org/resource/San_Francisco
 44259	http://dbpedia.org/resource/California
 44283	http://dbpedia.org/resource/Medicine_Hat
+44300	http://dbpedia.org/resource/Germany
+44300	http://dbpedia.org/resource/Crailsheim
 44305	http://dbpedia.org/resource/Czech_Republic
 44305	http://dbpedia.org/resource/Prague
 44310	http://dbpedia.org/resource/London
@@ -50489,6 +51151,8 @@
 44631	http://dbpedia.org/resource/County_Wicklow
 44631	http://dbpedia.org/resource/Republic_of_Ireland
 44631	http://dbpedia.org/resource/Bray
+44639	http://dbpedia.org/resource/Panama_City
+44639	http://dbpedia.org/resource/Panama
 44650	http://dbpedia.org/resource/Germany
 44650	http://dbpedia.org/resource/Norway
 44650	http://dbpedia.org/resource/Scotland
@@ -50507,6 +51171,9 @@
 44776	http://dbpedia.org/resource/Atlanta
 44776	http://dbpedia.org/resource/United_States
 44841	http://dbpedia.org/resource/Lancashire
+44845	http://dbpedia.org/resource/Budapest
+44845	http://dbpedia.org/resource/Hungary
+44845	http://dbpedia.org/resource/Hungarian_People's_Republic
 44848	http://dbpedia.org/resource/Van_Wert,_Ohio
 44848	http://dbpedia.org/resource/United_States
 44870	http://dbpedia.org/resource/Sweden
@@ -50537,10 +51204,14 @@
 44953	http://dbpedia.org/resource/United_States
 44961	http://dbpedia.org/resource/Cyprus
 44961	http://dbpedia.org/resource/Limassol
+44962	http://dbpedia.org/resource/Stockholm
+44977	http://dbpedia.org/resource/Jersey_City,_New_Jersey
 44978	http://dbpedia.org/resource/Los_Angeles
 44978	http://dbpedia.org/resource/California
 44979	http://dbpedia.org/resource/California
 44979	http://dbpedia.org/resource/Los_Angeles
+44993	http://dbpedia.org/resource/Washington,_D.C.
+44993	http://dbpedia.org/resource/United_States
 44998	http://dbpedia.org/resource/Worcestershire
 44998	http://dbpedia.org/resource/England
 44998	http://dbpedia.org/resource/Evesham
@@ -50559,6 +51230,7 @@
 45088	http://dbpedia.org/resource/Sweden
 45098	http://dbpedia.org/resource/Milwaukee
 45098	http://dbpedia.org/resource/United_States
+45101	http://dbpedia.org/resource/Sydenham,_Frontenac_County,_Ontario
 45103	Ajax, Ontario, Canada@en
 45110	http://dbpedia.org/resource/Monroe,_Louisiana
 45110	http://dbpedia.org/resource/Louisiana
@@ -50570,6 +51242,7 @@
 45121	http://dbpedia.org/resource/New_Jersey
 45121	http://dbpedia.org/resource/Trenton,_New_Jersey
 45123	Portsmouth, Virginia, US@en
+45133	http://dbpedia.org/resource/Plainview,_New_York
 45137	http://dbpedia.org/resource/United_States
 45137	http://dbpedia.org/resource/New_York
 45148	http://dbpedia.org/resource/China
@@ -50580,6 +51253,8 @@
 45170	http://dbpedia.org/resource/Birmingham
 45175	http://dbpedia.org/resource/Hong_Kong
 45193	http://dbpedia.org/resource/Fort_Lauderdale,_Florida
+45194	http://dbpedia.org/resource/Kingston,_Jamaica
+45194	http://dbpedia.org/resource/Jamaica
 45211	http://dbpedia.org/resource/United_States
 45211	http://dbpedia.org/resource/Illinois
 45211	http://dbpedia.org/resource/Chicago
@@ -50604,6 +51279,8 @@
 45307	http://dbpedia.org/resource/Sligo
 45349	http://dbpedia.org/resource/Nashville,_Tennessee
 45349	http://dbpedia.org/resource/United_States
+45350	http://dbpedia.org/resource/Germany
+45350	http://dbpedia.org/resource/Quakenbr%C3%BCck
 45375	http://dbpedia.org/resource/Pakistan
 45375	http://dbpedia.org/resource/Lahore
 45383	http://dbpedia.org/resource/Winnipeg
@@ -50611,6 +51288,8 @@
 45397	http://dbpedia.org/resource/United_States
 45397	http://dbpedia.org/resource/Boston
 45397	http://dbpedia.org/resource/Massachusetts
+45405	http://dbpedia.org/resource/Stockholm
+45405	http://dbpedia.org/resource/Sweden
 45413	http://dbpedia.org/resource/Kent
 45413	http://dbpedia.org/resource/England
 45413	http://dbpedia.org/resource/Ashford
@@ -50628,9 +51307,15 @@
 45533	http://dbpedia.org/resource/Leesburg,_Florida
 45533	http://dbpedia.org/resource/United_States
 45537	http://dbpedia.org/resource/Iran
+45539	http://dbpedia.org/resource/Missouri
+45539	http://dbpedia.org/resource/Joplin,_Missouri
+45539	http://dbpedia.org/resource/United_States
+45547	http://dbpedia.org/resource/Santa_Barbara,_California
 45548	http://dbpedia.org/resource/Northern_Virginia
 45548	http://dbpedia.org/resource/Washington,_D.C.
 45548	http://dbpedia.org/resource/United_States
+45559	http://dbpedia.org/resource/Manhattan,_Kansas
+45559	http://dbpedia.org/resource/United_States
 45574	http://dbpedia.org/resource/Dunnville,_Ontario
 45574	http://dbpedia.org/resource/Canada
 45589	Leicester, England@en
@@ -50646,6 +51331,8 @@
 45638	http://dbpedia.org/resource/Dhaka
 45641	http://es.dbpedia.org/resource/España
 45641	http://es.dbpedia.org/resource/Valencia
+45646	http://dbpedia.org/resource/West_Yorkshire
+45646	http://dbpedia.org/resource/Denby_Dale
 45652	http://dbpedia.org/resource/Newton_Stewart
 45652	http://dbpedia.org/resource/Scotland
 45665	http://dbpedia.org/resource/Ontario
@@ -50659,6 +51346,8 @@
 45727	http://dbpedia.org/resource/United_States
 45745	Boston, Massachusetts, United States@en
 45748	http://dbpedia.org/resource/Greece
+45757	http://dbpedia.org/resource/California
+45757	http://dbpedia.org/resource/United_States
 45777	http://dbpedia.org/resource/Boston
 45781	http://dbpedia.org/resource/New_York_City
 45781	http://dbpedia.org/resource/United_States
@@ -50693,6 +51382,9 @@
 45932	http://dbpedia.org/resource/Kitakyushu
 45944	http://dbpedia.org/resource/United_Kingdom
 45944	http://dbpedia.org/resource/Bristol
+45948	http://dbpedia.org/resource/Danderyd_Municipality
+45948	http://dbpedia.org/resource/Stockholm_County
+45948	http://dbpedia.org/resource/Sweden
 45967	http://dbpedia.org/resource/California
 45967	http://dbpedia.org/resource/Los_Angeles
 45987	http://es.dbpedia.org/resource/Santa_Cruz_de_Tenerife
@@ -50734,6 +51426,8 @@
 46220	http://dbpedia.org/resource/Rome
 46220	http://dbpedia.org/resource/Italy
 46221	Ascot, Berkshire, England@en
+46233	http://dbpedia.org/resource/Amsterdam
+46233	http://dbpedia.org/resource/Netherlands
 46240	New York, United States@en
 46266	Tokyo, Japan@en
 46284	http://dbpedia.org/resource/England
@@ -50795,12 +51489,16 @@
 46631	http://dbpedia.org/resource/Scotland
 46650	http://dbpedia.org/resource/Spokane,_Washington
 46650	United States@en
+46651	http://dbpedia.org/resource/Czechoslovakia
+46651	http://dbpedia.org/resource/Prague
 46655	http://dbpedia.org/resource/New_South_Wales
 46655	http://dbpedia.org/resource/Australia
 46655	http://dbpedia.org/resource/Caringbah,_New_South_Wales
 46675	http://dbpedia.org/resource/United_Kingdom
 46675	http://dbpedia.org/resource/London
 46676	http://dbpedia.org/resource/New_Zealand
+46712	http://dbpedia.org/resource/New_York
+46712	http://dbpedia.org/resource/New_York_City
 46719	http://dbpedia.org/resource/Scotland
 46719	http://dbpedia.org/resource/Glasgow
 46743	http://dbpedia.org/resource/Chicago
@@ -50841,6 +51539,10 @@
 46952	http://dbpedia.org/resource/Ontario
 46962	http://dbpedia.org/resource/New_York_City
 46968	http://dbpedia.org/resource/London
+46969	http://dbpedia.org/resource/Detroit
+46969	http://dbpedia.org/resource/United_States
+46973	http://dbpedia.org/resource/Amsterdam
+46973	http://dbpedia.org/resource/Netherlands
 46975	http://dbpedia.org/resource/England
 46975	http://dbpedia.org/resource/Ipswich
 46980	http://dbpedia.org/resource/Little_Rock,_Arkansas
@@ -50862,10 +51564,17 @@
 47131	http://dbpedia.org/resource/United_States
 47131	http://dbpedia.org/resource/Florida
 47141	http://dbpedia.org/resource/South_Korea
+47158	http://dbpedia.org/resource/Stockholm
+47158	http://dbpedia.org/resource/Sweden
+47163	http://dbpedia.org/resource/Boston
+47163	http://dbpedia.org/resource/Massachusetts
 47165	United States@en
 47172	Boston, Massachusetts, United States@en
 47179	http://dbpedia.org/resource/Fullerton,_California
 47179	http://dbpedia.org/resource/United_States
+47219	http://dbpedia.org/resource/Yakima,_Washington
+47261	http://dbpedia.org/resource/Odense
+47261	http://dbpedia.org/resource/Denmark
 47273	http://dbpedia.org/resource/Louisiana
 47273	http://dbpedia.org/resource/Music_of_New_Orleans
 47284	Asheville, North Carolina, United States@en
@@ -50899,13 +51608,18 @@
 47508	http://dbpedia.org/resource/United_States
 47522	http://dbpedia.org/resource/Indore
 47547	http://dbpedia.org/resource/Ulm
+47552	http://dbpedia.org/resource/Portland,_Oregon
 47568	http://dbpedia.org/resource/Billings,_Montana
+47569	http://dbpedia.org/resource/Los_Angeles
 47572	Gothenburg, Sweden@en
 47576	http://dbpedia.org/resource/England
 47576	http://dbpedia.org/resource/Birmingham
 47582	http://dbpedia.org/resource/United_States
 47582	http://dbpedia.org/resource/Michigan
 47582	http://dbpedia.org/resource/Fremont,_Michigan
+47628	http://dbpedia.org/resource/Helsinki
+47628	http://dbpedia.org/resource/Grand_Duchy_of_Finland
+47628	http://dbpedia.org/resource/Russian_Empire
 47635	http://dbpedia.org/resource/Yugoslavia
 47635	http://dbpedia.org/resource/Serbia
 47635	http://dbpedia.org/resource/Novi_Sad
@@ -50917,6 +51631,8 @@
 47688	http://dbpedia.org/resource/Sweden
 47692	http://dbpedia.org/resource/Sierra_Madre,_California
 47692	http://dbpedia.org/resource/United_States
+47700	http://dbpedia.org/resource/Allentown,_Pennsylvania
+47700	http://dbpedia.org/resource/United_States
 47715	http://dbpedia.org/resource/Pittsburgh
 47715	http://dbpedia.org/resource/United_States
 47715	http://dbpedia.org/resource/Pennsylvania
@@ -50926,6 +51642,8 @@
 47752	http://dbpedia.org/resource/New_Jersey
 47754	http://dbpedia.org/resource/New_Jersey
 47755	Newark, New Jersey, United States@en
+47759	http://dbpedia.org/resource/Boulder,_Colorado
+47759	http://dbpedia.org/resource/United_States
 47825	http://pt.dbpedia.org/resource/Rio_Grande_do_Sul
 47825	http://pt.dbpedia.org/resource/Porto_Alegre
 47828	http://dbpedia.org/resource/Nevada
@@ -50977,6 +51695,8 @@
 48214	http://dbpedia.org/resource/Jackson,_Mississippi
 48214	http://dbpedia.org/resource/United_States
 48240	Worcester Park, London, UK@en
+48263	http://dbpedia.org/resource/Alexandria
+48263	http://dbpedia.org/resource/Khedivate_of_Egypt
 48277	http://dbpedia.org/resource/California
 48277	http://dbpedia.org/resource/San_Diego
 48278	http://dbpedia.org/resource/India
@@ -50998,6 +51718,8 @@
 48435	Mexico City, Mexico@en
 48453	http://dbpedia.org/resource/New_England
 48455	http://dbpedia.org/resource/Greece
+48462	http://dbpedia.org/resource/United_States
+48462	http://dbpedia.org/resource/Boston
 48469	http://dbpedia.org/resource/Atsugi,_Kanagawa
 48488	Dallas, Texas, United States@en
 48506	http://dbpedia.org/resource/Canada
@@ -51012,6 +51734,8 @@
 48588	http://dbpedia.org/resource/Haryana
 48588	http://dbpedia.org/resource/India
 48588	http://dbpedia.org/resource/Hisar_(city)
+48595	http://dbpedia.org/resource/Japan
+48595	http://dbpedia.org/resource/Nagano,_Nagano
 48597	http://dbpedia.org/resource/United_States
 48597	http://dbpedia.org/resource/New_Jersey
 48610	http://dbpedia.org/resource/Liverpool
@@ -51027,11 +51751,16 @@
 48766	http://dbpedia.org/resource/United_Kingdom
 48766	http://dbpedia.org/resource/Scotland
 48766	http://dbpedia.org/resource/Glasgow
+48776	http://dbpedia.org/resource/Brazil
+48776	http://dbpedia.org/resource/S%C3%A3o_Paulo_(state)
+48776	http://dbpedia.org/resource/Taubat%C3%A9
 48833	http://dbpedia.org/resource/Valledupar
 48833	http://dbpedia.org/resource/Colombia
 48833	http://dbpedia.org/resource/Cesar_Department
 48895	http://dbpedia.org/resource/North_Carolina
 48895	http://dbpedia.org/resource/United_States
+48899	http://dbpedia.org/resource/Reno,_Nevada
+48899	http://dbpedia.org/resource/United_States
 48902	http://dbpedia.org/resource/New_Zealand
 48902	http://dbpedia.org/resource/Auckland
 48907	http://dbpedia.org/resource/Minnesota
@@ -51073,6 +51802,9 @@
 49106	http://dbpedia.org/resource/Sherbrooke
 49131	http://dbpedia.org/resource/San_Francisco
 49151	http://dbpedia.org/resource/Orlando,_Florida
+49180	http://dbpedia.org/resource/Worcester,_Massachusetts
+49180	http://dbpedia.org/resource/United_States
+49180	http://dbpedia.org/resource/Massachusetts
 49187	http://dbpedia.org/resource/Skopje
 49187	http://dbpedia.org/resource/Republic_of_Macedonia
 49200	http://dbpedia.org/resource/Bernol%C3%A1kovo
@@ -51085,14 +51817,21 @@
 49236	http://dbpedia.org/resource/Oklahoma_City
 49247	http://dbpedia.org/resource/Sewell,_Chile
 49247	http://dbpedia.org/resource/Chile
+49258	http://dbpedia.org/resource/Stockholm
+49258	http://dbpedia.org/resource/Sweden
 49276	Thornhill, Ontario, Canada@en
 49292	http://dbpedia.org/resource/Tallinn
 49292	http://dbpedia.org/resource/Estonian_Soviet_Socialist_Republic
 49292	http://dbpedia.org/resource/Estonia
 49292	http://dbpedia.org/resource/Soviet_Union
+49314	http://dbpedia.org/resource/Finland
+49314	http://dbpedia.org/resource/Tampere
 49340	Belper, Derbyshire, England@en
 49372	http://dbpedia.org/resource/New_Zealand
 49384	http://dbpedia.org/resource/Sweden
+49452	http://dbpedia.org/resource/Austria-Hungary
+49452	http://dbpedia.org/resource/Prague
+49452	http://dbpedia.org/resource/Kingdom_of_Bohemia
 49456	http://dbpedia.org/resource/Wyckoff,_New_Jersey
 49456	http://dbpedia.org/resource/United_States
 49458	http://dbpedia.org/resource/United_States
@@ -51111,6 +51850,8 @@
 49547	http://dbpedia.org/resource/Woodside,_Queens
 49577	http://dbpedia.org/resource/Nashville,_Tennessee
 49577	http://dbpedia.org/resource/United_States
+49603	http://dbpedia.org/resource/Newark,_New_Jersey
+49603	http://dbpedia.org/resource/United_States
 49616	http://dbpedia.org/resource/Sweden
 49625	http://dbpedia.org/resource/Athens
 49625	http://dbpedia.org/resource/Greece
@@ -51133,6 +51874,8 @@
 49842	http://dbpedia.org/resource/Washington,_D.C.
 49862	http://dbpedia.org/resource/Kentucky
 49862	http://dbpedia.org/resource/Lexington,_Kentucky
+49865	http://dbpedia.org/resource/Japan
+49865	http://dbpedia.org/resource/Nagano,_Nagano
 49866	http://dbpedia.org/resource/Wrexham
 49866	http://dbpedia.org/resource/Wales
 49882	http://dbpedia.org/resource/Puerto_Rico
@@ -51158,6 +51901,8 @@
 50007	http://dbpedia.org/resource/United_Kingdom
 50016	http://dbpedia.org/resource/Seattle
 50016	http://dbpedia.org/resource/Washington_(state)
+50068	http://dbpedia.org/resource/Northern_Ireland
+50068	http://dbpedia.org/resource/Castledawson
 50107	http://dbpedia.org/resource/United_Kingdom
 50115	East Brunswick Township, New Jersey, U.S.@en
 50118	http://dbpedia.org/resource/Houston
@@ -51176,12 +51921,16 @@
 50288	http://dbpedia.org/resource/Canada
 50288	http://dbpedia.org/resource/Quebec
 50288	http://dbpedia.org/resource/Montreal
+50332	http://dbpedia.org/resource/Baghdad
+50332	http://dbpedia.org/resource/Iraq
 50343	U.S.@en
 50403	http://dbpedia.org/resource/Kingdom_of_Sardinia
 50403	http://dbpedia.org/resource/Savoy
 50403	http://dbpedia.org/resource/Fontanetto_Po
 50443	http://dbpedia.org/resource/Tochigi_Prefecture
 50462	Mishawaka, Indiana, U.S.@en
+50464	http://dbpedia.org/resource/Arnhem
+50464	http://dbpedia.org/resource/Netherlands
 50498	http://dbpedia.org/resource/United_States
 50498	http://dbpedia.org/resource/Annville,_Kentucky
 50525	Melbourne, Victoria, Australia@en
@@ -51249,6 +51998,8 @@
 51017	http://dbpedia.org/resource/United_States
 51025	http://dbpedia.org/resource/Los_Angeles
 51025	http://dbpedia.org/resource/United_States
+51069	http://dbpedia.org/resource/Nottingham
+51069	http://dbpedia.org/resource/Mapperley
 51085	http://dbpedia.org/resource/New_Brunswick
 51085	http://dbpedia.org/resource/Saint_John,_New_Brunswick
 51085	http://dbpedia.org/resource/Canada
@@ -51262,6 +52013,8 @@
 51276	http://dbpedia.org/resource/Canada
 51276	http://dbpedia.org/resource/Hamilton,_Ontario
 51277	http://dbpedia.org/resource/New_York
+51285	http://dbpedia.org/resource/Chapel_Hill,_North_Carolina
+51285	http://dbpedia.org/resource/United_States
 51290	http://dbpedia.org/resource/Mississippi
 51290	http://dbpedia.org/resource/Jackson,_Mississippi
 51378	http://dbpedia.org/resource/England
@@ -51270,12 +52023,14 @@
 51378	http://dbpedia.org/resource/North_Shields
 51397	http://dbpedia.org/resource/Mount_Gambier,_South_Australia
 51397	http://dbpedia.org/resource/South_Australia
+51428	http://dbpedia.org/resource/Chattanooga,_Tennessee
 51486	http://dbpedia.org/resource/Nebraska
 51493	http://dbpedia.org/resource/England
 51493	http://dbpedia.org/resource/Greater_London
 51493	http://dbpedia.org/resource/Romford
 51518	http://dbpedia.org/resource/England
 51518	http://dbpedia.org/resource/Birmingham
+51574	http://dbpedia.org/resource/New_York
 51651	http://dbpedia.org/resource/Canada
 51651	http://dbpedia.org/resource/Vancouver
 51662	http://dbpedia.org/resource/Tampa,_Florida
@@ -51288,8 +52043,13 @@
 51702	http://dbpedia.org/resource/England
 51705	Higher Blackley, Manchester, England@en
 51750	http://dbpedia.org/resource/Kitakyushu
+51806	http://dbpedia.org/resource/Toronto
+51806	http://dbpedia.org/resource/Ontario
+51806	http://dbpedia.org/resource/Canada
 51827	http://dbpedia.org/resource/Long_Beach,_California
 51827	http://dbpedia.org/resource/United_States
+51842	http://dbpedia.org/resource/Belgium
+51842	http://dbpedia.org/resource/Bilzen
 51852	http://dbpedia.org/resource/Boston
 51852	http://dbpedia.org/resource/United_States
 51910	England, United Kingdom@en
@@ -51310,6 +52070,9 @@
 52054	http://dbpedia.org/resource/New_Orleans
 52106	http://dbpedia.org/resource/Sheffield
 52106	http://dbpedia.org/resource/England
+52158	http://dbpedia.org/resource/Starobilsk
+52199	http://dbpedia.org/resource/Washington,_D.C.
+52199	http://dbpedia.org/resource/United_States
 52206	http://dbpedia.org/resource/England
 52234	http://dbpedia.org/resource/United_States
 52234	http://dbpedia.org/resource/Concord,_North_Carolina
@@ -51330,6 +52093,8 @@
 52699	http://dbpedia.org/resource/Brooklyn
 52715	http://dbpedia.org/resource/California
 52715	http://dbpedia.org/resource/Santa_Barbara,_California
+52743	http://dbpedia.org/resource/C%C3%A1diz
+52743	http://dbpedia.org/resource/Spain
 52744	http://dbpedia.org/resource/Washington,_D.C.
 52762	http://dbpedia.org/resource/Chester,_Pennsylvania
 52762	http://dbpedia.org/resource/United_States
@@ -51339,6 +52104,11 @@
 52801	http://dbpedia.org/resource/United_States
 52859	http://dbpedia.org/resource/Los_Angeles
 52881	http://dbpedia.org/resource/England
+52928	http://dbpedia.org/resource/United_States
+52928	http://dbpedia.org/resource/Boston
+52928	http://dbpedia.org/resource/Massachusetts
+52975	http://dbpedia.org/resource/Phoenix,_Arizona
+52975	http://dbpedia.org/resource/United_States
 53023	http://dbpedia.org/resource/T%C3%BCbingen
 53023	http://dbpedia.org/resource/Germany
 53044	http://dbpedia.org/resource/Heist-op-den-Berg
@@ -51380,6 +52150,7 @@
 53993	http://dbpedia.org/resource/United_States
 53993	http://dbpedia.org/resource/New_York
 53995	http://pt.dbpedia.org/resource/Rio_de_Janeiro
+53999	http://dbpedia.org/resource/Buffalo,_New_York
 54037	Bushey, Hertfordshire, England.@en
 54048	http://dbpedia.org/resource/Hamina
 54048	http://dbpedia.org/resource/Finland
@@ -51409,6 +52180,7 @@
 54816	http://dbpedia.org/resource/Baltimore
 54864	http://dbpedia.org/resource/England
 54948	http://dbpedia.org/resource/United_States
+54949	http://dbpedia.org/resource/Denmark
 54978	http://dbpedia.org/resource/United_States
 54978	http://dbpedia.org/resource/Laurel,_Mississippi
 55014	http://dbpedia.org/resource/California
@@ -51423,6 +52195,8 @@
 55502	http://dbpedia.org/resource/United_States
 55537	http://dbpedia.org/resource/United_Kingdom
 55573	http://dbpedia.org/resource/United_States
+55602	http://dbpedia.org/resource/New_Zealand
+55602	http://dbpedia.org/resource/Auckland
 55690	http://pt.dbpedia.org/resource/Minas_Gerais
 55690	http://pt.dbpedia.org/resource/Rio_Novo
 55741	http://dbpedia.org/resource/County_Cork
@@ -51433,6 +52207,10 @@
 55753	http://dbpedia.org/resource/Spain
 55804	http://dbpedia.org/resource/Johnson_City,_New_York
 55804	http://dbpedia.org/resource/United_States
+55836	http://dbpedia.org/resource/Moscow
+55884	http://dbpedia.org/resource/Soviet_Union
+55884	http://dbpedia.org/resource/Tobolsk
+55884	http://dbpedia.org/resource/Russian_Soviet_Federative_Socialist_Republic
 55928	http://dbpedia.org/resource/United_States
 55928	http://dbpedia.org/resource/Kirkland,_Washington
 55949	http://dbpedia.org/resource/Blanchard,_Oklahoma
@@ -51446,6 +52224,8 @@
 56042	http://dbpedia.org/resource/San_Juan,_Puerto_Rico
 56152	Flatbush, New York, United States@en
 56153	http://dbpedia.org/resource/Canada
+56190	http://dbpedia.org/resource/Philippines
+56190	http://dbpedia.org/resource/Manila
 56216	http://dbpedia.org/resource/Tehran
 56216	http://dbpedia.org/resource/Iran
 56243	http://dbpedia.org/resource/United_States
@@ -51454,6 +52234,8 @@
 56244	http://dbpedia.org/resource/Scotland
 56244	http://dbpedia.org/resource/East_Kilbride
 56254	Australia@en
+56317	http://dbpedia.org/resource/West_Covina,_California
+56317	http://dbpedia.org/resource/United_States
 56339	http://dbpedia.org/resource/Cardiff
 56339	http://dbpedia.org/resource/Wales
 56339	http://dbpedia.org/resource/Ely,_Cardiff
@@ -51475,11 +52257,15 @@
 57059	http://dbpedia.org/resource/United_States
 57059	http://dbpedia.org/resource/Crystal_Lake,_Illinois
 57059	http://dbpedia.org/resource/Illinois
+57068	http://dbpedia.org/resource/Uzbek_Soviet_Socialist_Republic
+57068	http://dbpedia.org/resource/Fergana
 57180	http://dbpedia.org/resource/Punnichy,_Saskatchewan
 57180	http://dbpedia.org/resource/Saskatchewan
 57180	http://dbpedia.org/resource/Canada
 57218	http://dbpedia.org/resource/Poland
 57218	http://dbpedia.org/resource/Warsaw
+57222	http://dbpedia.org/resource/Japan
+57222	http://dbpedia.org/resource/Tokyo
 57228	http://dbpedia.org/resource/United_States
 57228	http://dbpedia.org/resource/Boston
 57228	http://dbpedia.org/resource/Massachusetts
@@ -51491,12 +52277,23 @@
 57289	http://dbpedia.org/resource/Ontario
 57330	Lithuanian@en
 57345	Bramhall, Stockport, England@en
+57374	http://dbpedia.org/resource/Nevada
+57374	http://dbpedia.org/resource/United_States
+57374	http://dbpedia.org/resource/Las_Vegas_Valley
 57440	http://dbpedia.org/resource/Western_Australia
 57440	http://dbpedia.org/resource/Perth
 57451	http://dbpedia.org/resource/Hattiesburg,_Mississippi
+57473	http://dbpedia.org/resource/Kanagawa_Prefecture
+57473	http://dbpedia.org/resource/Japan
+57549	http://dbpedia.org/resource/German_Empire
+57549	http://dbpedia.org/resource/Thalkirchen-Obersendling-Forstenried-F%C3%BCrstenried-Solln
+57549	http://dbpedia.org/resource/Kingdom_of_Bavaria
 57552	http://dbpedia.org/resource/United_States
 57552	http://dbpedia.org/resource/Ukiah,_California
 57561	http://dbpedia.org/resource/Bristol
+57651	http://dbpedia.org/resource/Petaluma,_California
+57687	http://dbpedia.org/resource/Cobb,_California
+57687	http://dbpedia.org/resource/United_States
 57853	http://dbpedia.org/resource/United_States
 58011	http://dbpedia.org/resource/Indore
 58011	http://dbpedia.org/resource/India
@@ -51509,6 +52306,8 @@
 58342	http://dbpedia.org/resource/London
 58523	Hyderabad, Andhra Pradesh, India@en
 58652	http://dbpedia.org/resource/Chicago
+58665	http://dbpedia.org/resource/%C5%81%C3%B3d%C5%BA
+58665	http://dbpedia.org/resource/Congress_Poland
 58925	http://dbpedia.org/resource/Germany
 58925	http://dbpedia.org/resource/Pforzheim
 58990	Raymond, Mississippi, United States@en
@@ -51518,6 +52317,8 @@
 59132	http://dbpedia.org/resource/St_Andrews
 59160	http://dbpedia.org/resource/Malden,_Massachusetts
 59373	Saitama Prefecture, Japan@en
+59382	http://dbpedia.org/resource/New_Delhi
+59382	http://dbpedia.org/resource/India
 59390	http://dbpedia.org/resource/Detroit
 59390	http://dbpedia.org/resource/United_States
 59397	Seiyo, Ehime, Japan@en
@@ -51539,6 +52340,10 @@
 60051	http://dbpedia.org/resource/United_States
 60057	http://dbpedia.org/resource/Canada
 60057	http://dbpedia.org/resource/Glace_Bay,_Nova_Scotia
+60094	http://dbpedia.org/resource/Portland,_Oregon
+60108	http://dbpedia.org/resource/Firozpur
+60108	http://dbpedia.org/resource/Punjab_Province_(British_India)
+60108	http://dbpedia.org/resource/Presidencies_and_provinces_of_British_India
 60390	Burbank, California, U.S.@en
 60420	http://dbpedia.org/resource/Jabalpur
 60420	http://dbpedia.org/resource/India
@@ -51551,9 +52356,16 @@
 60634	Akureyri, Iceland@en
 60711	Swindon, England, UK@en
 60733	http://dbpedia.org/resource/Washington,_D.C.
+60752	http://dbpedia.org/resource/Boulogne-Billancourt
+60752	http://dbpedia.org/resource/France
 60896	http://dbpedia.org/resource/Germany
 60896	http://dbpedia.org/resource/Berlin
+60935	http://dbpedia.org/resource/Tourville-sur-Arques
 61045	http://dbpedia.org/resource/Richmond,_California
+61274	http://dbpedia.org/resource/Belgium
+61274	http://dbpedia.org/resource/Brussels
+61471	http://dbpedia.org/resource/Stockholm
+61471	http://dbpedia.org/resource/Sweden
 61796	http://dbpedia.org/resource/Adelaide
 61854	Tokyo, Japan@en
 61945	http://dbpedia.org/resource/Biloxi,_Mississippi
@@ -51568,6 +52380,9 @@
 62487	http://dbpedia.org/resource/Regina,_Saskatchewan
 62881	http://dbpedia.org/resource/San_Francisco
 62881	http://dbpedia.org/resource/United_States
+63633	http://dbpedia.org/resource/California
+63633	http://dbpedia.org/resource/Riverside,_California
+63633	http://dbpedia.org/resource/United_States
 63700	http://dbpedia.org/resource/France
 63700	http://dbpedia.org/resource/Suresnes
 63726	http://dbpedia.org/resource/Totnes
@@ -51576,11 +52391,17 @@
 64055	http://dbpedia.org/resource/Ohio
 64055	http://dbpedia.org/resource/United_States
 64055	http://dbpedia.org/resource/Cleveland
+64124	http://dbpedia.org/resource/West_Germany
+64124	http://dbpedia.org/resource/Hamburg
 64406	http://dbpedia.org/resource/Nashville,_Tennessee
 64406	http://dbpedia.org/resource/United_States
 64607	http://dbpedia.org/resource/Delta_State
 64827	http://dbpedia.org/resource/Palo_Alto,_California
+65200	http://dbpedia.org/resource/Bad_Kissingen
+65200	http://dbpedia.org/resource/Kingdom_of_Bavaria
 65232	http://dbpedia.org/resource/Seoul
+65500	http://dbpedia.org/resource/Casablanca
+65500	http://dbpedia.org/resource/Morocco
 65634	http://dbpedia.org/resource/Canada
 65634	http://dbpedia.org/resource/Quebec
 65634	http://dbpedia.org/resource/Sainte-Ursule,_Quebec
@@ -51588,8 +52409,16 @@
 66076	http://dbpedia.org/resource/South_Yorkshire
 66076	http://dbpedia.org/resource/England
 66265	Manhattan, New York, United States@en
+66969	http://dbpedia.org/resource/Brazil
+66969	http://dbpedia.org/resource/Bahia
+66969	http://dbpedia.org/resource/Itabuna
+67424	http://dbpedia.org/resource/Cape_Town
+67424	http://dbpedia.org/resource/South_Africa
+68454	http://dbpedia.org/resource/Warsaw
 69516	http://dbpedia.org/resource/Belfast
 69516	http://dbpedia.org/resource/Northern_Ireland
+70177	http://dbpedia.org/resource/Helsing%C3%B8r
+70177	http://dbpedia.org/resource/Denmark
 71877	http://dbpedia.org/resource/Finland
 71877	http://dbpedia.org/resource/Kuopio
 72231	Los Angeles, California, U.S.@en
@@ -52185,6 +53014,8 @@
 80203	http://dbpedia.org/resource/United_States
 80204	http://dbpedia.org/resource/Netherlands
 80204	http://dbpedia.org/resource/Oss
+80205	http://dbpedia.org/resource/Spain
+80205	http://dbpedia.org/resource/M%C3%A1laga
 80206	http://dbpedia.org/resource/Tokyo
 80208	http://dbpedia.org/resource/Paide
 80208	http://dbpedia.org/resource/J%C3%A4rva_County
@@ -54964,6 +55795,7 @@
 81851	http://dbpedia.org/resource/Portland,_Oregon
 81851	http://dbpedia.org/resource/Oregon
 81851	http://dbpedia.org/resource/United_States
+81852	http://dbpedia.org/resource/Denmark
 81853	http://dbpedia.org/resource/Gothenburg
 81854	http://dbpedia.org/resource/Brittany
 81854	http://dbpedia.org/resource/Rennes
@@ -55976,6 +56808,7 @@
 82465	http://dbpedia.org/resource/United_Kingdom
 82465	http://dbpedia.org/resource/London
 82466	http://dbpedia.org/resource/Japan
+82467	http://dbpedia.org/resource/North_Wales
 82468	http://dbpedia.org/resource/New_York_City
 82468	http://dbpedia.org/resource/United_States
 82469	http://dbpedia.org/resource/Buenos_Aires
@@ -56082,6 +56915,8 @@
 82524	http://dbpedia.org/resource/United_States
 82524	http://dbpedia.org/resource/Boston
 82524	http://dbpedia.org/resource/Massachusetts
+82525	http://dbpedia.org/resource/Los_Angeles
+82525	http://dbpedia.org/resource/United_States
 82526	http://dbpedia.org/resource/South_Korea
 82526	http://dbpedia.org/resource/Seoul
 82527	http://dbpedia.org/resource/South_Korea
@@ -58090,6 +58925,7 @@
 83688	http://dbpedia.org/resource/Taiwan
 83689	Montréal, Quebec, Canada@en
 83690	http://dbpedia.org/resource/England
+83691	http://dbpedia.org/resource/Santa_Monica,_California
 83692	http://dbpedia.org/resource/Tannourine
 83692	http://dbpedia.org/resource/Lebanon
 83694	http://dbpedia.org/resource/Poland
@@ -58114,6 +58950,8 @@
 83706	http://dbpedia.org/resource/Vigo
 83706	http://dbpedia.org/resource/Galicia_(Spain)
 83709	Abidjan,@en
+83710	http://dbpedia.org/resource/Kyoto
+83710	http://dbpedia.org/resource/Japan
 83711	http://dbpedia.org/resource/Saitama_Prefecture
 83711	http://dbpedia.org/resource/Japan
 83713	http://dbpedia.org/resource/Tokyo
@@ -58127,6 +58965,8 @@
 83719	http://dbpedia.org/resource/Guadalajara
 83720	http://dbpedia.org/resource/Artemisa
 83720	http://dbpedia.org/resource/Cuba
+83721	http://dbpedia.org/resource/Norfolk
+83721	http://dbpedia.org/resource/Virginia
 83724	San Francisco, California, U.S.@en
 83725	Norway@en
 83726	http://dbpedia.org/resource/Iran
@@ -58145,6 +58985,8 @@
 83732	http://dbpedia.org/resource/United_States
 83732	http://dbpedia.org/resource/Michigan
 83733	Toronto, Ontario, Canada@en
+83734	http://dbpedia.org/resource/Texas
+83734	http://dbpedia.org/resource/El_Paso,_Texas
 83735	http://dbpedia.org/resource/Mogilev
 83735	http://dbpedia.org/resource/Belarus
 83736	Beirut, Lebanon@en
@@ -58153,11 +58995,19 @@
 83738	http://dbpedia.org/resource/Kokubunji,_Tokyo
 83738	http://dbpedia.org/resource/Japan
 83739	http://dbpedia.org/resource/Egypt
+83740	http://dbpedia.org/resource/Norway
+83740	http://dbpedia.org/resource/Nes,_Akershus
 83741	Nagoya, Japan@en
 83742	http://dbpedia.org/resource/Massachusetts
 83742	http://dbpedia.org/resource/United_States
+83743	http://dbpedia.org/resource/India
+83743	http://dbpedia.org/resource/Amritsar
+83743	http://dbpedia.org/resource/Punjab,_India
 83744	http://dbpedia.org/resource/South_Korea
 83744	http://dbpedia.org/resource/Seoul
+83745	http://dbpedia.org/resource/Copenhagen
+83745	http://dbpedia.org/resource/Denmark
+83745	http://dbpedia.org/resource/%C3%98sterbro
 83746	http://dbpedia.org/resource/Florida
 83746	http://dbpedia.org/resource/Georgia_(U.S._state)
 83746	http://dbpedia.org/resource/Atlanta
@@ -58215,6 +59065,8 @@
 83781	http://dbpedia.org/resource/Santa_Fe,_Argentina
 83782	http://dbpedia.org/resource/Armenia
 83782	http://dbpedia.org/resource/Yerevan
+83783	http://dbpedia.org/resource/Kittil%C3%A4
+83783	http://dbpedia.org/resource/Lapland_(Finland)
 83784	Israel@en
 83786	http://dbpedia.org/resource/New_York_City
 83786	http://dbpedia.org/resource/New_York
@@ -58268,11 +59120,15 @@
 83818	Denver, Colorado, United States@en
 83820	Gilnahirk, Belfast, Northern Ireland@en
 83821	France@en
+83822	http://dbpedia.org/resource/Fort_Worth,_Texas
+83823	http://dbpedia.org/resource/Kolkata
+83823	http://dbpedia.org/resource/Presidencies_and_provinces_of_British_India
 83824	http://dbpedia.org/resource/Waldorf,_Maryland
 83824	http://dbpedia.org/resource/United_States
 83825	Italian@en
 83827	http://dbpedia.org/resource/Augsburg
 83827	http://dbpedia.org/resource/Germany
+83828	http://dbpedia.org/resource/Kulanada
 83829	http://dbpedia.org/resource/Norway
 83831	http://dbpedia.org/resource/Minsk
 83832	http://dbpedia.org/resource/Houston
@@ -58376,6 +59232,9 @@
 83893	http://dbpedia.org/resource/United_States
 83895	http://dbpedia.org/resource/Australia
 83895	http://dbpedia.org/resource/Gold_Coast,_Queensland
+83896	http://dbpedia.org/resource/Itabira
+83896	http://dbpedia.org/resource/Brazil
+83896	http://dbpedia.org/resource/Minas_Gerais
 83897	http://dbpedia.org/resource/Huamantla
 83897	http://dbpedia.org/resource/Mexico
 83898	http://dbpedia.org/resource/Los_Angeles
@@ -58403,12 +59262,16 @@
 83915	http://dbpedia.org/resource/England
 83915	http://dbpedia.org/resource/Essex
 83916	http://dbpedia.org/resource/Charlemagne,_Quebec
+83917	http://dbpedia.org/resource/Fergus_Falls,_Minnesota
 83919	http://dbpedia.org/resource/California
 83919	http://dbpedia.org/resource/Los_Angeles
 83919	http://dbpedia.org/resource/United_States
 83920	Nashville, Tennessee, U.S.@en
 83921	http://dbpedia.org/resource/California
 83921	http://dbpedia.org/resource/San_Francisco
+83922	http://dbpedia.org/resource/Tunica,_Mississippi
+83922	http://dbpedia.org/resource/Mississippi
+83922	http://dbpedia.org/resource/United_States
 83923	http://dbpedia.org/resource/Peru
 83923	http://dbpedia.org/resource/Lima
 83925	http://dbpedia.org/resource/Malaysia
@@ -58433,6 +59296,7 @@
 83934	http://dbpedia.org/resource/London
 83934	http://dbpedia.org/resource/Tottenham
 83935	Kellyville Ridge, New South Wales, Australia@en
+83937	http://dbpedia.org/resource/England
 83938	http://dbpedia.org/resource/Boone,_North_Carolina
 83939	http://dbpedia.org/resource/United_States
 83939	http://dbpedia.org/resource/Stanford,_California
@@ -58460,11 +59324,18 @@
 83960	http://dbpedia.org/resource/Shreveport,_Louisiana
 83961	http://dbpedia.org/resource/Antigonish,_Nova_Scotia
 83961	http://dbpedia.org/resource/Canada
+83963	http://dbpedia.org/resource/Hartford,_Connecticut
+83963	http://dbpedia.org/resource/Connecticut
+83963	http://dbpedia.org/resource/England
 83965	http://dbpedia.org/resource/Florida
 83965	http://dbpedia.org/resource/United_States
 83965	http://dbpedia.org/resource/Orlando,_Florida
 83966	http://dbpedia.org/resource/Nicosia
 83966	http://dbpedia.org/resource/Cyprus
+83967	http://dbpedia.org/resource/United_Kingdom
+83967	http://dbpedia.org/resource/Scotland
+83967	http://dbpedia.org/resource/Glasgow
+83967	http://dbpedia.org/resource/Springburn
 83968	http://dbpedia.org/resource/Glendale,_Arizona
 83969	Bologna, Emilia-Romagna, Italy@en
 83970	http://dbpedia.org/resource/Santa_Barbara,_California
@@ -58488,12 +59359,15 @@
 83984	http://dbpedia.org/resource/Vancouver
 83984	http://dbpedia.org/resource/British_Columbia
 83984	http://dbpedia.org/resource/Canada
+83986	http://dbpedia.org/resource/Peoria,_Illinois
 83987	http://dbpedia.org/resource/England
 83987	http://dbpedia.org/resource/London
 83987	http://dbpedia.org/resource/Mount_Vernon,_Missouri
 83988	http://dbpedia.org/resource/New_York
 83988	http://dbpedia.org/resource/Manhattan
 83989	Atlanta, Georgia, U.S.@en
+83991	http://dbpedia.org/resource/Scotland
+83991	http://dbpedia.org/resource/Moffat
 83992	http://dbpedia.org/resource/Royston,_Hertfordshire
 83992	http://dbpedia.org/resource/England
 83993	http://dbpedia.org/resource/Tipton,_Indiana
@@ -58507,11 +59381,19 @@
 83998	http://dbpedia.org/resource/Austin,_Texas
 83998	http://dbpedia.org/resource/United_States
 83998	http://dbpedia.org/resource/Texas
+83999	http://dbpedia.org/resource/South_Vietnam
+83999	http://dbpedia.org/resource/Ho_Chi_Minh_City
 84002	Sunderland, England@en
+84003	http://dbpedia.org/resource/London
+84003	http://dbpedia.org/resource/Ontario
+84003	http://dbpedia.org/resource/Canada
 84004	http://dbpedia.org/resource/Mexico
 84004	http://dbpedia.org/resource/Monterrey
 84005	http://dbpedia.org/resource/B%C3%A2rlad
 84005	http://dbpedia.org/resource/Romania
+84007	http://dbpedia.org/resource/United_Kingdom
+84007	http://dbpedia.org/resource/England
+84007	http://dbpedia.org/resource/London
 84008	http://dbpedia.org/resource/Reading,_Pennsylvania
 84010	http://dbpedia.org/resource/United_States
 84010	http://dbpedia.org/resource/Tulsa,_Oklahoma
@@ -58555,6 +59437,8 @@
 84032	http://dbpedia.org/resource/United_States
 84032	http://dbpedia.org/resource/Watts,_Los_Angeles
 84032	http://dbpedia.org/resource/California
+84033	http://dbpedia.org/resource/Huddinge_Municipality
+84033	http://dbpedia.org/resource/Sweden
 84034	http://dbpedia.org/resource/Norway
 84034	http://dbpedia.org/resource/Porsgrunn
 84035	http://dbpedia.org/resource/Mie_Prefecture
@@ -58616,6 +59500,8 @@
 84064	http://dbpedia.org/resource/United_Kingdom
 84064	http://dbpedia.org/resource/Edinburgh
 84065	http://dbpedia.org/resource/Poland
+84066	http://dbpedia.org/resource/Reggio_Calabria
+84066	http://dbpedia.org/resource/Italy
 84067	http://dbpedia.org/resource/Sofia
 84068	http://dbpedia.org/resource/United_States
 84068	http://dbpedia.org/resource/Louisiana
@@ -58629,6 +59515,9 @@
 84072	http://dbpedia.org/resource/Sylacauga,_Alabama
 84072	http://dbpedia.org/resource/United_States
 84072	http://dbpedia.org/resource/Alabama
+84073	http://dbpedia.org/resource/Alberta
+84073	http://dbpedia.org/resource/Edmonton
+84073	http://dbpedia.org/resource/Canada
 84074	http://dbpedia.org/resource/Vallejo,_California
 84075	http://dbpedia.org/resource/Obio-Akpor
 84075	http://dbpedia.org/resource/Rivers_State
@@ -58639,6 +59528,8 @@
 84079	http://dbpedia.org/resource/Sweden
 84079	http://dbpedia.org/resource/Stockholm
 84080	http://dbpedia.org/resource/United_Kingdom
+84081	http://dbpedia.org/resource/Washington,_D.C.
+84081	http://dbpedia.org/resource/United_States
 84082	http://dbpedia.org/resource/Compton,_California
 84083	http://dbpedia.org/resource/United_States
 84083	http://dbpedia.org/resource/California
@@ -58716,6 +59607,7 @@
 84128	Cyprus@en
 84130	Français@en
 84131	http://dbpedia.org/resource/Lebanon
+84132	http://dbpedia.org/resource/Birmingham
 84133	http://dbpedia.org/resource/Azerbaijan
 84134	http://dbpedia.org/resource/South_Korea
 84135	Los Angeles, California,@en
@@ -58728,17 +59620,25 @@
 84139	http://dbpedia.org/resource/United_Kingdom
 84139	http://dbpedia.org/resource/London
 84140	New York City, USA@en
+84141	http://dbpedia.org/resource/Toronto
+84141	http://dbpedia.org/resource/Ontario
 84142	http://dbpedia.org/resource/Albufeira
 84142	http://dbpedia.org/resource/Portugal
 84145	São Paulo,@en
 84146	http://dbpedia.org/resource/Brisbane
 84146	http://dbpedia.org/resource/Queensland
 84146	http://dbpedia.org/resource/Australia
+84147	http://dbpedia.org/resource/Maryland
+84147	http://dbpedia.org/resource/Baltimore
 84148	http://dbpedia.org/resource/Chicago
 84148	http://dbpedia.org/resource/Illinois
 84148	http://dbpedia.org/resource/United_States
 84149	http://dbpedia.org/resource/Boa_Esperan%C3%A7a,_Minas_Gerais
 84149	http://dbpedia.org/resource/Brazil
+84150	http://dbpedia.org/resource/Moscow
+84150	http://dbpedia.org/resource/Russian_Empire
+84151	http://dbpedia.org/resource/Moscow
+84151	http://dbpedia.org/resource/Russian_Empire
 84152	http://dbpedia.org/resource/Hong_Kong
 84153	http://dbpedia.org/resource/Kosovo
 84154	http://dbpedia.org/resource/Zagreb
@@ -58773,6 +59673,8 @@
 84171	http://dbpedia.org/resource/Frankfurt
 84172	http://dbpedia.org/resource/United_States
 84172	http://dbpedia.org/resource/Detroit
+84173	http://dbpedia.org/resource/San_Diego
+84174	http://dbpedia.org/resource/San_Francisco
 84176	http://dbpedia.org/resource/Austria
 84176	http://dbpedia.org/resource/Freistadt
 84177	Carol City, Florida, United States@en
@@ -58808,6 +59710,8 @@
 84192	http://dbpedia.org/resource/Redditch
 84193	http://dbpedia.org/resource/Los_Angeles
 84194	Okinawa, Japan@en
+84195	http://dbpedia.org/resource/Kyoto
+84195	http://dbpedia.org/resource/Japan
 84197	Osaka, Japan@en
 84199	http://dbpedia.org/resource/Coventry
 84200	http://dbpedia.org/resource/Detroit
@@ -58822,6 +59726,8 @@
 84204	http://dbpedia.org/resource/Toronto
 84205	http://dbpedia.org/resource/Hamburg
 84205	http://dbpedia.org/resource/Germany
+84206	http://dbpedia.org/resource/D%C3%BCsseldorf
+84206	http://dbpedia.org/resource/Holy_Roman_Empire
 84207	Achrafieh, Lebanon@en
 84208	http://dbpedia.org/resource/Japan
 84208	http://dbpedia.org/resource/Tokyo
@@ -58897,6 +59803,7 @@
 84255	http://dbpedia.org/resource/Z%C3%BCrich
 84256	http://dbpedia.org/resource/United_States
 84256	http://dbpedia.org/resource/Long_Beach,_California
+84257	http://dbpedia.org/resource/Inglewood,_California
 84258	http://dbpedia.org/resource/France
 84259	http://dbpedia.org/resource/Birmingham
 84259	http://dbpedia.org/resource/United_Kingdom
@@ -58909,15 +59816,22 @@
 84263	http://dbpedia.org/resource/Gongju
 84264	http://dbpedia.org/resource/London
 84264	http://dbpedia.org/resource/Stepney
+84265	http://dbpedia.org/resource/Chiapas
+84265	http://dbpedia.org/resource/Tuxtla_Guti%C3%A9rrez
 84266	http://dbpedia.org/resource/Rancho_Cucamonga,_California
 84267	http://dbpedia.org/resource/Denmark
 84268	http://dbpedia.org/resource/Kyrgyzstan
 84268	http://dbpedia.org/resource/Osh
+84270	http://dbpedia.org/resource/Los_Angeles_County,_California
+84270	http://dbpedia.org/resource/United_States
 84271	http://dbpedia.org/resource/United_States
 84271	http://dbpedia.org/resource/New_York
 84272	Inglewood, California, U.S.@en
 84273	http://dbpedia.org/resource/Strasburg,_Pennsylvania
 84275	http://dbpedia.org/resource/Norway
+84276	http://dbpedia.org/resource/Scotland
+84276	http://dbpedia.org/resource/Glasgow
+84276	http://dbpedia.org/resource/Shettleston
 84277	Mohammédia,@en
 84279	http://dbpedia.org/resource/Norway
 84280	Portland, Oregon, United States@en
@@ -58972,9 +59886,20 @@
 84319	http://dbpedia.org/resource/United_States
 84319	http://dbpedia.org/resource/Bedford%E2%80%93Stuyvesant,_Brooklyn
 84321	Saint-Denis, Seine-Saint-Denis, France@en
+84322	http://dbpedia.org/resource/Stockholm
+84322	http://dbpedia.org/resource/Sweden
+84323	http://dbpedia.org/resource/Garden_City,_Michigan
+84323	http://dbpedia.org/resource/United_States
+84324	http://dbpedia.org/resource/Dublin
+84324	http://dbpedia.org/resource/Ireland
 84325	http://dbpedia.org/resource/England
 84325	http://dbpedia.org/resource/Newcastle_upon_Tyne
+84327	http://dbpedia.org/resource/North_Carolina
+84327	http://dbpedia.org/resource/Smithfield,_North_Carolina
 84329	Kingston, Jamaica@en
+84330	http://dbpedia.org/resource/United_Kingdom
+84330	http://dbpedia.org/resource/England
+84330	http://dbpedia.org/resource/London
 84331	Pasadena, California, United States@en
 84332	http://dbpedia.org/resource/Toronto
 84333	http://dbpedia.org/resource/Dixon,_California
@@ -58994,12 +59919,20 @@
 84346	http://dbpedia.org/resource/Tokyo
 84346	http://dbpedia.org/resource/Japan
 84346	http://dbpedia.org/resource/South_Korea
+84347	http://dbpedia.org/resource/Yenangyaung
+84347	http://dbpedia.org/resource/Burma
+84347	http://dbpedia.org/resource/Magway_Region
+84348	http://dbpedia.org/resource/Yenangyaung
+84348	http://dbpedia.org/resource/Burma
+84348	http://dbpedia.org/resource/Magway_Region
 84349	http://dbpedia.org/resource/Mexicali
 84349	http://dbpedia.org/resource/Mexico
 84350	http://dbpedia.org/resource/Beirut
 84350	http://dbpedia.org/resource/Lebanon
 84351	http://dbpedia.org/resource/Soviet_Union
 84351	http://dbpedia.org/resource/Moscow
+84352	http://dbpedia.org/resource/Santiago
+84352	http://dbpedia.org/resource/Chile
 84354	http://dbpedia.org/resource/T%C5%8Dhoku_region
 84354	http://dbpedia.org/resource/Japan
 84354	http://dbpedia.org/resource/Miyagi_Prefecture
@@ -59149,6 +60082,8 @@
 84447	http://dbpedia.org/resource/Enskede
 84447	http://dbpedia.org/resource/Sweden
 84448	http://dbpedia.org/resource/Oakland,_California
+84449	http://dbpedia.org/resource/Brooklyn
+84449	http://dbpedia.org/resource/United_States
 84450	http://dbpedia.org/resource/Philadelphia
 84453	http://dbpedia.org/resource/Northern_Ireland
 84453	http://dbpedia.org/resource/Newtownabbey
@@ -59245,6 +60180,8 @@
 84509	http://dbpedia.org/resource/Iran
 84509	http://dbpedia.org/resource/Tehran
 84510	Hokkaidō, Japan@en
+84511	http://dbpedia.org/resource/Japan
+84511	http://dbpedia.org/resource/Tokyo
 84512	Izumo, Japan@en
 84513	Ithaca, New York, USA@en
 84514	Tokyo, Japan@en
@@ -59254,6 +60191,7 @@
 84516	http://dbpedia.org/resource/Sapporo
 84517	http://dbpedia.org/resource/Japan
 84517	http://dbpedia.org/resource/Hiroshima
+84518	http://dbpedia.org/resource/Australia
 84519	http://dbpedia.org/resource/Japan
 84519	http://dbpedia.org/resource/Fukuoka_Prefecture
 84520	http://dbpedia.org/resource/India
@@ -59266,6 +60204,12 @@
 84523	http://dbpedia.org/resource/Lebanon
 84523	http://dbpedia.org/resource/Mount_Lebanon_Governorate
 84524	http://dbpedia.org/resource/Helsingborg,Sweden
+84525	http://dbpedia.org/resource/Philadelphia
+84525	http://dbpedia.org/resource/Pennsylvania
+84526	http://dbpedia.org/resource/Norway
+84526	http://dbpedia.org/resource/%C3%98stre_Toten
+84526	http://dbpedia.org/resource/Lena,_Norway
+84526	http://dbpedia.org/resource/Valdres
 84527	http://dbpedia.org/resource/Japan
 84527	http://dbpedia.org/resource/Tsuchiura
 84528	http://dbpedia.org/resource/Athens
@@ -59277,17 +60221,27 @@
 84531	http://dbpedia.org/resource/British_Columbia
 84531	http://dbpedia.org/resource/Vancouver
 84531	http://dbpedia.org/resource/Canada
+84532	http://dbpedia.org/resource/Limerick
+84532	http://dbpedia.org/resource/Republic_of_Ireland
 84533	http://dbpedia.org/resource/Peru
 84535	http://dbpedia.org/resource/Spartanburg,_South_Carolina
 84536	http://dbpedia.org/resource/Kungshamn
 84536	http://dbpedia.org/resource/Sweden
 84537	http://dbpedia.org/resource/Greece
+84538	http://dbpedia.org/resource/Paso_de_los_Toros
 84539	http://dbpedia.org/resource/Colombia
 84540	http://dbpedia.org/resource/Ukraine
 84540	http://dbpedia.org/resource/Chernivtsi
 84541	Aiea, Oahu@en
+84542	http://dbpedia.org/resource/Daugavpils
+84542	http://dbpedia.org/resource/Russian_Empire
+84542	http://dbpedia.org/resource/Vitebsk_Governorate
 84543	http://dbpedia.org/resource/Helsinki
 84543	http://dbpedia.org/resource/Finland
+84544	http://dbpedia.org/resource/Germany
+84544	http://dbpedia.org/resource/Homburg,_Saarland
+84545	http://dbpedia.org/resource/Sydney
+84545	http://dbpedia.org/resource/Australia
 84546	http://dbpedia.org/resource/Washington,_D.C.
 84546	http://dbpedia.org/resource/United_States
 84546	http://dbpedia.org/resource/Kenilworth
@@ -59317,6 +60271,7 @@
 84563	http://dbpedia.org/resource/Birmingham
 84565	http://dbpedia.org/resource/Toledo,_Ohio
 84566	http://dbpedia.org/resource/Gainesville,_Georgia
+84568	http://dbpedia.org/resource/Marlboro_Township,_New_Jersey
 84569	http://dbpedia.org/resource/San_Francisco
 84569	http://dbpedia.org/resource/United_States
 84570	http://dbpedia.org/resource/Netherlands
@@ -59324,8 +60279,12 @@
 84571	http://dbpedia.org/resource/Kherson
 84572	http://dbpedia.org/resource/United_States
 84572	http://dbpedia.org/resource/New_York_City
+84573	http://dbpedia.org/resource/Paris
+84573	http://dbpedia.org/resource/France
 84574	http://dbpedia.org/resource/Krak%C3%B3w
 84574	http://dbpedia.org/resource/Poland
+84575	http://dbpedia.org/resource/Z%C3%BCrich
+84575	http://dbpedia.org/resource/Switzerland
 84576	http://dbpedia.org/resource/London
 84577	http://dbpedia.org/resource/Scania
 84577	http://dbpedia.org/resource/Sweden
@@ -59430,6 +60389,8 @@
 84640	http://dbpedia.org/resource/Holon
 84641	Genova, Italy@en
 84642	http://dbpedia.org/resource/Tatsuno,_Hy%C5%8Dgo
+84644	http://dbpedia.org/resource/Queens
+84644	http://dbpedia.org/resource/New_York_City
 84645	http://dbpedia.org/resource/Brazil
 84645	http://dbpedia.org/resource/Rio_de_Janeiro
 84646	http://dbpedia.org/resource/Akita_Prefecture
@@ -59445,10 +60406,13 @@
 84652	http://dbpedia.org/resource/Msida
 84652	http://dbpedia.org/resource/Malta
 84654	http://dbpedia.org/resource/Los_Angeles
+84655	http://dbpedia.org/resource/Livingston,_New_Jersey
 84656	http://dbpedia.org/resource/Lebanon
 84657	http://dbpedia.org/resource/Georgia_(U.S._state)
 84657	http://dbpedia.org/resource/Atlanta
 84657	http://dbpedia.org/resource/United_States
+84658	http://dbpedia.org/resource/Morocco
+84658	http://dbpedia.org/resource/Nador
 84659	http://dbpedia.org/resource/Vienna
 84659	http://dbpedia.org/resource/Austria
 84660	http://dbpedia.org/resource/Okinawa_Prefecture
@@ -59456,10 +60420,13 @@
 84661	http://dbpedia.org/resource/Niihama,_Ehime
 84662	http://dbpedia.org/resource/Lebanon
 84662	http://dbpedia.org/resource/Beirut
+84663	http://dbpedia.org/resource/Hong_Kong
 84665	http://dbpedia.org/resource/Saitama_Prefecture
 84665	http://dbpedia.org/resource/Japan
 84665	http://dbpedia.org/resource/Saitama,_Saitama
 84666	http://dbpedia.org/resource/K%C5%8Dchi,_K%C5%8Dchi
+84668	http://dbpedia.org/resource/Japan
+84668	http://dbpedia.org/resource/Tokyo
 84669	http://dbpedia.org/resource/Iraq
 84670	Texas@en
 84671	http://dbpedia.org/resource/London
@@ -59468,9 +60435,12 @@
 84673	http://dbpedia.org/resource/Bathurst,_New_Brunswick
 84673	http://dbpedia.org/resource/New_Brunswick
 84674	Las Vegas, Nevada, U.S.@en
+84675	http://dbpedia.org/resource/United_States
 84677	Sarajevo,@en
 84678	http://dbpedia.org/resource/Netherlands
 84678	http://dbpedia.org/resource/Amsterdam
+84679	http://dbpedia.org/resource/New_York
+84679	http://dbpedia.org/resource/New_York_City
 84681	http://dbpedia.org/resource/Lagos
 84681	http://dbpedia.org/resource/Nigeria
 84682	Mumbai, India@en
@@ -59547,6 +60517,8 @@
 84727	http://dbpedia.org/resource/Toronto
 84729	http://dbpedia.org/resource/Norway
 84730	, Montevideo@en
+84731	http://dbpedia.org/resource/Pasco,_Washington
+84731	http://dbpedia.org/resource/Washington_(state)
 84732	http://dbpedia.org/resource/Haryana
 84732	http://dbpedia.org/resource/India
 84732	http://dbpedia.org/resource/Hisar_(city)
@@ -59565,7 +60537,15 @@
 84738	http://dbpedia.org/resource/Nishapur
 84739	http://dbpedia.org/resource/Johnstown,_Pennsylvania
 84739	http://dbpedia.org/resource/United_States
+84740	http://dbpedia.org/resource/Salem,_Oregon
+84742	http://dbpedia.org/resource/Netherlands
+84742	http://dbpedia.org/resource/Bussum
+84743	http://dbpedia.org/resource/Cardiff
+84743	http://dbpedia.org/resource/Wales
+84744	http://dbpedia.org/resource/Ramsgate,_England
 84745	http://dbpedia.org/resource/United_States
+84746	http://dbpedia.org/resource/Hollywood
+84746	http://dbpedia.org/resource/United_States
 84747	McAllen, Texas, United States@en
 84748	Harrogate  UK@en
 84749	http://dbpedia.org/resource/R%C3%B8ros
@@ -59583,6 +60563,8 @@
 84756	http://dbpedia.org/resource/Northern_Ireland
 84756	UK@en
 84757	Zakynthos, Greece@en
+84758	http://dbpedia.org/resource/Belgium
+84758	http://dbpedia.org/resource/Brussels
 84759	http://dbpedia.org/resource/Ocean_City,_Maryland
 84759	http://dbpedia.org/resource/United_States
 84760	Hinckley, Leicestershire, England@en
@@ -59592,6 +60574,9 @@
 84764	New Brunswick, New Jersey, United States@en
 84765	http://dbpedia.org/resource/United_States
 84765	http://dbpedia.org/resource/New_Orleans
+84766	http://dbpedia.org/resource/Burma
+84766	http://dbpedia.org/resource/Pathein
+84766	http://dbpedia.org/resource/Ayeyarwady_Region
 84767	http://dbpedia.org/resource/Germany
 84768	Thessaloniki, Greece@en
 84769	http://dbpedia.org/resource/Poland
@@ -59665,6 +60650,8 @@
 84814	http://dbpedia.org/resource/Los_Angeles
 84816	http://dbpedia.org/resource/United_States
 84816	http://dbpedia.org/resource/Teaneck,_New_Jersey
+84817	http://dbpedia.org/resource/California
+84817	http://dbpedia.org/resource/Los_Angeles
 84818	http://dbpedia.org/resource/Bangalore
 84818	http://dbpedia.org/resource/North_Carolina
 84818	http://dbpedia.org/resource/United_States
@@ -59673,6 +60660,9 @@
 84819	http://dbpedia.org/resource/New_York
 84820	http://dbpedia.org/resource/Alpharetta,_Georgia
 84824	http://dbpedia.org/resource/Oakland,_California
+84826	http://dbpedia.org/resource/Chile
+84826	http://dbpedia.org/resource/Talcahuano
+84826	http://dbpedia.org/resource/Biob%C3%ADo
 84828	http://dbpedia.org/resource/Paris
 84828	http://dbpedia.org/resource/France
 84830	http://dbpedia.org/resource/New_Hampshire
@@ -59685,6 +60675,7 @@
 84835	http://dbpedia.org/resource/Islington
 84835	http://dbpedia.org/resource/London
 84835	http://dbpedia.org/resource/England
+84836	http://dbpedia.org/resource/South_Carolina
 84837	http://dbpedia.org/resource/Spain
 84837	http://dbpedia.org/resource/Madrid
 84839	http://dbpedia.org/resource/Homs
@@ -59712,6 +60703,8 @@
 84854	http://dbpedia.org/resource/Japan
 84854	http://dbpedia.org/resource/Kakogawa,_Hy%C5%8Dgo
 84855	http://dbpedia.org/resource/Yamanashi_Prefecture
+84856	http://dbpedia.org/resource/Lebanon
+84856	http://dbpedia.org/resource/Zahl%C3%A9
 84858	http://dbpedia.org/resource/Canberra
 84859	http://dbpedia.org/resource/Canada
 84860	http://dbpedia.org/resource/Morocco
@@ -59722,7 +60715,11 @@
 84864	http://dbpedia.org/resource/S%C3%A3o_Paulo
 84864	http://dbpedia.org/resource/Brazil
 84865	http://dbpedia.org/resource/Sri_Lanka
+84866	http://dbpedia.org/resource/%C5%81%C3%B3d%C5%BA
+84866	http://dbpedia.org/resource/Poland
 84867	http://dbpedia.org/resource/New_York
+84868	http://dbpedia.org/resource/New_York_City
+84868	http://dbpedia.org/resource/United_States
 84870	http://dbpedia.org/resource/California
 84871	http://dbpedia.org/resource/Ghana
 84872	http://dbpedia.org/resource/Hungary
@@ -59749,9 +60746,12 @@
 84886	http://dbpedia.org/resource/Japan
 84887	http://dbpedia.org/resource/Finland
 84887	http://dbpedia.org/resource/Espoo
+84888	http://dbpedia.org/resource/United_States
 84889	http://dbpedia.org/resource/Moscow
 84889	http://dbpedia.org/resource/Russia
 84890	http://dbpedia.org/resource/Gomel
+84891	http://dbpedia.org/resource/Ontario
+84891	http://dbpedia.org/resource/Clinton,_Ontario
 84892	Atlanta, Georgia, US@en
 84893	Şanlıurfa,@en
 84895	http://dbpedia.org/resource/East_Oakland,_Oakland,_California
@@ -59791,6 +60791,9 @@
 84919	Victoria, Australia@en
 84920	http://dbpedia.org/resource/Norway
 84920	http://dbpedia.org/resource/Oslo
+84921	http://dbpedia.org/resource/California
+84921	http://dbpedia.org/resource/Los_Angeles
+84921	http://dbpedia.org/resource/United_States
 84922	http://dbpedia.org/resource/Holstebro
 84922	http://dbpedia.org/resource/Denmark
 84924	http://dbpedia.org/resource/California
@@ -59815,6 +60818,8 @@
 84935	http://dbpedia.org/resource/Florida
 84935	http://dbpedia.org/resource/Little_Haiti
 84935	http://dbpedia.org/resource/Miami
+84937	http://dbpedia.org/resource/Hovsta
+84937	http://dbpedia.org/resource/Sweden
 84938	http://dbpedia.org/resource/Tokyo
 84938	http://dbpedia.org/resource/Japan
 84939	http://dbpedia.org/resource/France
@@ -59843,6 +60848,8 @@
 84950	http://dbpedia.org/resource/New_York_City
 84950	http://dbpedia.org/resource/United_States
 84950	http://dbpedia.org/resource/New_York
+84951	http://dbpedia.org/resource/Ukraine
+84951	http://dbpedia.org/resource/Luhansk
 84952	http://dbpedia.org/resource/Norway
 84953	http://dbpedia.org/resource/Lowell,_Massachusetts
 84954	http://dbpedia.org/resource/Norway
@@ -59861,6 +60868,8 @@
 84964	http://dbpedia.org/resource/Malacca
 84964	http://dbpedia.org/resource/Malaysia
 84965	http://dbpedia.org/resource/Brooklyn
+84966	http://dbpedia.org/resource/England
+84966	http://dbpedia.org/resource/Scarborough,_North_Yorkshire
 84967	http://dbpedia.org/resource/Tokyo
 84967	http://dbpedia.org/resource/Adachi,_Tokyo
 84967	http://dbpedia.org/resource/Japan
@@ -59910,6 +60919,9 @@
 84993	http://dbpedia.org/resource/Suita,_Osaka
 84994	http://dbpedia.org/resource/Belton,_Missouri
 84995	http://dbpedia.org/resource/Vineland,_Ontario
+84996	http://dbpedia.org/resource/New_York
+84996	http://dbpedia.org/resource/New_York_City
+84996	http://dbpedia.org/resource/United_States
 84997	http://dbpedia.org/resource/Gainesville,_Florida
 84997	http://dbpedia.org/resource/United_States
 84998	http://dbpedia.org/resource/Dominican_Republic
@@ -59923,6 +60935,8 @@
 85002	http://dbpedia.org/resource/Belarus
 85003	http://dbpedia.org/resource/Essex
 85003	http://dbpedia.org/resource/Hornchurch
+85004	http://dbpedia.org/resource/Omaha,_Nebraska
+85004	http://dbpedia.org/resource/Nebraska
 85005	http://dbpedia.org/resource/Japan
 85005	http://dbpedia.org/resource/Osaka
 85006	http://dbpedia.org/resource/Johannesburg
@@ -59941,12 +60955,14 @@
 85015	Nara, Japan@en
 85017	http://dbpedia.org/resource/Coaldale,_Alberta
 85017	http://dbpedia.org/resource/Canada
+85018	http://dbpedia.org/resource/London
 85019	http://dbpedia.org/resource/Greece
 85019	http://dbpedia.org/resource/Thessaloniki
 85020	http://dbpedia.org/resource/Norway
 85021	Trondheim, Norway@en
 85022	http://dbpedia.org/resource/Austria
 85022	http://dbpedia.org/resource/Klagenfurt
+85023	http://dbpedia.org/resource/Tonawanda_(city),_New_York
 85024	http://dbpedia.org/resource/H%C3%A0_%C4%90%C3%B4ng
 85025	http://dbpedia.org/resource/Inglewood,_California
 85025	http://dbpedia.org/resource/Los_Angeles
@@ -59954,6 +60970,7 @@
 85027	http://dbpedia.org/resource/Pennsylvania
 85027	http://dbpedia.org/resource/United_States
 85027	http://dbpedia.org/resource/Philadelphia
+85028	http://dbpedia.org/resource/Liverpool,_New_York
 85029	http://dbpedia.org/resource/Wheeling,_West_Virginia
 85029	http://dbpedia.org/resource/United_States
 85030	Florida, United States@en
@@ -59983,6 +61000,10 @@
 85044	http://dbpedia.org/resource/Romania
 85045	http://dbpedia.org/resource/New_Jersey
 85045	http://dbpedia.org/resource/United_States
+85046	http://dbpedia.org/resource/Ohio
+85046	http://dbpedia.org/resource/Cincinnati
+85048	http://dbpedia.org/resource/Illinois
+85048	http://dbpedia.org/resource/Benton,_Illinois
 85049	http://dbpedia.org/resource/Japan
 85049	http://dbpedia.org/resource/Setagaya,_Tokyo
 85049	http://dbpedia.org/resource/Tokyo
@@ -60049,6 +61070,9 @@
 85092	Liège, Belgium@en
 85093	http://dbpedia.org/resource/Italy
 85093	http://dbpedia.org/resource/Correggio,_Emilia-Romagna
+85094	http://dbpedia.org/resource/Roman_Republic
+85094	http://dbpedia.org/resource/Cisalpine_Gaul
+85094	http://dbpedia.org/resource/Virgilio,_Lombardy
 85095	http://dbpedia.org/resource/Kharkiv
 85095	http://dbpedia.org/resource/Ukraine
 85096	http://dbpedia.org/resource/Soviet_Union
@@ -60061,9 +61085,12 @@
 85099	http://dbpedia.org/resource/Finland
 85099	http://dbpedia.org/resource/Helsinki
 85100	Houston, Texas, USA@en
+85101	http://dbpedia.org/resource/Kenya
 85102	http://dbpedia.org/resource/Nigeria
 85103	http://dbpedia.org/resource/South_Korea
 85103	http://dbpedia.org/resource/Seoul
+85104	http://dbpedia.org/resource/London
+85104	http://dbpedia.org/resource/Marylebone
 85105	http://dbpedia.org/resource/Reseda,_Los_Angeles
 85106	http://dbpedia.org/resource/California
 85106	http://dbpedia.org/resource/United_States
@@ -60123,6 +61150,8 @@
 85137	http://dbpedia.org/resource/Seoul
 85138	http://dbpedia.org/resource/South_Korea
 85138	http://dbpedia.org/resource/Seoul
+85139	http://dbpedia.org/resource/Netherlands
+85139	http://dbpedia.org/resource/Naarden
 85140	http://dbpedia.org/resource/Saitama_Prefecture
 85140	http://dbpedia.org/resource/Japan
 85141	http://dbpedia.org/resource/Japan
@@ -60143,6 +61172,8 @@
 85151	http://dbpedia.org/resource/Lebanon
 85152	http://dbpedia.org/resource/New_York_City
 85152	http://dbpedia.org/resource/New_York
+85156	http://dbpedia.org/resource/Zhejiang
+85156	http://dbpedia.org/resource/Quzhou
 85157	http://dbpedia.org/resource/Lebanon
 85158	http://dbpedia.org/resource/Ukraine
 85158	http://dbpedia.org/resource/Sudak
@@ -60157,6 +61188,9 @@
 89299	South Carolina and Charlotte, North Carolina@en
 89301	http://dbpedia.org/resource/New_Jersey
 89301	http://dbpedia.org/resource/United_States
+89302	http://dbpedia.org/resource/Tibet
+89302	http://dbpedia.org/resource/Amdo
+89302	http://dbpedia.org/resource/Taktser
 89304	http://dbpedia.org/resource/Australia
 89309	http://dbpedia.org/resource/Germany
 89311	Shinjuku, Tokyo, Japan@en
