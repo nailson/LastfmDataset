@@ -16,8 +16,7 @@ for(user in unique(dataset$id_user)){
   subsetting = rbind(subsetting,new_subsetting2 ) 
 
 }
-write.table(subsetting[,c(-3)], file="subject_norm.tsv", sep="\t", row.names=F, col.names=F, quote=F)
-
+write.table(subsetting[,c(-3)], file="artist_origin__norm.tsv", sep="\t", row.names=F, col.names=F, quote=F)
 
 #normalize <- function(x){(x-min(x))/(max(x)-min(x))}
 
