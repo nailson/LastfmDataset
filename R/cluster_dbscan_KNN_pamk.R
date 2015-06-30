@@ -6,10 +6,10 @@ library("mgcv")
 
 UserMatrixSimmilarity <- read.delim("~/GitHub/mestrado_UFCG/Java Workspace/DiversificationAlgorithms/data/allItem_Category.tsv")
 
-UserMatrixSimmilarity = UserMatrixSimmilarity[,c(1:8504)]
-write.table(UserMatrixSimmilarity, file="UserMatrixSimmilarity.tsv", col.names = T, row.names = F, sep="\t",)
+UserMatrixSimmilarity = UserMatrixSimmilarity_TAGS[,c(-8505)]
+write.table(UserMatrixSimmilarity, file="UserMatrixSimmilarity.tsv", col.names = T, row.names = F, sep="\t" )
 
-dissimilarity = as.matrix(1.0 - UserMatrixSimmilarity, )
+dissimilarity = as.matrix(1.0 - UserMatrixSimmilarity )
 
 #dissimilarity = 1.0-UserMatrixSimmilarity
 #rm(UserMatrixSimmilarity)
@@ -21,7 +21,7 @@ dissimilarity = as.matrix(1.0 - UserMatrixSimmilarity, )
 # k nearest neighbours to discober the eps value
 f <- function(a) {
   a_sorted = sort(a,decreasing=F)
-  a_sorted = a_sorted[c(2:10)]
+  a_sorted = a_sorted[c(2:50)]
   x = mean(a_sorted)
   return (x)
 }
@@ -43,24 +43,21 @@ write.table(clustered_users, quote=F, sep="\t", file="pamk.tsv")
 # dbscan : Generates a density based clustering of arbitrary shape
 # input : data, eps, minPoints, scale, method, seeds, showplot, countmode, ...
 
-results = dbscan(data = dissimilarity, eps=0.1345, MinPts= 100, method="dist", showplot=F, )
+results = dbscan(data = dissimilarity, eps=0.06, MinPts= 100, method="dist", showplot=F, )
 results
 
 #  Validate Cluster dbscan
+
 clusterStatsdbscan = cluster.stats(d = dissimilarity, clustering= results$cluster)
 mean(clusterStatsdbscan$clus.avg.silwidths)
 clusterStatsdbscan$clus.avg.silwidths
 
 clustered_users = data.frame(user=substring(colnames(dissimilarity),2), cluster=results$cluster)
-write.table(clustered_users, quote=F, sep="\t", file="clustered_users_dbscan.tsv")
-
-
->>>>>>> f6d169325213781bcc2efc38ba4d5724d24f8424
-boxplot(results)
+write.table(clustered_users, quote=F, sep="\t", file="clustered_users_dbscan_tag.tsv")
 
 
 # kmeans
-resultKmeans = kmeans(dissimilarity, centers=13)
+resultKmeans = kmeans(dissimilarity, centers=6)
 #save(resultKmeans, file='resultKmeans.rda')
 #load(file="resultKmeans.rda", )
 clustered_users = data.frame(user=substring(colnames(dissimilarity),2), cluster=resultKmeans$cluster)

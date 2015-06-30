@@ -1,0 +1,97 @@
+> results = dbscan(data = dissimilarity, eps=0.09, MinPts= 100, method="dist", showplot=F, )
+> results
+dbscan Pts=8504 MinPts=100 eps=0.09
+          0    1   2   3
+border 3980 1766 205 137
+seed      0 2153 183  80
+total  3980 3919 388 217
+> clusterStatsdbscan = cluster.stats(d = dissimilarity, clustering= results$cluster)
+Mensagens de aviso perdidas:
+In cluster.stats(d = dissimilarity, clustering = results$cluster) :
+  clustering renumbered because maximum != number of clusters
+> mean(clusterStatsdbscan$clus.avg.silwidths)
+[1] 0.4601671
+> clusterStatsdbscan$clus.avg.silwidths
+         1          2          3          4 
+-0.1981838  0.4775892  0.7361190  0.8251440 
+
+
+results = dbscan(data = dissimilarity, eps=0.08, MinPts= 100, method="dist", showplot=F, )
+> results
+dbscan Pts=8504 MinPts=100 eps=0.08
+          0    1   2   3
+border 4522 1669 200 141
+seed      0 1769 145  58
+total  4522 3438 345 199
+> clusterStatsdbscan = cluster.stats(d = dissimilarity, clustering= results$cluster)
+Mensagens de aviso perdidas:
+In cluster.stats(d = dissimilarity, clustering = results$cluster) :
+  clustering renumbered because maximum != number of clusters
+> mean(clusterStatsdbscan$clus.avg.silwidths)
+[1] 0.481053
+> clusterStatsdbscan$clus.avg.silwidths
+         1          2          3          4 
+-0.2133180  0.5295201  0.7644328  0.8435771 
+
+
+> results = dbscan(data = dissimilarity, eps=0.07, MinPts= 100, method="dist", showplot=F, )
+> results
+dbscan Pts=8504 MinPts=100 eps=0.07
+          0    1   2   3
+border 5178 1562 149 144
+seed      0 1339 112  20
+total  5178 2901 261 164
+> clusterStatsdbscan = cluster.stats(d = dissimilarity, clustering= results$cluster)
+Mensagens de aviso perdidas:
+In cluster.stats(d = dissimilarity, clustering = results$cluster) :
+  clustering renumbered because maximum != number of clusters
+> mean(clusterStatsdbscan$clus.avg.silwidths)
+[1] 0.515411
+> clusterStatsdbscan$clus.avg.silwidths
+         1          2          3          4 
+-0.2329405  0.5839295  0.8355151  0.8751398 
+
+
+> results = dbscan(data = dissimilarity, eps=0.07, MinPts= 100, method="dist", showplot=F, )
+> results
+dbscan Pts=8504 MinPts=100 eps=0.07
+          0    1   2   3
+border 5178 1562 149 144
+seed      0 1339 112  20
+total  5178 2901 261 164
+> clusterStatsdbscan = cluster.stats(d = dissimilarity, clustering= results$cluster)
+Mensagens de aviso perdidas:
+In cluster.stats(d = dissimilarity, clustering = results$cluster) :
+  clustering renumbered because maximum != number of clusters
+> mean(clusterStatsdbscan$clus.avg.silwidths)
+[1] 0.515411
+> clusterStatsdbscan$clus.avg.silwidths
+         1          2          3          4 
+-0.2329405  0.5839295  0.8355151  0.8751398 
+> results = dbscan(data = dissimilarity, eps=0.06, MinPts= 100, method="dist", showplot=F, )
+> clusterStatsdbscan = cluster.stats(d = dissimilarity, clustering= results$cluster)
+Mensagens de aviso perdidas:
+In cluster.stats(d = dissimilarity, clustering = results$cluster) :
+  clustering renumbered because maximum != number of clusters
+> clusterStatsdbscan$clus.avg.silwidths
+         1          2          3          4 
+-0.2579650  0.6470210  0.8617650  0.9259749 
+> mean(clusterStatsdbscan$clus.avg.silwidths)
+[1] 0.544199
+
+> results = dbscan(data = dissimilarity, eps=0.06, MinPts= 100, method="dist", showplot=F, )
+> results
+dbscan Pts=8504 MinPts=100 eps=0.06
+          0    1   2   3
+border 5878 1365 151 102
+seed      0  930  77   1
+total  5878 2295 228 103
+> clusterStatsdbscan = cluster.stats(d = dissimilarity, clustering= results$cluster)
+Mensagens de aviso perdidas:
+In cluster.stats(d = dissimilarity, clustering = results$cluster) :
+  clustering renumbered because maximum != number of clusters
+> mean(clusterStatsdbscan$clus.avg.silwidths)
+[1] 0.544199
+> clusterStatsdbscan$clus.avg.silwidths
+         1          2          3          4 
+-0.2579650  0.6470210  0.8617650  0.9259749 

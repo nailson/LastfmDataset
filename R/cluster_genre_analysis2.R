@@ -27,3 +27,4 @@ top_genres_result$count = top_genres_result$count*100
 
 top_genres_result = top_genres_result[top_genres_result$cluster!=0,]
 write.table(top_genres_result[,c(4,3)], col.names = F, row.names = F, sep="\t", quote = F, file="dots_plot.tsv")
+
