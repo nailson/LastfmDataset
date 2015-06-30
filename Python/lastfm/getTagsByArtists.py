@@ -9,7 +9,7 @@ import urllib2 as ul
 
 
 api_key = '592caeca2bae6d0bf5a7a4c50038f842'
-limit_per_page = 100
+limit_per_page = 10
 method = 'artist.getTopTags'
 page_number = 1
 user_id = 'rj'
@@ -18,7 +18,7 @@ user_id = 'rj'
 def read_the_dataset(the_dataset_file):
 
 	with file(the_dataset_file,'r') as infile:
-		f = open('/home/nailson/Documentos/tags.txt', 'a')
+		f = open('/home/nailson/Documentos/tags_mbid.txt', 'a')
         
         	#f.write("artistMbid\"\t\"tagname\"\t\"tagcount\"\t\"tagurl\"\n")
 
@@ -101,7 +101,10 @@ def getTracks_by_User(artistMbid, f):
 				except(IndexError,TypeError):
 					#print(string_request + options + '&page=' + str(page_number))
 					print("Index Error")
-
+					tagName = str(unicode( jsonResult['toptags']['tag']['name'] ).encode('ascii', 'ignore'))
+					tagCount =  jsonResult['toptags']['tag']['count']
+					tagUrl =  str(unicode(  jsonResult['toptags']['tag']['url'] ).encode('ascii', 'ignore'))
+					f.write(artistMbid+"\t"+tagName+"\t"+tagCount+"\t"+tagUrl+"\n")
 					#print(jsonResult['toptracks']['track']['name'])
 					#print(artistMbid)
 					continue
@@ -121,7 +124,7 @@ if __name__ == "__main__":
 
 	# Read the _empty file (the task)
     
-	read_the_dataset('not_tags_mbid.tsv')
+	read_the_dataset('not_have_tag_mbid.tsv')
 	#getTracks_by_User('dr')
 
 	print 'done.'
