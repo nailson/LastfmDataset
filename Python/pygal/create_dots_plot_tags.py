@@ -23,10 +23,10 @@ def read_the_dataset(the_dataset_file):
 
 	dot_chart = pygal.Dot( x_label_rotation=30, style=SolidColorStyle, show_legend=False, 
 		truncate_label=17, spacing=10, tooltip_border_radius=10, show_x_guides = False, show_y_guides = True,
-		x_title='Cluster', y_title='Genres')
-	dot_chart.title = 'Genres weights by Cluster'
+		x_title='Cluster', y_title='Tags')
+	dot_chart.title = 'Tags weights by Cluster'
 	dot_chart.value_formatter = lambda x: "%.2f" % x
-	dot_chart.x_labels = ['Mixed', 'Indie', 'Alternative', 'Punk', 'Metal', 'Ecletic Rock']
+	dot_chart.x_labels = ['Indie Rock', 'Pop', 'Hip Hop']
 
 	for key in streetno.keys():
 		dot_chart.add(key, streetno[key])
