@@ -2,11 +2,11 @@
 allItem_ILS_Dataset = allItem_ILS_Test
 allItem_ILS_BPRMF = allItem_ILS_KNN
 
-boxplot(allItem_ILS_Dataset$ILS_5)
-summary(allItem_ILS_Dataset$ILS_5)
+boxplot(allItem_ILS_Dataset$ILS_20)
+summary(allItem_ILS_Dataset$ILS_20)
 
 
-plot(sort(allItem_ILS_Dataset$ILS_5))
+plot(sort(allItem_ILS_Dataset$ILS_20))
 
 merged_ILS = merge(allItem_ILS_Dataset, allItem_ILS_BPRMF, by.x="User", by.y="User", )
 colnames(merged_ILS) = c("User", "Profile_ILS", "BPFMF_ILS")

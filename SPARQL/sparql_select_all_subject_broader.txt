@@ -1,0 +1,8 @@
+SELECT ?o, ?s
+
+WHERE { 
+            ?o rdf:type <http://www.w3.org/2004/02/skos/core#Concept>.
+            ?o <http://www.w3.org/2004/02/skos/core#broader> ?s.
+     }
+
+OFFSET 20000 LIMIT 10000
