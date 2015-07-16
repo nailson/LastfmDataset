@@ -7,7 +7,7 @@ artist_genre <- read.delim("../new data/artist relation/artist_genre.tsv", heade
 # NOT in MAP
 x = artist_genre[!(artist_genre$V2%in%map_genre$V1),]
 x = data.frame( V1 = unique(x$V2))
-#x = x[order(x$V1),]
+x = x[order(x$V1),]
 #write.table(x, file="new_genre.tsv", col.names=F, row.names=F, quote=F, sep="\t")
 
 # NEW ID TO NEW GENRE
