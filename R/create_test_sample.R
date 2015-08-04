@@ -1,6 +1,10 @@
 
 
 dataset_norm <- read.delim("~/GitHub/LastfmDataset/new data/dataset_norm.tsv", header=F)
+UserKNN0_30 <- read.delim("~/GitHub/Recommendations/KNN/UserKNN0_30.txt", header=F)
+test_0 <- read.delim("~/GitHub/Recommendations/data/test_0.csv", header=F)
+train_0 <- read.delim("~/GitHub/Recommendations/data/train_0.csv", header=F)
+
 
 user_test = unique(dataset_norm$V1)
 
