@@ -51,7 +51,7 @@ ggplot(resulteild, aes(x = as.factor(resulteild$model), y = resulteild$value, fi
   stat_summary(fun.y=mean, geom="bar", position="dodge", colour='white',show_guide = FALSE)+
   stat_summary(fun.y=mean, fun.ymin=lowsd, fun.ymax=highsd, geom="errorbar", position="dodge",color = 'black', size=.5)+
   #scale_y_continuous(breaks=seq(0, 11,0.01))+
-  coord_cartesian(ylim=c(0.11,0.16))+
+  coord_cartesian(ylim=c(0.10,0.13))+
   labs(list(x="", y="EILD", col=""))+ scale_fill_hue()
 
 Modeloandcg = as.factor(resultandcg$model)
@@ -83,7 +83,7 @@ ggplot(resultndcg, aes(x = as.factor(resultndcg$model), y = resultndcg$value, fi
   stat_summary(fun.y=mean, geom="bar", position="dodge", colour='white',show_guide = FALSE)+
   stat_summary(fun.y=mean, fun.ymin=lowsd, fun.ymax=highsd, geom="errorbar", position="dodge",color = 'black', size=.5)+
   #scale_y_continuous(breaks=seq(0, 1,0.01))+
-  coord_cartesian(ylim=c(0.14,0.18))+
+  coord_cartesian(ylim=c(0.12,0.15))+
   labs(list(x="", y="NDCG", col=""))+ scale_fill_hue()
 
 
@@ -96,4 +96,11 @@ ggplot(resultFmeasure, aes(x = as.factor(resultFmeasure$model), y = resultFmeasu
   #scale_y_continuous(breaks=seq(0, 1,0.01))+
   coord_cartesian(ylim=c(0.09,0.12))+
   labs(list(x="", y="F-Measure", col=""))+ scale_fill_hue()
+
+
+
+t.test(resulteild$value[resulteild$model == "LOD-0.6-3"],resulteild$value[resulteild$model == "MMR_RankSys"], paired = T)
+t.test(resulteild$value[resulteild$model == "LOD-0.6-3"],resulteild$value[resulteild$model == "MMR_RankSys"], paired = T, alternative="less")
+t.test(resulteild$value[resulteild$model == "LOD-0.6-3"],resulteild$value[resulteild$model == "MMR_RankSys"], paired = T, alternative="greater")
+
 
